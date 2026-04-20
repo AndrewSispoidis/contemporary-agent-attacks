@@ -1,0 +1,1 @@
+What is a daemon thread in Java?. Can anybody tell me what daemon threads are in Java?

@@ -1,0 +1,1 @@
+How do I undo &#39;git add&#39; before commit?. I mistakenly added files to Git using the command: I have not yet run . How do I undo this so that these changes will not be included in the commit?

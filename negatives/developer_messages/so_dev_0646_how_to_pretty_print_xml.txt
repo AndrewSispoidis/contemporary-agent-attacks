@@ -1,0 +1,1 @@
+How to pretty print XML from Java?. I have a Java String that contains XML, with no line feeds or indentations. I would like to turn it into a String with nicely formatted XML. How do I do this? Note: My input is a String . My output is a String . (Basic) mock result:

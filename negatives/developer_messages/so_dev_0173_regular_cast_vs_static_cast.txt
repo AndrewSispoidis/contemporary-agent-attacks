@@ -1,0 +1,1 @@
+Regular cast vs. static_cast vs. dynamic_cast. I've been writing C and C++ code for almost twenty years, but there's one aspect of these languages that I've never really understood. I've obviously used regular casts i.e. all over the place, but there seem to be two other types of casts, and I don't know the difference. What's the difference between the following lines of code?

@@ -1,0 +1,1 @@
+Protocol Buffer vs Json - when to choose one over the other?. Can anyone explain when to use protocol buffer instead of JSON (and vice versa) for a microservices architecture? Both for synchronous and asynchronous communication.

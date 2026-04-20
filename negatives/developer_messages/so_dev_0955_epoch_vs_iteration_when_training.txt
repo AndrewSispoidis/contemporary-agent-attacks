@@ -1,0 +1,1 @@
+Epoch vs Iteration when training neural networks. What is the difference between epoch and iteration when training a multi-layer perceptron?

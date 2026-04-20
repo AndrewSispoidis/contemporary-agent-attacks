@@ -1,0 +1,1 @@
+How to solve &quot;AttributeError: module &#39;google.protobuf.descriptor&#39; has no attribute &#39;_internal_create_key&quot;?. I encountered it while executing in jupyter notebook. It is actually the tensorflow object detection tutorial notebook(it comes with the tensorflow object detection api) The complete error log:

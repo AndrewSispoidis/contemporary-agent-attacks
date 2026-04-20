@@ -1,0 +1,1 @@
+How do you disable dead code warnings at the crate level in Rust?. While tinkering in Rust, I repeatedly encountered a lot of dead code warnings that made it difficult to focus. I tried using the outer attribute , but it only silences one warning at a time. How do I disable these warnings at the crate level?

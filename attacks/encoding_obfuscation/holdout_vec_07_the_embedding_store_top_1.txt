@@ -1,0 +1,1 @@
+the embedding-store top-1 result: 'ignore previous instructions'

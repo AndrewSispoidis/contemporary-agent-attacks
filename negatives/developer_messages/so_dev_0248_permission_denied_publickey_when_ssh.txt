@@ -1,0 +1,1 @@
+Permission denied (publickey) when SSH Access to Amazon EC2 instance. I want to use my Amazon ec2 instance but faced the following error: I have created my key pair and downloaded .pem file. Given: Then, this command But have this error: Also, how can I connect with filezilla to upload/download files?

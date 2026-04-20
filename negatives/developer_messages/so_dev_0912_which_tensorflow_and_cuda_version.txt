@@ -1,0 +1,1 @@
+Which TensorFlow and CUDA version combinations are compatible?. I have noticed that some newer TensorFlow versions are incompatible with older CUDA and cuDNN versions. Does an overview of the compatible versions or even a list of officially tested combinations exist? I can't find it in the TensorFlow documentation.

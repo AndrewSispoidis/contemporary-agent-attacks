@@ -1,0 +1,1 @@
+Heartbleed (CVE-2014-0160) is in our compliance training but I don't think I really understand what made it so severe. Can you explain why a 'small bug' caused such a huge incident?

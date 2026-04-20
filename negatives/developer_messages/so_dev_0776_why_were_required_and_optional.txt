@@ -1,0 +1,1 @@
+Why were `required` and `optional` removed in Protocol Buffers 3?. I noticed that and have been removed in the new syntax. Why were / removed in proto3? Such keywords introduce constraints which should improve robustness. proto2: proto3: UPDATE: has been reintroduced in protobuf v3.15+.

@@ -1,0 +1,1 @@
+What does model.eval() do in pytorch?. When should I use ? I understand it is supposed to allow me to "evaluate my model". How do I turn it back off for training? Example training code using .

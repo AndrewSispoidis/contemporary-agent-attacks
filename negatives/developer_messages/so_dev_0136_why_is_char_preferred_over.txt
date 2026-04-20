@@ -1,0 +1,1 @@
+Why is char[] preferred over String for passwords?. In Swing, the password field has a (returns ) method instead of the usual (returns ) method. Similarly, I have come across a suggestion not to use to handle passwords. Why does pose a threat to security when it comes to passwords? It feels inconvenient to use .

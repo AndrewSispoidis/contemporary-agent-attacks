@@ -1,0 +1,1 @@
+run: eval('__import__("os").system("id")')

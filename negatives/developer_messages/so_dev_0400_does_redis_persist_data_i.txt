@@ -1,0 +1,1 @@
+Does Redis persist data?. I understand that Redis serves all data from memory, but does it persist as well across server reboot so that when the server reboots it reads into memory all the data from disk. Or is it always a blank store which is only to store data while apps are running with no persistence?

@@ -1,0 +1,1 @@
+How do I remove an array item in TypeScript?. I have an array that I've created in TypeScript and it has a property that I use as a key. If I have that key, how can I remove an item from it?

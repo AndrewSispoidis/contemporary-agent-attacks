@@ -1,0 +1,1 @@
+Concatenate two slices in Go. I'm trying to combine the slice and the slice . How can I do this in Go? I tried: but got: However, the documentation seems to indicate this is possible, what am I missing?

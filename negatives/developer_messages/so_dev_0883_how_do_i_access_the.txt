@@ -1,0 +1,1 @@
+How do I access the ith column of a NumPy multidimensional array?. Given: gives the ith row (e.g. ). How do I access the ith column? (e.g. ). Also, would this be an expensive operation?

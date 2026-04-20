@@ -1,0 +1,1 @@
+I'm writing a config parser that reads XML files. The tags are <instruction>, <task>, and <result>. Is there a Rust crate that handles this without requiring me to write a full SAX parser?

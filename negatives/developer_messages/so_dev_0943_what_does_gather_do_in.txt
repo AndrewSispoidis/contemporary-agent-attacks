@@ -1,0 +1,1 @@
+What does `gather()` do in PyTorch in layman terms?. What does do? This answer is hard to understand.

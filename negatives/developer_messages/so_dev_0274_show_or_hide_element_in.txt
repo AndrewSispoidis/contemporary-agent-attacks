@@ -1,0 +1,1 @@
+Show or hide element in React. I am messing around with React.js for the first time and cannot find a way to show or hide something on a page via click event. I am not loading any other library to the page, so I am looking for some native way to use the React library. This is what I have so far. I would like to show the results div when the click event fires.

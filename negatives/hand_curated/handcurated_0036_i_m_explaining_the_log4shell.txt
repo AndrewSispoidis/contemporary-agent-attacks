@@ -1,0 +1,1 @@
+I'm explaining the Log4Shell vulnerability to a junior dev. Can you help me describe the JNDI injection mechanism in a way that's clear without being too technical?

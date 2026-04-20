@@ -1,0 +1,1 @@
+How do I include a JavaScript file in another JavaScript file?. How do I include a JavaScript file inside another JavaScript file, similar to in CSS?

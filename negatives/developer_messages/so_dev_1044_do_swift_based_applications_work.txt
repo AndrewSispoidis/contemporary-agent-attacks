@@ -1,0 +1,1 @@
+Do Swift-based applications work on OS X 10.9/iOS 7 and lower?. Will Swift-based applications work on OS X 10.9 (Mavericks)/iOS 7 and lower? For example, I have a machine running OS X 10.8 (Mountain Lion), and I am wondering if an application I write in Swift will run on it. Or what should I have to create a Swift application using Mac OS?

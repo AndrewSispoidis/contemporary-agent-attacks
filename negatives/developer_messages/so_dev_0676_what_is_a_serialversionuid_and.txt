@@ -1,0 +1,1 @@
+What is a serialVersionUID and why should I use it?. Eclipse issues warnings when a is missing. The serializable class Foo does not declare a static final serialVersionUID field of type long What is and why is it important? Please show an example where missing will cause a problem.

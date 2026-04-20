@@ -1,0 +1,1 @@
+ElasticSearch, Sphinx, Lucene, Solr, Xapian. Which fits for which usage?. I'm currently looking at other search methods rather than having a huge SQL query. I saw elasticsearch recently and played with whoosh (a Python implementation of a search engine). Can you give reasons for your choice(s)?

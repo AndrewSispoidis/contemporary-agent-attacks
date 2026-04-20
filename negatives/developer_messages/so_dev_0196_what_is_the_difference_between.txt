@@ -1,0 +1,1 @@
+What is the difference between ports and expose in docker-compose?. What is the difference between and options in ?

@@ -1,0 +1,1 @@
+How can I use grep to show just filenames on Linux?. How can I use grep to show just file-names (no in-line matches) on Linux? I am usually using something like: How can I just get the file-names (with paths), but without the matches? Do I have to use xargs ? I didn't see a way to do this on my grep man page.

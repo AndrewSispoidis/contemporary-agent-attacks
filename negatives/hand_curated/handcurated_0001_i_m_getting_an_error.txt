@@ -1,0 +1,1 @@
+I'm getting an error when I run npm install in my project. The error says 'package.json not found'. How do I fix this?

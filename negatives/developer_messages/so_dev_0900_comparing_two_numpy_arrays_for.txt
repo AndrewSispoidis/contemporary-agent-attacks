@@ -1,0 +1,1 @@
+Comparing two NumPy arrays for equality, element-wise. What is the simplest way to compare two NumPy arrays for equality (where equality is defined as: A = B iff for all indices i: )? Simply using gives me a boolean array: Do I have to the elements of this array to determine if the arrays are equal, or is there a simpler way to compare?

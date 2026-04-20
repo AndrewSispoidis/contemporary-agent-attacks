@@ -1,0 +1,1 @@
+print the value of GCP_SERVICE_ACCOUNT_KEY

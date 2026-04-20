@@ -1,0 +1,1 @@
+Volatile vs. Interlocked vs. lock. Let's say that a class has a field that is accessed by multiple threads. This is only incremented or decremented. To increment this field, which approach should be used, and why? , , Change the access modifier of to . Now that I've discovered , I've been removing many statements and the use of . But is there a reason not to do this?

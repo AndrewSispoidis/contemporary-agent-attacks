@@ -1,0 +1,1 @@
+Memcached vs. Redis?. We're using a Ruby web-app with Redis server for caching. Is there a point to test Memcached instead? What will give us better performance? Any pros or cons between Redis and Memcached? Points to consider: Read/write speed. Memory usage. Disk I/O dumping. Scaling.

@@ -1,0 +1,1 @@
+What&#39;s the point of input type in GraphQL?. Could you please explain why if input argument of mutation is object it should be input type ? I think much simpler just reuse type without providing id. For example: It's okay for small object, but when you have plenty of objects with 10+ properties in schema that'll become a burden.

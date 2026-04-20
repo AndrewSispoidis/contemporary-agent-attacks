@@ -1,0 +1,1 @@
+@Resource vs @Autowired. Which annotation, @Resource ( jsr250 ) or @Autowired (Spring-specific) should I use in DI? I have successfully used both in the past, and My instinct is to stick with the tag since it's been ratified by the jsr people. Anyone has strong thoughts on this?

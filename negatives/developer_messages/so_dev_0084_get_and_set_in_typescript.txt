@@ -1,0 +1,1 @@
+get and set in TypeScript. I'm trying to create get and set method for a property: What's the keyword to set a value?

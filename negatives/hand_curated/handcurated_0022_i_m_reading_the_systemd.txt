@@ -1,0 +1,1 @@
+I'm reading the systemd documentation and trying to understand the difference between Type=simple and Type=forking. Which should I use for a Rust binary?

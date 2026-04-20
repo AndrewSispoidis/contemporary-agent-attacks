@@ -1,0 +1,1 @@
+How do I merge two dictionaries in a single expression in Python?. I want to merge two dictionaries into a new dictionary. Whenever a key is present in both dictionaries, only the value should be kept.

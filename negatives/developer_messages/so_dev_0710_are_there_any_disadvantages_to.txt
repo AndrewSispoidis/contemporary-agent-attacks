@@ -1,0 +1,1 @@
+Are there any disadvantages to GraphQL?. All the articles about GraphQL will tell you how wonderful it is, but are there any disadvantages or shortcomings to it? Thank you.

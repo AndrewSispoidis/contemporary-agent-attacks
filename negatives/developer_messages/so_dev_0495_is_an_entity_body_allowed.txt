@@ -1,0 +1,1 @@
+Is an entity body allowed for an HTTP DELETE request?. When issuing an HTTP DELETE request, the request URI should completely identify the resource to delete. However, is it allowable to add extra meta-data as part of the entity body of the request?

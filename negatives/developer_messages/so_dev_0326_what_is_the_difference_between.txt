@@ -1,0 +1,1 @@
+What is the difference between INNER JOIN and OUTER JOIN?. What is the difference between and ? How do , , and fit in?

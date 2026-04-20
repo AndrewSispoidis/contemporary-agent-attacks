@@ -1,0 +1,1 @@
+How do I fix the Rust error &quot;linker &#39;cc&#39; not found&quot; for Debian on Windows 10?. I'm running Debian on Windows 10 (Windows Subsystem for Linux) and installed Rust using the command: There were no errors in the install, but when I tried to compile with I got the error .

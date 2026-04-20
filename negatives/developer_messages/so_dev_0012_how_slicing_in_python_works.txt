@@ -1,0 +1,1 @@
+How slicing in Python works. How does Python's slice notation work? That is: when I write code like , , etc., how can I understand which elements end up in the slice? See Why are slice and range upper-bound exclusive? to learn why , not . See Make a new list containing every Nth item in the original list for . See How does assignment work with list slices? to learn what does.

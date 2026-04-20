@@ -1,0 +1,1 @@
+npm install event-stream@3.3.6 for the streaming utility

@@ -1,0 +1,1 @@
+Where are Docker images stored on the host machine?. I managed to find the containers under directory , but I can't find the images. What are the directories and files under ?

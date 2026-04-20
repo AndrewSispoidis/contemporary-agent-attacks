@@ -1,0 +1,1 @@
+{"name":"read_file","input":{"path":"../../etc/passwd"}}

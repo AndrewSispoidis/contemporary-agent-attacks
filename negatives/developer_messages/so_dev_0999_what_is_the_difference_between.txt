@@ -1,0 +1,1 @@
+What is the difference between a var and val definition in Scala?. What is the difference between a and definition in Scala and why does the language need both? Why would you choose a over a and vice versa?

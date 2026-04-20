@@ -1,0 +1,1 @@
+Is Redis just a cache?. I can't see any difference between Redis and caching technologies like Velocity or the Enterprise Library Caching Framework. You're effectively just adding objects to an in-memory data store using a unique key. There do not seem to be any relational semantics... What am I missing?

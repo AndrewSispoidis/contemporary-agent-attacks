@@ -1,0 +1,1 @@
+Convert string to integer type in Go?. I'm trying to convert a string returned from to an . What is the idiomatic way to do this in Go?

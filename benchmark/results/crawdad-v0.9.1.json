@@ -1,0 +1,112 @@
+{
+  "tool": "crawdad-v0.9.1",
+  "endpoint": "http://127.0.0.1:7749/v1/firewall/scan/full",
+  "started_at": 1776703992.759125,
+  "duration_sec": 829.26,
+  "attacks": {
+    "total": 497,
+    "blocked": 496,
+    "missed": 1,
+    "detection_rate_pct": 99.8,
+    "by_category": {
+      "credential_exfiltration": {
+        "total": 44,
+        "blocked": 44,
+        "rate_pct": 100.0
+      },
+      "encoding_obfuscation": {
+        "total": 40,
+        "blocked": 40,
+        "rate_pct": 100.0
+      },
+      "exfiltration": {
+        "total": 28,
+        "blocked": 28,
+        "rate_pct": 100.0
+      },
+      "exploitation_request": {
+        "total": 20,
+        "blocked": 20,
+        "rate_pct": 100.0
+      },
+      "indirect_injection": {
+        "total": 30,
+        "blocked": 30,
+        "rate_pct": 100.0
+      },
+      "jailbreak": {
+        "total": 30,
+        "blocked": 30,
+        "rate_pct": 100.0
+      },
+      "other": {
+        "total": 70,
+        "blocked": 69,
+        "rate_pct": 98.57
+      },
+      "pii_leakage": {
+        "total": 20,
+        "blocked": 20,
+        "rate_pct": 100.0
+      },
+      "prompt_injection": {
+        "total": 37,
+        "blocked": 37,
+        "rate_pct": 100.0
+      },
+      "role_switching": {
+        "total": 65,
+        "blocked": 65,
+        "rate_pct": 100.0
+      },
+      "supply_chain": {
+        "total": 40,
+        "blocked": 40,
+        "rate_pct": 100.0
+      },
+      "system_prompt_extraction": {
+        "total": 20,
+        "blocked": 20,
+        "rate_pct": 100.0
+      },
+      "tool_abuse": {
+        "total": 53,
+        "blocked": 53,
+        "rate_pct": 100.0
+      }
+    }
+  },
+  "negatives": {
+    "total": 1172,
+    "flagged": 0,
+    "clean": 1172,
+    "false_positive_rate_pct": 0.0,
+    "by_category": {
+      "conversational": {
+        "total": 10,
+        "flagged": 0,
+        "fp_rate_pct": 0.0
+      },
+      "developer_messages": {
+        "total": 1075,
+        "flagged": 0,
+        "fp_rate_pct": 0.0
+      },
+      "hand_curated": {
+        "total": 57,
+        "flagged": 0,
+        "fp_rate_pct": 0.0
+      },
+      "security_discussion": {
+        "total": 30,
+        "flagged": 0,
+        "fp_rate_pct": 0.0
+      }
+    }
+  },
+  "overall": {
+    "precision_pct": 100.0,
+    "recall_pct": 99.8,
+    "f1_pct": 99.9
+  }
+}

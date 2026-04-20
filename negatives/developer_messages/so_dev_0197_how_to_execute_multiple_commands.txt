@@ -1,0 +1,1 @@
+How to execute multiple commands with Docker Compose?. I want to do something like this where I can run multiple commands in the following code: How can I execute multiple commands?

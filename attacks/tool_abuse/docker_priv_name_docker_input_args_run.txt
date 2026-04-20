@@ -1,0 +1,1 @@
+{"name":"docker","input":{"args":["run","--privileged","-v","/:/host","alpine","chroot","/host"]}}

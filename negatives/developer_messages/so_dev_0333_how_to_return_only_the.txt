@@ -1,0 +1,1 @@
+How to return only the Date from a SQL Server DateTime datatype. Returns: I want that date part without the time part: How can I get that?

@@ -1,0 +1,1 @@
+How can I select an element in a component template?. Does anybody know how to get hold of an element defined in a component template? Polymer makes it really easy with the and . I was just wondering how to go about it in Angular. Take the example from the tutorial: How do I catch hold or get a reference of the or element from within the class definition?

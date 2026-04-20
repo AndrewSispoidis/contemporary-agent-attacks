@@ -1,0 +1,1 @@
+What are the differences between Rust&#39;s `String` and `str`?. Why does Rust have both and ? What are the differences between them, and when should one be used over the other? Is one of them getting deprecated?

@@ -1,0 +1,1 @@
+Multiprocessing vs Threading Python. I am trying to understand the advantages of multiprocessing over threading . I know that multiprocessing gets around the Global Interpreter Lock, but what other advantages are there, and can threading not do the same thing?

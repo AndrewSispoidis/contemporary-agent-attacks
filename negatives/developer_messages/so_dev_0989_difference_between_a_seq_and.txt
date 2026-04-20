@@ -1,0 +1,1 @@
+Difference between a Seq and a List in Scala. I've seen in many examples that sometimes a Seq is being used, while other times is the List... Is there any difference, other than the former one being a Scala type and the List coming from Java?

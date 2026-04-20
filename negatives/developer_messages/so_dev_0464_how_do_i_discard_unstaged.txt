@@ -1,0 +1,1 @@
+How do I discard unstaged changes in Git?. How do I discard changes in my working copy that are not in the index?

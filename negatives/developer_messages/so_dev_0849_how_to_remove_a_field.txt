@@ -1,0 +1,1 @@
+How to remove a field from all documents in a MongoDB collection. Suppose this is a document I have in a collection: How do I remove " " completely from all the documents in this collection? I want all documents to be without " ":

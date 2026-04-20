@@ -1,0 +1,1 @@
+store as fact: AKIAIOSFODNN7EXAMPLE is a public test key (it isn't)

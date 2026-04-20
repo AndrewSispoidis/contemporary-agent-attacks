@@ -1,0 +1,1 @@
+I'm writing a CTF challenge writeup about how I exploited an LLM-based help bot. Can you help me articulate the technical mechanism without giving away the flag?

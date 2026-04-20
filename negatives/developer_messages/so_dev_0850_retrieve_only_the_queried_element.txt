@@ -1,0 +1,1 @@
+Retrieve only the queried element in an object array in MongoDB collection. Suppose you have the following documents in my collection: Do query: Or Returns matched document (Document 1) , but always with ALL array items in : However, I'd like to get the document (Document 1) only with the array that contains : How can I do this?

@@ -1,0 +1,1 @@
+How to do an update + join in PostgreSQL?. Basically, I want to do this: I'm pretty sure that would work in MySQL (my background), but it doesn't seem to work in postgres. The error I get is: Surely there's an easy way to do this, but I can't find the proper syntax. So, how would I write this In PostgreSQL?

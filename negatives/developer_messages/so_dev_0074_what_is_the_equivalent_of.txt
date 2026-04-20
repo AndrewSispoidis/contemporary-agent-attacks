@@ -1,0 +1,1 @@
+What is the equivalent of the join operator over a vector of Strings?. I wasn't able to find the Rust equivalent for the "join" operator over a vector of s. I have a and I'd like to join them as a single : Related: What's an idiomatic way to print an iterator separated by spaces in Rust?

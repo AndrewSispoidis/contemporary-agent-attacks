@@ -1,0 +1,1 @@
+What is the difference between public, protected, package-private and private in Java?. In Java, are there clear rules on when to use each of access modifiers, namely the default (package private), , and , while making and and dealing with inheritance?

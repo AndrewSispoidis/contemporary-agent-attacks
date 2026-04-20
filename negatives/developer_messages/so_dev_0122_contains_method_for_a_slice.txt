@@ -1,0 +1,1 @@
+Contains method for a slice. Is there anything similar to a method in Go without having to do a search through each element in a slice?

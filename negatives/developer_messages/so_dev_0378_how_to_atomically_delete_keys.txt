@@ -1,0 +1,1 @@
+How to atomically delete keys matching a pattern using Redis. In my Redis DB I have a number of hashes. Sometimes I want to purge them all automatically. How do I do this without using some distributed locking mechanism?

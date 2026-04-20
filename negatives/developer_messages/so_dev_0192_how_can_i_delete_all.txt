@@ -1,0 +1,1 @@
+How can I delete all local Docker images?. I recently started using Docker and never realized that I should use instead of or to get rid of my experiments. I now have a large number of unneeded docker images locally. Is there an option to delete all the local Docker images and containers? Something like ? The option does not exist but I am looking for something to that effect.

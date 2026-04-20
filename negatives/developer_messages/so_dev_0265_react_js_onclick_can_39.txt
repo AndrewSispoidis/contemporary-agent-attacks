@@ -1,0 +1,1 @@
+React js onClick can&#39;t pass value to method. I want to read the onClick event value properties. But when I click on it, I see something like this on the console: My code is working correctly. When I run I can see but can't get it in the onClick event. My Code: How can I pass a value to the event in React js?

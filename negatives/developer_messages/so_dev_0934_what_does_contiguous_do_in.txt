@@ -1,0 +1,1 @@
+What does .contiguous() do in PyTorch?. What does do for a tensor ?

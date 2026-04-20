@@ -1,0 +1,1 @@
+Find all files containing a specific text (string) on Linux. How do I find all files containing a specific string of text within their file contents? The following doesn't work. It seems to display every single file in the system.

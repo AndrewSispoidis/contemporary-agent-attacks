@@ -1,0 +1,1 @@
+WebSockets vs. Server-Sent events/EventSource. Both WebSockets and Server-Sent Events are capable of pushing data to browsers. To me they seem to be competing technologies. What is the difference between them? When would you choose one over the other? Please answer with facts and citations.

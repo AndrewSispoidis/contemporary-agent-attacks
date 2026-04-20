@@ -1,0 +1,1 @@
+Scala list concatenation, ::: vs ++. Is there any difference between and for concatenating lists in Scala? From the documentation it looks like is more general whereas is -specific. Is the latter provided because it's used in other functional languages?

@@ -1,0 +1,1 @@
+What is the difference between Serialization and Marshaling?. I know that in terms of several distributed techniques (such as RPC), the term "Marshaling" is used but don't understand how it differs from Serialization. Aren't they both transforming objects into series of bits? Related: What is Serialization? What is Object Marshalling?

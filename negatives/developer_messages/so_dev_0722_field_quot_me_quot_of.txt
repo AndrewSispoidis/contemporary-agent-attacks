@@ -1,0 +1,1 @@
+Field \&quot;me\&quot; of type \&quot;User\&quot; must have a selection of subfields. Hi I am trying to learn language. I have below snippet of code. Request: Response: Does anyone know what I am doing wrong ? How to fix it ?

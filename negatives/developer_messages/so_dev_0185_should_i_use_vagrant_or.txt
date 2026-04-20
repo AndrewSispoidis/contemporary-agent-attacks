@@ -1,0 +1,1 @@
+Should I use Vagrant or Docker for creating an isolated environment?. I use Ubuntu for development and deployment and have a need for creating an isolated environment. I am considering either Vagrant or Docker for this purpose. What are the pros and cons, or how do these solutions compare?

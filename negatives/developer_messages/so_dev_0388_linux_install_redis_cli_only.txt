@@ -1,0 +1,1 @@
+Linux - Install redis-cli only. I have a Linux server with Redis installed and I want to connect to it via command line from my local Linux machine. Is it possible to install only (without and other tools)? If I just copy file to my local machine and run it, I have the following error:

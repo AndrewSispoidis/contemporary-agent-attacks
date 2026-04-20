@@ -1,0 +1,1 @@
+How to validate phone numbers using regex. I'm trying to put together a comprehensive regex to validate phone numbers. Ideally it would handle international formats, but it must handle US formats, including the following: I'll answer with my current attempt, but I'm hoping somebody has something better and/or more elegant.

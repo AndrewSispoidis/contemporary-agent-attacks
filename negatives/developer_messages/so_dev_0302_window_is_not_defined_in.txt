@@ -1,0 +1,1 @@
+Window is not defined in Next.js React app. In my Next.js app I can't seem to access : Unhandled Rejection (ReferenceError): window is not defined

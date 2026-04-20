@@ -1,0 +1,1 @@
+How to merge YAML arrays?. I would like to merge arrays in YAML, and load them via ruby - I'd like to have the combined array as I receive the error: did not find expected key while parsing a block mapping How do I merge arrays in YAML?

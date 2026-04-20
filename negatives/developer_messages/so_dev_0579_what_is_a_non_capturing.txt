@@ -1,0 +1,1 @@
+What is a non-capturing group in regular expressions?. How are non-capturing groups, i.e., , used in regular expressions and what are they good for?

@@ -1,0 +1,1 @@
+Docker build taking too long when installing grpcio via pip. I have a Dockerfile which installs a few packages via pip. Some of them are requiring , and it takes a few minutes only to build this part. Does anyone have a tip to speed up this part? Thanks.

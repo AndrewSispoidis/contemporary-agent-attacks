@@ -1,0 +1,1 @@
+Kotlin Ternary Conditional Operator. What is the equivalent of this expression in Kotlin? This is not valid code in Kotlin.

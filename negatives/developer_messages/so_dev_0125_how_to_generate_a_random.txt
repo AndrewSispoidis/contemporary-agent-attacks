@@ -1,0 +1,1 @@
+How to generate a random string of a fixed length in Go?. I want a random string of characters only (uppercase or lowercase), no numbers, in Go. What is the fastest and simplest way to do this?

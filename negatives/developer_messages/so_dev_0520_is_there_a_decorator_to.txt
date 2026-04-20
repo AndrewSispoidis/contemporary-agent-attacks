@@ -1,0 +1,1 @@
+Is there a decorator to simply cache function return values?. Consider the following: I'm new, but I think the caching could be factored out into a decorator. Only I didn't find one like it ;) PS the real calculation doesn't depend on mutable values

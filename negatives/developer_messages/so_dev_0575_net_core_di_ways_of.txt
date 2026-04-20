@@ -1,0 +1,1 @@
+.NET Core DI, ways of passing parameters to constructor. Having the following service constructor What are the choices of passing the parameters using .NET Core IOC mechanism Is there any other way ?

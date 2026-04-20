@@ -1,0 +1,1 @@
+How can I check if a program exists from a Bash script?. How would I validate that a program exists, in a way that will either return an error and exit, or continue with the script? It seems like it should be easy, but it's been stumping me.

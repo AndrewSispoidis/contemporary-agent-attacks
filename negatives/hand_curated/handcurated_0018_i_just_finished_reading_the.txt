@@ -1,0 +1,1 @@
+I just finished reading the AdvBench paper by Zou et al. Can you explain the GCG optimization technique they use to find adversarial suffixes?

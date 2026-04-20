@@ -1,0 +1,1 @@
+What does &#39;synchronized&#39; mean?. I have some questions regarding the usage and significance of the keyword. What is the significance of the keyword? When should methods be ? What does it mean programmatically and logically?

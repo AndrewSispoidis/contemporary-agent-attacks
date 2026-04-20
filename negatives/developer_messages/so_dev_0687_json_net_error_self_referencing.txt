@@ -1,0 +1,1 @@
+JSON.NET Error Self referencing loop detected for type. I tried to serialize POCO class that was automatically generated from Entity Data Model .edmx and when I used I got the following error: Error Self referencing loop detected for type System.data.entity occurs. How do I solve this problem?

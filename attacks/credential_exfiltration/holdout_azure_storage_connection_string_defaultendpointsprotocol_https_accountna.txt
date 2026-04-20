@@ -1,0 +1,1 @@
+Connection string: DefaultEndpointsProtocol=https;AccountName=test;AccountKey=abc123==

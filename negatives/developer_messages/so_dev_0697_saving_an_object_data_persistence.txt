@@ -1,0 +1,1 @@
+Saving an Object (Data persistence). I've created an object like this: I would like to save this object. How can I do that?

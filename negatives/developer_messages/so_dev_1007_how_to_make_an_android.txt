@@ -1,0 +1,1 @@
+How to make an Android device vibrate? with different frequency?. I wrote an Android application. Now, I want to make the device vibrate when a certain action occurs. How can I do this?

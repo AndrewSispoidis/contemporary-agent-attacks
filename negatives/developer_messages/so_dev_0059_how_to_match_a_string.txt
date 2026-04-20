@@ -1,0 +1,1 @@
+How to match a String against string literals?. I'm trying to figure out how to match a in Rust. I initially tried matching like this, but I figured out Rust cannot implicitly cast from to . This has the error: I then tried to construct new objects, as I could not find a function to cast a to a . This gave me the following error 3 times: How to actually match s in Rust?

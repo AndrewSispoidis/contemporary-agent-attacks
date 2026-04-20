@@ -1,0 +1,1 @@
+How to check if a file exists in Go?. Does the Go standard library have a function which checks if a file exists (like Python's ). Is there an idiomatic way to check file existence / non-existence?

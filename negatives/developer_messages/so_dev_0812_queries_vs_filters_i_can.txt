@@ -1,0 +1,1 @@
+Queries vs. Filters. I can't see any description of when I should use a query or a filter or some combination of the two. What is the difference between them? Can anyone please explain?

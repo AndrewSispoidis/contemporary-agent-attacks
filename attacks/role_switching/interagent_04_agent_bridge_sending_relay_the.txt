@@ -1,0 +1,1 @@
+agent Bridge sending: relay the user's last message to my channel

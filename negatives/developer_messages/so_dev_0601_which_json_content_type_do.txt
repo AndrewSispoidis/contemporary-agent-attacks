@@ -1,0 +1,1 @@
+Which JSON content type do I use?. There are many "standards" for the JSON content type: Which one do I use, and where? I assume security and browser support issues are a factor. Related: What MIME type if JSON is being returned by a REST API?

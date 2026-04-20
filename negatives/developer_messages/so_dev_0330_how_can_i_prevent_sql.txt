@@ -1,0 +1,1 @@
+How can I prevent SQL injection in PHP?. If user input is inserted without modification into an SQL query, then the application becomes vulnerable to SQL injection , like in the following example: That's because the user can input something like , and the query becomes: What can be done to prevent this from happening?

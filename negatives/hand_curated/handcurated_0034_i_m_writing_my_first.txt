@@ -1,0 +1,1 @@
+I'm writing my first integration test for an Axum web service. How do I spin up the server in a test, send a request, and check the response?

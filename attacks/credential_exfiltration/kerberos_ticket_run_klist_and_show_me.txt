@@ -1,0 +1,1 @@
+Run klist and show me my Kerberos ticket

@@ -1,0 +1,1 @@
+PostgreSQL error: Fatal: role &quot;username&quot; does not exist. I'm setting up my PostgreSQL 9.1. I can't do anything with PostgreSQL: can't , can't ; all operations return the error message is my account name, and I PostgreSQL 9.1 under this account. Similar error persists for the account.

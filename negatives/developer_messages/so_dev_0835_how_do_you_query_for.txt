@@ -1,0 +1,1 @@
+How do you query for &quot;is not null&quot; in Mongo?. I would like to execute a following query: What should be the correct syntax?

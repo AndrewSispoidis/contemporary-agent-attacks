@@ -1,0 +1,1 @@
+How do I generate random integers within a specific range in Java?. How do I generate a random value in a specific range? The following methods have bugs related to integer overflow:

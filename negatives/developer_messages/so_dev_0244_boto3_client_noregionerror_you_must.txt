@@ -1,0 +1,1 @@
+boto3 client NoRegionError: You must specify a region error only sometimes. I have a boto3 client : But it happens on new machines, They open and close dynamically. Why is this happening? and why only part of the time?

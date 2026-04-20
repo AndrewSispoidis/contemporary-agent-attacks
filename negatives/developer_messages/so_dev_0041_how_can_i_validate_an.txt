@@ -1,0 +1,1 @@
+How can I validate an email address in JavaScript?. I'd like to check if the user input is an email address in JavaScript, before sending it to a server or attempting to send an email to it, to prevent the most basic mistyping. How could I achieve this?

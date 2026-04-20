@@ -1,0 +1,1 @@
+I want to git clone a private repo using a deploy key. Where do I configure the SSH key for that specific repo?

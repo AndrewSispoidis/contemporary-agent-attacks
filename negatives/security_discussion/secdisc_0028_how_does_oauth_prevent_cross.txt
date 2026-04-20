@@ -1,0 +1,1 @@
+How does OAuth prevent cross-site request forgery?

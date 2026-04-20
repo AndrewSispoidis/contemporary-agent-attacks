@@ -1,0 +1,1 @@
+Split a String into an array in Swift?. Say I have a string here: I want to split the string based on whitespace and assign the values to their respective variables Also, sometimes users might not have a last name.

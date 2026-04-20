@@ -1,0 +1,1 @@
+Connect to Amazon EC2 file directory using Filezilla and SFTP. I have created an AWS EC2 Instance and I want to be able to upload files to the server directory using FileZilla in the simplest and most straightforward fashion possible.

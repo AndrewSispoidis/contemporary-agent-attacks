@@ -1,0 +1,1 @@
+What does -1 mean in numpy reshape?. A 2D array can be reshaped into a 1D array using . For example: Usually, means the last element. But what does -1 mean here?

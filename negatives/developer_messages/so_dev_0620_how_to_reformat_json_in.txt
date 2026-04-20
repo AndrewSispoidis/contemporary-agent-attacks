@@ -1,0 +1,1 @@
+How to reformat JSON in Notepad++. I need Notepad++ to take a JSON string from this to this... I looked around at all the TextFX options but couldn't find anything that worked.

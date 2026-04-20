@@ -1,0 +1,1 @@
+Using ls to list directories and their total sizes. Is it possible to use in Unix to list the total size of a sub-directory and all its contents as opposed to the usual that (I assume) is just the directory file itself? After scouring the man pages I'm coming up empty.

@@ -1,0 +1,1 @@
+Shouldn&#39;t the login be a Query in GraphQL?. In the tutorial on GraphQL authentication, the is a Mutation : Shouldn't the login be a Query since: The operation has no side-effects on the server. The goal is to query a token. Am I missing something here ?

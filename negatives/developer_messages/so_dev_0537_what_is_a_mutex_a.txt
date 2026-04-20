@@ -1,0 +1,1 @@
+What is a mutex?. A mutex is a programming concept that is frequently used to solve multi-threading problems. My question to the community: What is a mutex and how do you use it?

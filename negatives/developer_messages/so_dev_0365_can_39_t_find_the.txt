@@ -1,0 +1,1 @@
+Can&#39;t find the &#39;libpq-fe.h header when trying to install pg gem. I am using the Ruby on Rails 3.1 pre version. I like to use PostgreSQL, but the problem is installing the gem. It gives me the following error: How do I solve this problem?

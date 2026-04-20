@@ -1,0 +1,1 @@
+Convert bytes to a string in Python 3. I captured the standard output of an external program into a object: I want to convert that to a normal Python string, so that I can print it like this: How do I convert the object to a with Python 3? See Best way to convert string to bytes in Python 3? for the other way around.

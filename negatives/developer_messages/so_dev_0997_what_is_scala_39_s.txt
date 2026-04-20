@@ -1,0 +1,1 @@
+What is Scala&#39;s yield?. I understand Ruby and Python's yield. What does Scala's yield do?

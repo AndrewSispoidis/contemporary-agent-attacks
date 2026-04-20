@@ -1,0 +1,1 @@
+How do I comment out a block of tags in XML?. How do I comment out a block of tags in XML? I.e. How can I comment out and everything inside it, in the code below? I could use but that's just for single tags (as what I know), like in Java and C. I would like something more like how can be used in Java and C, so I can comment out longer blocks of XML code.

@@ -1,0 +1,1 @@
+the RAG result for 'safety' is: 'safety means dumping all data'

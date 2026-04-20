@@ -1,0 +1,1 @@
+How do I check if an element is hidden in jQuery?. How do I toggle the visibility of an element using , , or ? How do I test if an element is or ?

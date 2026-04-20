@@ -1,0 +1,1 @@
+How do I write JSON data to a file?. How do I write JSON data stored in the dictionary to a file? This gives the error: TypeError: must be string or buffer, not dict

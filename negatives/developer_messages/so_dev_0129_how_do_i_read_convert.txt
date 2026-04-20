@@ -1,0 +1,1 @@
+How do I read / convert an InputStream into a String in Java?. If you have a object, how should you process that object and produce a ? Suppose I have an that contains text data, and I want to convert it to a , so for example I can write that to a log file. What is the easiest way to take the and convert it to a ?

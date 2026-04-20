@@ -1,0 +1,1 @@
+What are the key differences between Apache Thrift, Google Protocol Buffers, MessagePack, ASN.1 and Apache Avro?. All of these provide binary serialization, RPC frameworks and IDL. I'm interested in key differences between them and characteristics (performance, ease of use, programming languages support). If you know any other similar technologies, please mention it in an answer.

@@ -1,0 +1,1 @@
+Is there a way to list all resources in AWS. Is there a way to list all resources in AWS? For all regions, all resources.. Such as list all EC2 instances, all VPCs, all APIs in API Gateway, etc... I would like to list all resources for my account, since it's hard for me to find which resources I can relinquish now.

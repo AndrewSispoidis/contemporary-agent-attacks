@@ -1,0 +1,1 @@
+How do I drop a MongoDB database from the command line?. What's the easiest way to do this from my bash prompt?

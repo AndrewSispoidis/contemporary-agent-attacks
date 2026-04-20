@@ -1,0 +1,1 @@
+How to set focus on an input field after rendering?. What's the react way of setting focus on a particular text field after the component is rendered? Documentation seems to suggest using refs, e.g: Set on my input field in the render function, and then call: But where should I call this? I've tried a few places but I cannot get it to work.

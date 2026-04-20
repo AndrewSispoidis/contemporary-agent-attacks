@@ -1,0 +1,1 @@
+My docker-compose service can't connect to the redis container by hostname. What's the right way to set up the network so they can talk?

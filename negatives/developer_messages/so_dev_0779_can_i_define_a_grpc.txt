@@ -1,0 +1,1 @@
+Can I define a grpc call with a null request or response?. Does the rpc syntax in proto3 allow null requests or responses? e.g. I want the equivalent of the following: Or should I just create a null type?

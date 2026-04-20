@@ -1,0 +1,1 @@
+Use a list of values to select rows from a Pandas dataframe. Let’s say I have the following Pandas dataframe: I can subset based on a specific value: But how can I subset based on a list of values? - something like this: To get:

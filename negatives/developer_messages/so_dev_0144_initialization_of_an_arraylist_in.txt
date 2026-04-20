@@ -1,0 +1,1 @@
+Initialization of an ArrayList in one line. I wanted to create a list of options for testing purposes. At first, I did this: Then, I refactored the code as follows: Is there a better way to do this?

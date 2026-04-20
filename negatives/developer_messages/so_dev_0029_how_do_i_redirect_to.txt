@@ -1,0 +1,1 @@
+How do I redirect to another webpage?. How can I redirect the user from one page to another using jQuery or pure JavaScript?

@@ -1,0 +1,1 @@
+How do I parse command line arguments in Bash?. Say, I have a script that gets called with this line: or this one: What's the accepted way of parsing this such that in each case (or some combination of the two) , , and will all be set to and will be equal to ?

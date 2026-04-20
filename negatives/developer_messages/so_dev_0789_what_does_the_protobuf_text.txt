@@ -1,0 +1,1 @@
+What does the protobuf text format look like?. Google Protocol Buffers can not only be serialized in binary format, also be serialized as text , known as textproto. However I can't easily find examples of such text; what would it look like? Expected answer: an example covering all features allowed by the protobuf IDL/proto file including a sample protobuf packet in textual form.

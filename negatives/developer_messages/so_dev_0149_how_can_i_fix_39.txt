@@ -1,0 +1,1 @@
+How can I fix &#39;android.os.NetworkOnMainThreadException&#39;?. I got an error while running my Android project for RssReader. Code: And it shows the below error: How can I fix this issue?

@@ -1,0 +1,1 @@
+Find nearest value in numpy array. How do I find the nearest value in a numpy array? Example:

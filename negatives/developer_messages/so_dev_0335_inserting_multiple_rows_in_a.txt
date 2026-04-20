@@ -1,0 +1,1 @@
+Inserting multiple rows in a single SQL query?. I have multiple set of data to insert at once, say 4 rows. My table has three columns: , and . Can I insert all 4 rows in a single SQL statement?

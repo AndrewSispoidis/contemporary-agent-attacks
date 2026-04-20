@@ -1,0 +1,1 @@
+How do I make Git forget about a file that was tracked, but is now in .gitignore?. I put a file that was previously being tracked by Git onto the list. However, the file still shows up in after it is edited. How do I force Git to completely forget the file?

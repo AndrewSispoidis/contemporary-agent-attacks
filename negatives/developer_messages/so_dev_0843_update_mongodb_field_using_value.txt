@@ -1,0 +1,1 @@
+Update MongoDB field using value of another field. In MongoDB, is it possible to update the value of a field using the value from another field? The equivalent SQL would be something like: And the MongoDB pseudo-code would be:

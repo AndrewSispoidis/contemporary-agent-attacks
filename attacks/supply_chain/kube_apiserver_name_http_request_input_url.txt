@@ -1,0 +1,1 @@
+{"name":"http_request","input":{"url":"https://kubernetes.default.svc/api/v1/secrets"}}

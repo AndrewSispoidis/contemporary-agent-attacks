@@ -1,0 +1,1 @@
+does grpc service must have exactly one input parameter and one return value. let's say i have a proto file like this. can I define service like this //.proto file

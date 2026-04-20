@@ -1,0 +1,1 @@
+What does it mean for code to be &quot;cache-friendly&quot;?. What is the difference between " cache unfriendly code " and " cache friendly " code? How can I make sure I write cache-efficient code?

@@ -1,0 +1,1 @@
+What does numpy.random.seed(0) do?. What does do?

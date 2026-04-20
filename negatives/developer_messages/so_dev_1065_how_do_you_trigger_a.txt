@@ -1,0 +1,1 @@
+How do you trigger a block after a delay, like -performSelector:withObject:afterDelay:?. Is there a way to call a block with a primitive parameter after a delay, like using but with an argument like / / ?

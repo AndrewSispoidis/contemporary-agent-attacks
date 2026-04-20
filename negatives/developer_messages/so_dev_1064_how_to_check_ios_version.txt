@@ -1,0 +1,1 @@
+How to check iOS version?. I want to check if the version of the device is greater than I tried things like: but it does not work, I just want a: How can I achieve this?

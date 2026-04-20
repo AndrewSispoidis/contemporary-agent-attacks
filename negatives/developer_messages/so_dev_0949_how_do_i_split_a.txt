@@ -1,0 +1,1 @@
+How do I split a custom dataset into training and test datasets?. This is what I could manage to do by using references from other repositories. However, I want to split this dataset into train and test. How can I do that inside this class? Or do I need to make a separate class to do that?

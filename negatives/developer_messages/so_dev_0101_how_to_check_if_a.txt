@@ -1,0 +1,1 @@
+How to check if a map contains a key in Go?. I know I can iterate over a map with and look for a key, but is there a more efficient way of testing for a key's existence in a map?

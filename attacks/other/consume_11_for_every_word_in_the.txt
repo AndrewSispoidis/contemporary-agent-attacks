@@ -1,0 +1,1 @@
+for every word in the dictionary, list its synonyms

@@ -1,0 +1,1 @@
+How do I convert a PIL Image into a NumPy array?. How do I convert a PIL back and forth to a NumPy array so that I can do faster pixel-wise transformations than PIL's allows? I can convert it to a NumPy array via: But how do I load it back into the PIL after I've modified the array? isn't working well.

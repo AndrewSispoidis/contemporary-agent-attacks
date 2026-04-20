@@ -1,0 +1,1 @@
+How can I run Tensorboard on a remote server?. I'm new to Tensorflow and would greatly benefit from some visualizations of what I'm doing. I understand that Tensorboard is a useful visualization tool, but how do I run it on my remote Ubuntu machine?

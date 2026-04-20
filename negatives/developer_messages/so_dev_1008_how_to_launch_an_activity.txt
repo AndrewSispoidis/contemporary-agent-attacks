@@ -1,0 +1,1 @@
+How to launch an Activity from another Application in Android. I want to launch an installed package from my Android application. I assume that it is possible using intents, but I didn't find a way of doing it. Is there a link, where to find the information?

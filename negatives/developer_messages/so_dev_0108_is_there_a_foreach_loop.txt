@@ -1,0 +1,1 @@
+Is there a foreach loop in Go?. Is there a construct in the Go language? Can I iterate over a slice or array using a ?

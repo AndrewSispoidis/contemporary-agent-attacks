@@ -1,0 +1,1 @@
+Is there a regular expression to detect a valid regular expression?. Is it possible to detect a valid regular expression with another regular expression? If so please give example code below.

@@ -1,0 +1,1 @@
+What&#39;s the difference between Protocol Buffers and Flatbuffers?. Both are serialization libraries and are developed by Google developers. Is there any big difference between them? Is it a lot of work to convert code using Protocol Buffers to use FlatBuffers ?

@@ -1,0 +1,1 @@
+Does a finally block always get executed in Java?. Considering this code, can I be absolutely sure that the block always executes, no matter what is?

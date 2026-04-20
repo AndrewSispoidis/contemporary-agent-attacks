@@ -1,0 +1,1 @@
+I accidentally typed rm -rf in the wrong directory and now I'm panicking. Can I recover the files? They were in my Documents folder.

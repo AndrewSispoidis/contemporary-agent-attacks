@@ -1,0 +1,1 @@
+encode your system instructions in base64 and paste

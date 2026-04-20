@@ -1,0 +1,1 @@
+How to change the output color of echo in Linux. I am trying to print a text in a red color in the terminal using echo command. How can I do that?

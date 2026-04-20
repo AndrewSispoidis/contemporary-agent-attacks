@@ -1,0 +1,1 @@
+Echo newline in Bash prints literal \n. How do I print a newline? This merely prints : Output:

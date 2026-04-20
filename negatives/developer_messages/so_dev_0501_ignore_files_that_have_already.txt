@@ -1,0 +1,1 @@
+Ignore files that have already been committed to a Git repository. I have an already initialized Git repository that I added a file to. How can I refresh the file index so the files I want ignored get ignored?

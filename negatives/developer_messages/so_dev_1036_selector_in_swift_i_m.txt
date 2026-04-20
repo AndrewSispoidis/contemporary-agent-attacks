@@ -1,0 +1,1 @@
+@selector() in Swift?. I'm trying to create an in but I'm having some trouble. is a function in the same class. I get an error in the editor: Could not find an overload for 'init' that accepts the supplied arguments When I change to the error disappears. I've tried: But nothing works and I can't find a solution in the references.

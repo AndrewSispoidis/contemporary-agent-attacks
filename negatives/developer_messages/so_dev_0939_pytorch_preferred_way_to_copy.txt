@@ -1,0 +1,1 @@
+PyTorch preferred way to copy a tensor. There seems to be several ways to create a copy of a tensor in PyTorch, including is explicitly preferred over and according to a UserWarning I get if I execute either or . Why is it preferred? Performance? I'd argue it's less readable. Any reasons for/against using ?

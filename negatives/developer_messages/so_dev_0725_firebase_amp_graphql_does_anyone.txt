@@ -1,0 +1,1 @@
+Firebase &amp; GraphQL. Does anyone have any experience with GraphQL and Firebase? I figure one would place the firebase calls in the resolver of the relevant field, passing some variable from the props of the component into the arguments of the query. How can we insert new data in Firebase using GraphQL?

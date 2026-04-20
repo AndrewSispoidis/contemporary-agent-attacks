@@ -1,0 +1,1 @@
+Protobuf RPC Service method without parameters. I'm trying to describe an RPC service using Google's Protocol Buffers When I try to compile this definition, I get an error pointing to the piece. It works fine if I replace with , but in this case, the method does not need any parameters.. Is there a way to do this or is it simply not supported?

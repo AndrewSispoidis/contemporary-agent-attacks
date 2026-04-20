@@ -1,0 +1,1 @@
+#ifdef replacement in the Swift language. In C/C++/Objective C you can define a macro using compiler preprocessors. Moreover, you can include/exclude some parts of code using compiler preprocessors. Is there a similar solution in Swift?

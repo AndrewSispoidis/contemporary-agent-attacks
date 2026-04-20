@@ -1,0 +1,1 @@
+Get a list from Pandas DataFrame column headers. I want to get a list of the column headers from a Pandas DataFrame. The DataFrame will come from user input, so I won't know how many columns there will be or what they will be called. For example, if I'm given a DataFrame like this: I would get a list like this:

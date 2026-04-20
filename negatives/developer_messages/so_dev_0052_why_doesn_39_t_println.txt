@@ -1,0 +1,1 @@
+Why doesn&#39;t println! work in Rust unit tests?. I've implemented the following method and unit test: I run the unit test this way: I could also run this with I get a message back saying the test passed but the is never displayed on screen. Why not?

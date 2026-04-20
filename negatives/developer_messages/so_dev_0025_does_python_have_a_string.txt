@@ -1,0 +1,1 @@
+Does Python have a string &#39;contains&#39; substring method?. I'm looking for a or method in Python. I want to do:

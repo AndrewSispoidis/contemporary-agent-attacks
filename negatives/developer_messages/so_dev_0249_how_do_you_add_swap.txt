@@ -1,0 +1,1 @@
+How do you add swap to an EC2 instance?. I'm currently running an ec2 micro instance and i've been finding that the instance occasionally runs out of memory. Other than using a larger instance size, what else can be done?

@@ -1,0 +1,1 @@
+How to sort an array of custom objects by property value?. Let's say we have a custom class named and this class contains two properties: Lots of them are stored in an Array: How can I sort the images array by 'fileID' in ascending or descending order?

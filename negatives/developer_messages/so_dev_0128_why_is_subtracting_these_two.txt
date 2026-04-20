@@ -1,0 +1,1 @@
+Why is subtracting these two epoch-milli Times (in year 1927) giving a strange result?. If I run the following program, which parses two date strings referencing times 1 second apart and compares them: The output is: Why is , not (as I would expect from the one-second difference in the times), but ? If I change the dates to times 1 second later: Then will be . Java version:

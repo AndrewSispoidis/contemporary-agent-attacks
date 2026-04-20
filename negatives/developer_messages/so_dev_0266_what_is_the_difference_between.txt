@@ -1,0 +1,1 @@
+What is the difference between React Native and React?. I have started to learn React out of curiosity and wanted to know the difference between React and React Native - though could not find a satisfactory answer using Google. React and React Native seems to have the same format. Do they have completely different syntax?

@@ -1,0 +1,1 @@
+HTTP headers in Websockets client API. Looks like it's easy to add custom HTTP headers to your websocket client with any HTTP header client which supports this, but I can't find how to do it with the web platform's API. Anyone has a clue on how to achieve it? Specifically, I need to be able to send an HTTP Authorization header.

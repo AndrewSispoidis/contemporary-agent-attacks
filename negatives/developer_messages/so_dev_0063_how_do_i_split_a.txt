@@ -1,0 +1,1 @@
+How do I split a string in Rust?. From the documentation , it's not clear. In Java you could use the method like so:

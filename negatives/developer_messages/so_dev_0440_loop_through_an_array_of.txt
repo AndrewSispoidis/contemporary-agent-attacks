@@ -1,0 +1,1 @@
+Loop through an array of strings in Bash?. I want to write a script that loops through 15 strings (array possibly?) Is that possible?

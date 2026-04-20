@@ -1,0 +1,1 @@
+How do I revert a Git repository to a previous commit?. How do I revert from my current state to a snapshot made on a certain commit? If I do , then I get the following output: How do I revert to the commit from November 3, i.e. commit ?

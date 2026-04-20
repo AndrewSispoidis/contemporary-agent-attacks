@@ -1,0 +1,1 @@
+How do I delete a Git branch locally and remotely?. Failed Attempts to Delete a Remote Branch: How do I properly delete the branch both locally and remotely?

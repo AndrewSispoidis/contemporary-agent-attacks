@@ -1,0 +1,1 @@
+How do I iterate over the words of a string?. How do I iterate over the words of a string composed of words separated by whitespace? Note that I'm not interested in C string functions or that kind of character manipulation/access. I prefer elegance over efficiency. My current solution:

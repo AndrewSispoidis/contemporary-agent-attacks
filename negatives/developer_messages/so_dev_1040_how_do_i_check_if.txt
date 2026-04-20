@@ -1,0 +1,1 @@
+How do I check if a string contains another string in Swift?. In the code to check for a substring in an is: But how do I do this in Swift?

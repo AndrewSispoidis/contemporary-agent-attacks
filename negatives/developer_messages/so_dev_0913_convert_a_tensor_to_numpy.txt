@@ -1,0 +1,1 @@
+Convert a tensor to numpy array in Tensorflow?. How to convert a tensor into a numpy array when using Tensorflow with Python bindings?

@@ -1,0 +1,1 @@
+How do I run Redis on Windows?. How do I run Redis on Windows? The Redis download page just seems to offer *nix options. Can I run Redis natively on Windows?

@@ -1,0 +1,1 @@
+SSH to Elastic Beanstalk instance. I just signed up for Amazon's new Elastic Beanstalk offering. What I can't figure out is how to SSH to a Beanstalk instance. I don't have a private key because Beanstalk generated the instance on my behalf.

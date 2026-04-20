@@ -1,0 +1,1 @@
+Interfaces vs Types in TypeScript. What is the difference between these statements ( vs ) in TypeScript?

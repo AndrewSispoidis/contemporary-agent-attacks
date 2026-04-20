@@ -1,0 +1,1 @@
+How do I create delegates in Objective-C?. I know how delegates work, and I know how I can use them. But how do I create them?

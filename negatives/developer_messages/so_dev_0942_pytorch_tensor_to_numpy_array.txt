@@ -1,0 +1,1 @@
+Pytorch tensor to numpy array. I have a pytorch of shape . I want to convert it to array using the following code: How does that code work?

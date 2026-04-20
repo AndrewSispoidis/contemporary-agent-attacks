@@ -1,0 +1,1 @@
+How to execute mongo commands through shell scripts?. I want to execute commands in shell script, e.g. in a script : When I execute this script via , then the connection to MongoDB is established, but the following commands are not executed. How to execute other commands through shell script ?

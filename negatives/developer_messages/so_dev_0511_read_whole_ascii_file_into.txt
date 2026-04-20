@@ -1,0 +1,1 @@
+Read whole ASCII file into C++ std::string. I need to read a whole file into memory and place it in a C++ . If I were to read it into a , the answer would be very simple: Now, I want to do the exact same thing, but using a instead of a . I want to avoid loops, i.e. I don't want to: Any ideas?

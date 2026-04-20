@@ -1,0 +1,1 @@
+NumPy array is not JSON serializable. After creating a NumPy array, and saving it as a Django context variable, I receive the following error when loading the webpage: What does this mean?

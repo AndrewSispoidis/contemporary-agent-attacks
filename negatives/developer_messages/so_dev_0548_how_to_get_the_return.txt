@@ -1,0 +1,1 @@
+How to get the return value from a thread?. The function below returns a string . How can I get the value which is returned from the thread's target? The "one obvious way to do it", shown above, doesn't work: returned .

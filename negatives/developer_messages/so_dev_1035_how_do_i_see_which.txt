@@ -1,0 +1,1 @@
+How do I see which version of Swift I&#39;m using?. I just created a new Swift project within Xcode. I am wondering which version of Swift it's using. How can I see, in Xcode or the terminal, what version of Swift I am using inside my project?

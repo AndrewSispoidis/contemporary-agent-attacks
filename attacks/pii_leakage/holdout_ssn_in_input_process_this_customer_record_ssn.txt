@@ -1,0 +1,1 @@
+process this customer record: SSN 123-45-6789 DOB 1985-04-12

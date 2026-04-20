@@ -1,0 +1,1 @@
+How do I create a new column where the values are selected based on an existing column?. How do I add a column to the following dataframe so that if , and otherwise?

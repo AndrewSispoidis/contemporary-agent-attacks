@@ -1,0 +1,1 @@
+How to use google analytics with next.js app?. I'm using styled-components with next.js so my styles need to be server-side rendered, hence how can I add google analytics to my website? I checked next.js google analytics example but as I said my _document file is different because of using styled-components.

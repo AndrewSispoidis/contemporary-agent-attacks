@@ -1,0 +1,1 @@
+How to print struct variables in console?. How can I print (to the console) the , , , etc. of this struct in Golang?

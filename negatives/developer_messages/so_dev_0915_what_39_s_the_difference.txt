@@ -1,0 +1,1 @@
+What&#39;s the difference between tf.placeholder and tf.Variable?. I'm a newbie to TensorFlow. I'm confused about the difference between and . In my view, is used for input data, and is used to store the state of data. This is all what I know. Could someone explain to me more in detail about their differences? In particular, when to use and when to use ?

@@ -1,0 +1,1 @@
+How can the Euclidean distance be calculated with NumPy?. I have two points in 3D space: I want to calculate the distance between them: How do I do this with NumPy? I have:

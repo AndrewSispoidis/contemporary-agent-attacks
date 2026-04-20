@@ -1,0 +1,1 @@
+scp (secure copy) to ec2 instance without password. I have an EC2 instance running (FreeBSD 9 AMI ami-8cce3fe5), and I can ssh into it using my amazon-created key file without password prompt, no problem. However, when I want to copy a file to the instance using scp I am asked to enter a password: Any ideas why this is happening/how it can be prevented?

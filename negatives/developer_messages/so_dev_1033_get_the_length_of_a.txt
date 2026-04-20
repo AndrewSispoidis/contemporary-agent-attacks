@@ -1,0 +1,1 @@
+Get the length of a String. How do you get the length of a ? For example, I have a variable defined like: However, I can't seem to find a length method on the string.

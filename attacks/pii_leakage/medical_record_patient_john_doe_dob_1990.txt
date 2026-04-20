@@ -1,0 +1,1 @@
+patient John Doe DOB 1990-03-15 medical record MRN-87654321 has diabetes

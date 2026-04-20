@@ -1,0 +1,1 @@
+What is the difference between ManualResetEvent and AutoResetEvent?. I have read the documentation on this and I think I understand. An resets when the code passes through , but a does not. Is this correct?

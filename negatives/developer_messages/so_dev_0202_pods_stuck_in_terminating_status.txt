@@ -1,0 +1,1 @@
+Pods stuck in Terminating status. I tried to delete a with 12 pods and I could see that some of the pods are stuck in status. My Kubernetes cluster consists of one control plane node and three worker nodes installed on Ubuntu virtual machines. What could be the reason for this issue?

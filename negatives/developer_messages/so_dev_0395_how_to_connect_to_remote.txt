@@ -1,0 +1,1 @@
+How to connect to remote Redis server?. I have URL and PORT of remote Redis server. I am able to write into Redis from Scala. However I want to connect to remote Redis via terminal using or something similar in order to make several call of , , etc. (I can do it with my locally installed Redis without any problem).

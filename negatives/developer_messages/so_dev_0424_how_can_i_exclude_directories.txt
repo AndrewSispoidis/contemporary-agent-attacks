@@ -1,0 +1,1 @@
+How can I exclude directories from grep -R?. I want to traverse all subdirectories, except the directory.

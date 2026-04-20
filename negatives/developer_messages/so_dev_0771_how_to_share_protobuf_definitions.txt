@@ -1,0 +1,1 @@
+How to share Protobuf definitions for gRPC?. Since you have to share files to define data and services for gRPC, service provider and clients need the same files. Is there any common strategy to distribute them? I want to avoid maintaining that in every repository.

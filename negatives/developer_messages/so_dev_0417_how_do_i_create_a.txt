@@ -1,0 +1,1 @@
+How do I create a copy of a directory in Unix/Linux?. I want to recursively create a copy of a directory and all its contents (e.g. files and subdirectories).

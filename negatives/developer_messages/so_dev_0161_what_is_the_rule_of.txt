@@ -1,0 +1,1 @@
+What is The Rule of Three?. What does copying an object mean? What are the copy constructor and the copy assignment operator ? When do I need to declare them myself? How can I prevent my objects from being copied?

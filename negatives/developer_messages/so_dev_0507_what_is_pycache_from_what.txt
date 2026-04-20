@@ -1,0 +1,1 @@
+What is __pycache__?. From what I understand, a cache is an encrypted file of similar files. What do we do with the folder? Is it what we give to people instead of our source code? Is it just my input data? This folder keeps getting created, what it is for?

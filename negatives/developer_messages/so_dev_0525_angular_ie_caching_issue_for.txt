@@ -1,0 +1,1 @@
+Angular IE Caching issue for $http. All the ajax calls that are sent from the IE are cached by Angular and I get a for all the subsequent calls. Although the request is the same, the response is not going be the same in my case. I want to disable this cache. I tried adding the to $http.get but still it didn't help. How can this issue be resolved?

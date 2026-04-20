@@ -1,0 +1,1 @@
+Optional Parameters in Go?. Can Go have optional parameters? Or can I just define two different functions with the same name and a different number of arguments?

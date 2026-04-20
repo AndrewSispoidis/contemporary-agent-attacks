@@ -1,0 +1,1 @@
+How to debug grpc call?. I'm trying to figure out why my grpc call isn't working, but I can't figure out how to turn on debugging, so I can see the data that's being sent and received over the grpc connection. How do you turn on debugging for grpc calls?

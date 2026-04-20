@@ -1,0 +1,1 @@
+How to add a column with a default value to an existing table in SQL Server?. How can I add a column with a default value to an existing table in SQL Server 2000 / SQL Server 2005 ?

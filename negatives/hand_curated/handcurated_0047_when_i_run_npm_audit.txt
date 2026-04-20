@@ -1,0 +1,1 @@
+When I run npm audit, it reports critical vulnerabilities in transitive dependencies. How do I figure out which of my direct dependencies brought them in?

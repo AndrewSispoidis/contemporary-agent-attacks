@@ -1,0 +1,1 @@
+How to open a link in a new Tab in NextJS?. How can i open a link in a new Tab in NextJS ? i tried this : It opens the link in a new Tab but i have an message saying : Is there another way to do it ?

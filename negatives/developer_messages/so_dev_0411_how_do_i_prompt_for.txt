@@ -1,0 +1,1 @@
+How do I prompt for Yes/No/Cancel input in a Linux shell script?. I want to pause input in a shell script, and prompt the user for choices. The standard , , or type question. How do I accomplish this in a typical bash prompt?

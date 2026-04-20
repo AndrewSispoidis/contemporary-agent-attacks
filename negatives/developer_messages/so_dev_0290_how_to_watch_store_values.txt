@@ -1,0 +1,1 @@
+How to watch store values from vuex?. I am using and together. I am new to , I want to watch a variable change. I want to add the function in my This is what I have so far: I want to know if there are any changes in the How do I watch in my vuejs component?

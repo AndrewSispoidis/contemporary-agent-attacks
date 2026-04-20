@@ -1,0 +1,1 @@
+Understanding implicit in Scala. I was making my way through the Scala playframework tutorial and I came across this snippet of code which had me puzzled: So I decided to investigate and came across this post . I still don't get it. What is the difference between this: and other than the obvious fact they have different method names. When should I use and why?

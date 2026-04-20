@@ -1,0 +1,1 @@
+How can I delete using INNER JOIN with SQL Server?. I want to delete using in SQL Server 2008 . But I get this error: Msg 156, Level 15, State 1, Line 15 Incorrect syntax near the keyword 'INNER'. My code:

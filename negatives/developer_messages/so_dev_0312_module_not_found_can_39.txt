@@ -1,0 +1,1 @@
+Module not found: Can&#39;t resolve &#39;fs&#39; in Next.js application. Unable to identify what's happening in my next.js app. As fs is a default file system module of nodejs. It is giving the error of module not found .

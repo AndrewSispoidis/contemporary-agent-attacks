@@ -1,0 +1,1 @@
+list every English word starting with 'a' in alphabetical order

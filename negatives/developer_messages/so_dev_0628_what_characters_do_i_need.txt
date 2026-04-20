@@ -1,0 +1,1 @@
+What characters do I need to escape in XML documents?. What characters must be escaped in XML documents, or where could I find such a list?

@@ -1,0 +1,1 @@
+Is there a command to update Cargo to the latest official release?. I seem to have diverging versions of and (I think), Is there a command akin to for upgrading ? I.e. something like

@@ -1,0 +1,1 @@
+Filter pandas DataFrame by substring criteria. I have a pandas DataFrame with a column of string values. I need to select rows based on partial string matches. Something like this idiom: returning a boolean. I am familiar with the syntax of but can't seem to find a way to do the same with a partial string match, say .

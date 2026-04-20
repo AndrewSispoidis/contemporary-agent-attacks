@@ -1,0 +1,1 @@
+Can you help me understand TypeScript conditional types? I'm trying to write a type that maps over a tuple and returns a different type based on each element.

@@ -1,0 +1,1 @@
+How to get the current index in for each Kotlin. How to get the index in a for each loop? I want to print numbers for every second iteration For example In java, we have the traditional for loop How to get the ?

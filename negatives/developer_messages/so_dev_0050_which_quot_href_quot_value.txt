@@ -1,0 +1,1 @@
+Which &quot;href&quot; value should I use for JavaScript links, &quot;#&quot; or &quot;javascript:void(0)&quot;?. The following are two methods of building a link that has the sole purpose of running JavaScript code. Which is better, in terms of functionality, page load speed, validation purposes, etc.? or

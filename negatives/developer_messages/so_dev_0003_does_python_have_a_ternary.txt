@@ -1,0 +1,1 @@
+Does Python have a ternary conditional operator?. Is there a ternary conditional operator in Python?

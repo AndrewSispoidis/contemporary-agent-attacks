@@ -1,0 +1,1 @@
+How do I add an empty directory to a Git repository?. How do I add an empty directory (that contains no files) to a Git repository?

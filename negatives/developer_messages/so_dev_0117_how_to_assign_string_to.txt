@@ -1,0 +1,1 @@
+How to assign string to bytes array. I want to assign string to bytes array: Have another method?

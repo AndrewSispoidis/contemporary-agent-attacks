@@ -1,0 +1,1 @@
+Parsing JSON with Unix tools. I'm trying to parse JSON returned from a curl request, like so: The above splits the JSON into fields, for example: How do I print a specific field (denoted by the )?

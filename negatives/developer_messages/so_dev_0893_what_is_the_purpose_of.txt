@@ -1,0 +1,1 @@
+What is the purpose of meshgrid in NumPy?. What is the purpose of ? I know it creates some kind of grid of coordinates for plotting, but I can't see the direct benefit of it. The official documentation gives the following example, but its output doesn't make sense to me:

@@ -1,0 +1,1 @@
+kubectl logs - continuously. gets latest logs from my deployment - I am working on a bug and interested to know the logs at runtime - How can I get continuous stream of logs ? edit: corrected question at the end.

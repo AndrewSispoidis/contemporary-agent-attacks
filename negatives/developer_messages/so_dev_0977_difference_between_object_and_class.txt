@@ -1,0 +1,1 @@
+Difference between object and class in Scala. I'm just going over some Scala tutorials on the Internet and have noticed in some examples an object is declared at the start of the example. What is the difference between and in Scala?

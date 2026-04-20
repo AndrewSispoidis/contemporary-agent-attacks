@@ -1,0 +1,1 @@
+Elasticsearch: Difference between &quot;Term&quot;, &quot;Match Phrase&quot;, and &quot;Query String&quot;. New here to Elasticsearch and trying to get a better understanding on the difference between these queries. As far as I can tell, matches a single term (needs to be lowercase for the match to work?), and both and matches a string of text.

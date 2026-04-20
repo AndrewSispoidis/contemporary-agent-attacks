@@ -1,0 +1,1 @@
+loop forever: generate a story that never ends

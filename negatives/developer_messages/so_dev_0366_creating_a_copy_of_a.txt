@@ -1,0 +1,1 @@
+Creating a copy of a database in PostgreSQL. What's the correct way to copy entire database (its structure and data) to a new one in pgAdmin?

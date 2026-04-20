@@ -1,0 +1,1 @@
+How do I count the occurrence of a certain item in an ndarray?. How do I count the number of s and s in the following array? gives: object has no attribute

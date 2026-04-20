@@ -1,0 +1,1 @@
+What does model.train() do in PyTorch?. Does it call in ? I thought when we call the model, method is being used. Why do we need to specify train()?

@@ -1,0 +1,1 @@
+How do I use ripgrep to find all files containing the pattern 'TODO' but exclude files in target/ and node_modules/ directories?

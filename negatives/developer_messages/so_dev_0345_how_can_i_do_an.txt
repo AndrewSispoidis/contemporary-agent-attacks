@@ -1,0 +1,1 @@
+How can I do an UPDATE statement with JOIN in SQL Server?. I need to update this table in SQL Server with data from its 'parent' table, see below: Table: sale Table: ud contains the correct value to update . What query will do this? I'm thinking of a but I'm not sure if it's possible.

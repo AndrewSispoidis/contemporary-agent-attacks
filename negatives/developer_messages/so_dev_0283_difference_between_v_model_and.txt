@@ -1,0 +1,1 @@
+Difference between v-model and v-bind on Vue.js?. I'm learning Vue with an online course and the instructor gave me an exercise to make an input text with a default value. I completed it using but, the instructor chose , and I don't understand why. Can someone give me a simple explanation about the difference between these two and when it's better use each one?

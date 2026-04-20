@@ -1,0 +1,1 @@
+How do I remove local (untracked) files from the current Git working tree?. How do I delete untracked local files from the current working tree?

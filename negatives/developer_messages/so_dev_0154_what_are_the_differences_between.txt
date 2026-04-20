@@ -1,0 +1,1 @@
+What are the differences between a pointer variable and a reference variable?. What is the difference between a pointer variable and a reference variable?

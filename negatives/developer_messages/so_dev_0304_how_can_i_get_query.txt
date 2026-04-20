@@ -1,0 +1,1 @@
+How can I get (query string) parameters from the URL in Next.js?. When I click on a link in my , it brings me to page. However, when I'm passing a parameter name through the URL (like /about?name=leangchhean ) from to , I don't know how to get it in the page. index.js

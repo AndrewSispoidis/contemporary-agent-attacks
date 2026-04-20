@@ -1,0 +1,1 @@
+Biggest differences of Thrift vs Protocol Buffers?. What are the biggest pros and cons of Apache Thrift vs Google's Protocol Buffers ?

@@ -1,0 +1,1 @@
+How does database indexing work in reality?. Given that indexing is so important, as your data set increases in size, how does indexing work at a database-agnostic level? For information on queries to index a field, check out How do I index a database column? .

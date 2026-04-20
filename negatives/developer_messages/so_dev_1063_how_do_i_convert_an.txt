@@ -1,0 +1,1 @@
+How do I convert an NSString value to NSData?. How do I convert an value to ?

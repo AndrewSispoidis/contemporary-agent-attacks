@@ -1,0 +1,1 @@
+How can I remove old and unused Docker images?. How can I remove all unused Docker images at once safely? I also want to remove images pulled months ago which have a certain tag. I'm not asking about removing untagged images only. I want to remove general unused images, which includes both untagged and other images such as those pulled months ago with a specific tag.

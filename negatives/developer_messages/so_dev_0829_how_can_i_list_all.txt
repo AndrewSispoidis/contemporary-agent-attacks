@@ -1,0 +1,1 @@
+How can I list all collections in the MongoDB shell?. In the MongoDB shell, how do I list all collections for the current database that I'm using?

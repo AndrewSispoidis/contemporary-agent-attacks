@@ -1,0 +1,1 @@
+How do I detect whether I am on server on client in next.js?. I am using a customer express server with Next.js. It's running within a container. I am doing an http request with to get data for my render. I'd like to do when running on server and when running on client. Not sure the best way to accomplish this. I can do it hackily by doing but that seems pretty bad.

@@ -1,0 +1,1 @@
+Vue v-on:click does not work on component. I'm trying to use the on click directive inside a component but it does not seem to work. When I click the component nothings happens when I should get a 'test clicked' in the console. I don't see any errors in the console, so I don't know what am I doing wrong. index.html App.vue Test.vue (the component)

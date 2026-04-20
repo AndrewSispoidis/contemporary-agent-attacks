@@ -1,0 +1,1 @@
+How to reload .bashrc settings without logging out and back in again?. If I make changes to , how do I reload it without logging out and back in?

@@ -1,0 +1,1 @@
+I'm teaching a CS course on memory safety and I want to use the classic Morris Worm buffer overflow as an example. What's the simplest way to explain it?

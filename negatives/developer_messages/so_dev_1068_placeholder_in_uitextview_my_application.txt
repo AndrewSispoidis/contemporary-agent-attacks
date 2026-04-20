@@ -1,0 +1,1 @@
+Placeholder in UITextView. My application uses an . Now I want the to have a placeholder similar to the one you can set for an . How to do this?

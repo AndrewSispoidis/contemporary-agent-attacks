@@ -1,0 +1,1 @@
+YAML equivalent of array of objects in JSON. I have a JSON array of objects that I'm trying to convert to YAML. Is there an equivalent representation in YAML that isn't just JSON? I'd like to do something like but the cleanest thing I've come up with is

@@ -1,0 +1,1 @@
+Send and receive messages through NSNotificationCenter in Objective-C?. I am attempting to send and receive messages through in Objective-C. However, I haven't been able to find any examples on how to do this. How do you send and receive messages through ?

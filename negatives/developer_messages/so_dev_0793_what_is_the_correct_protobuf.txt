@@ -1,0 +1,1 @@
+What is the correct Protobuf content type?. JSON has as a standard. For protobuf some people use , but I saw something as odd as being proposed. Do we have an RFC or some other standard that I can use as a reference for this?

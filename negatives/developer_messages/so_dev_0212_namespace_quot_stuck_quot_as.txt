@@ -1,0 +1,1 @@
+Namespace &quot;stuck&quot; as Terminating. How do I remove it?. I've had a "stuck" namespace that I deleted showing in this eternal "terminating" status.

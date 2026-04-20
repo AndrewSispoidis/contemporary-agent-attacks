@@ -1,0 +1,1 @@
+When and how should I use a ThreadLocal variable?. When should I use a variable? How is it used?

@@ -1,0 +1,1 @@
+How do I change the size of figures drawn with Matplotlib?. How do I change the size of figure drawn with Matplotlib?

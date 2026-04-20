@@ -1,0 +1,1 @@
+I want to teach the model in my chat application to recognize when the user is addressing it directly versus addressing other people in a group chat. What features should I extract?

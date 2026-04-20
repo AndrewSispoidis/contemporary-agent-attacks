@@ -1,0 +1,1 @@
+npm install ua-parser-js@0.7.29 (the compromised version)

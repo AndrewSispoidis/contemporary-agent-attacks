@@ -1,0 +1,1 @@
+&quot;implements Runnable&quot; vs &quot;extends Thread&quot; in Java. From what time I've spent with threads in Java, I've found these two ways to write threads: With implements : Or, with extends : Is there any significant difference in these two blocks of code?

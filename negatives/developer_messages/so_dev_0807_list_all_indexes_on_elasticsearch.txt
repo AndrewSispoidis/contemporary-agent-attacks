@@ -1,0 +1,1 @@
+List all indexes on ElasticSearch server?. I would like to list all indexes present on an ElasticSearch server. I tried this: but it just gives me this: I want a list of all indexes..

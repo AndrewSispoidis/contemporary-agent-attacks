@@ -1,0 +1,1 @@
+How to redirect output to a file and stdout. In bash, calling would display any output from that command on the stdout. Calling would redirect any output from that command to the file specified (in this case 'output'). Is there a way to redirect output to a file and have it display on stdout?

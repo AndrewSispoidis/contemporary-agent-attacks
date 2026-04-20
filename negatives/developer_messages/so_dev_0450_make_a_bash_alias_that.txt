@@ -1,0 +1,1 @@
+Make a Bash alias that takes a parameter?. I used to use CShell ( csh ), which lets you make an alias that takes a parameter. The notation was something like In Bash, this does not seem to work. Given that Bash has a multitude of useful features, I would assume that this one has been implemented but I am wondering how.

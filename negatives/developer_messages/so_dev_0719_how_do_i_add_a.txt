@@ -1,0 +1,1 @@
+How do I add a description to a field in &quot;GraphQL schema language&quot;. I have a graphql schema, a fragment of which looks like this: In graphiql, there is a description field, but it always says "self-descriptive". How do I add descriptions to the schema?

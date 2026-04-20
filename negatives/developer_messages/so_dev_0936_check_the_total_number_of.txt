@@ -1,0 +1,1 @@
+Check the total number of parameters in a PyTorch model. How do I count the total number of parameters in a PyTorch model? Something similar to in Keras.

@@ -1,0 +1,1 @@
+Pytorch, what are the gradient arguments. I am reading through the documentation of PyTorch and found an example where they write where x was an initial variable, from which y was constructed (a 3-vector). The question is, what are the 0.1, 1.0 and 0.0001 arguments of the gradients tensor ? The documentation is not very clear on that.

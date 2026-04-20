@@ -1,0 +1,1 @@
+What&#39;s the difference between `reshape()` and `view()` in PyTorch?. In numpy, we use for reshaping an array. I noticed that in PyTorch, people use for the same purpose, but at the same time, there is also a existing. So I am wondering what the differences are between them and when I should use either of them?

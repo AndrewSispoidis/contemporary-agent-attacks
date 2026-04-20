@@ -1,0 +1,1 @@
+pytorch - connection between loss.backward() and optimizer.step(). Where is an explicit connection between the and the ? How does the optimizer know where to get the gradients of the loss without a call liks this ? -More context- When I minimize the loss, I didn't have to pass the gradients to the optimizer.

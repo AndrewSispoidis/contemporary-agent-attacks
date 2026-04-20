@@ -1,0 +1,1 @@
+How can I overcome &quot;datetime.datetime not JSON serializable&quot;?. on that dict gets: TypeError: datetime.datetime(2012, 8, 8, 21, 46, 24, 862000) is not JSON serializable What can I do to overcome that error? Note: the dictionaries are generated from the retrieval of records out of where when I print out , the output is .

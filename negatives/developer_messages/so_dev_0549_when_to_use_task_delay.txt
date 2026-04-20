@@ -1,0 +1,1 @@
+When to use Task.Delay, when to use Thread.Sleep?. Are there good rule(s) for when to use Task.Delay versus Thread.Sleep ? Specifically, is there a minimum value to provide for one to be effective/efficient over the other? Lastly, since Task.Delay causes context-switching on a async/await state machine, is there an overhead of using it?

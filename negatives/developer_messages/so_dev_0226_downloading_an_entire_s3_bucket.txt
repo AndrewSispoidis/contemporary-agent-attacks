@@ -1,0 +1,1 @@
+Downloading an entire S3 bucket?. I noticed that there does not seem to be an option to download an entire bucket from the AWS Management Console. Is there an easy way to grab everything in one of my buckets? I was thinking about making the root folder public, using to grab it all, and then making it private again but I don't know if there's an easier way.

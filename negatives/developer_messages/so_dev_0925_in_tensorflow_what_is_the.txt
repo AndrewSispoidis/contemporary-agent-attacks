@@ -1,0 +1,1 @@
+In TensorFlow, what is the difference between Session.run() and Tensor.eval()?. TensorFlow has two ways to evaluate part of graph: on a list of variables and . Is there a difference between these two?

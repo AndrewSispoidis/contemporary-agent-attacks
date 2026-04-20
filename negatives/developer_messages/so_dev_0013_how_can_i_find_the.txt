@@ -1,0 +1,1 @@
+How can I find the index for a given item in a list?. Given a list and an item in the list , how do I get its index ?

@@ -1,0 +1,1 @@
+Next.js Redirect from / to another page. I'm new in Next.js and I'm wondering how to redirect from the start page ( ) to for example. Once the user loads a page, determine if path === and redirect to if so. In react-router we do something like:

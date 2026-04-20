@@ -1,0 +1,1 @@
+What is the difference between &quot;let&quot; and &quot;var&quot;?. ECMAScript 6 introduced the declaration keyword . I've heard that it's described as a local variable, but I'm still not quite sure how it behaves differently than the keyword. What are the differences? When should be used instead of ?

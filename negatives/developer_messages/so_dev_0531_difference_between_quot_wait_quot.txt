@@ -1,0 +1,1 @@
+Difference between &quot;wait()&quot; vs &quot;sleep()&quot; in Java. What is the difference between a and in Threads? Is my understanding that a -ing Thread is still in running mode and uses CPU cycles but a -ing does not consume any CPU cycles correct? Why do we have both and ? How does their implementation vary at a lower level?

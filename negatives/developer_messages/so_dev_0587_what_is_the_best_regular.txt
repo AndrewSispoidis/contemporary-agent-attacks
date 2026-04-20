@@ -1,0 +1,1 @@
+What is the best regular expression to check if a string is a valid URL?. How can I check if a given string is a valid URL address? My knowledge of regular expressions is basic and doesn't allow me to choose from the hundreds of regular expressions I've already seen on the web.

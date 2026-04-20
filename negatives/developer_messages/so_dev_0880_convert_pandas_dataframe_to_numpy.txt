@@ -1,0 +1,1 @@
+Convert Pandas dataframe to NumPy array. How do I convert a Pandas dataframe into a NumPy array? That gives this DataFrame: I would like to convert this to a NumPy array, like so: Also, is it possible to preserve the dtypes, like this?

@@ -1,0 +1,1 @@
+Vue Js - Loop via v-for X times (in a range). How can I repeat a loop via X (e.g. 10) times? The documentation shows: but from where does vue know the source of the objects? If I render it like the doc says, I get the number of items and items, but without content.

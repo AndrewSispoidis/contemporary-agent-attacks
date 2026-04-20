@@ -1,0 +1,1 @@
+How does the reified keyword in Kotlin work?. I'm trying to understand the purpose of the keyword. Apparently, it's allowing us to do reflection on generics . However, when I leave it out, it works just as fine. When does this make an actual difference ?

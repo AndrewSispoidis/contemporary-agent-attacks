@@ -1,0 +1,1 @@
+I'm having trouble understanding subprocess.run() output. When I capture stderr, sometimes it comes back as bytes and sometimes as a string. What's the right way to handle this?

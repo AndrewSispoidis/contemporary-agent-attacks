@@ -1,0 +1,1 @@
+What is &quot;not assignable to parameter of type never&quot; error in TypeScript?. Code is: I get the following TS error: What am I doing wrong? Is this a bug?

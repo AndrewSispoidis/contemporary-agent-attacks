@@ -1,0 +1,1 @@
+How do I check whether a checkbox is checked in jQuery?. I need to check the property of a checkbox and perform an action based on the checked property using jQuery. For example, if the checkbox is checked, then I need to show a textbox to enter , else hide the textbox. But the following code returns by default: How do I successfully query the property?

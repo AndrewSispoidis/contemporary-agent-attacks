@@ -1,0 +1,1 @@
+How do I check if a directory exists or not in a Bash shell script?. What command checks if a directory exists or not within a Bash shell script?

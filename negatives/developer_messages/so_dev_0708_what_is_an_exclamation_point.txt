@@ -1,0 +1,1 @@
+What is an exclamation point in GraphQL?. In a schema file that I have I noticed there are exclamation marks after some types, like What do these mean? I can't find anything about it in the documentation or through googling 😅

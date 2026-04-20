@@ -1,0 +1,1 @@
+How do I exclude a directory when using `find`?. How do I exclude a specific directory when searching for files using ?

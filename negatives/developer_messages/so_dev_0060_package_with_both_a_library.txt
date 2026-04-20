@@ -1,0 +1,1 @@
+Package with both a library and a binary?. I would like to make a Rust package that contains both a reusable library (where most of the program is implemented), and also an executable that uses it. Assuming I have not confused any semantics in the Rust module system, what should my file look like?

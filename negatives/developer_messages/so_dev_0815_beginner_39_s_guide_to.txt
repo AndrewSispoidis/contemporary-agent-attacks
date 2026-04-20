@@ -1,0 +1,1 @@
+Beginner&#39;s guide to ElasticSearch. There hasn't been any books about ElasticSearch (that I know of), and http://www.elasticsearch.org/guide/ seems to contain only references. Any good beginner's guide or tutorials, perhaps by examples, to recommend, especially in terms of the different mapping and indexing strategies?

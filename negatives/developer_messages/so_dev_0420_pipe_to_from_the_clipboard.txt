@@ -1,0 +1,1 @@
+Pipe to/from the clipboard in a Bash script. Is it possible to pipe to/from the clipboard in Bash? Whether it is piping to/from a device handle or using an auxiliary application, I can't find anything. For example, if was a device linking to the clipboard we could do:

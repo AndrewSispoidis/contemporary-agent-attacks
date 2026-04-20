@@ -1,0 +1,1 @@
+What&#39;s the problem with &quot;using namespace std;&quot;?. I have heard is wrong, and that I should use and directly instead. Why is this? Does it risk declaring variables that share the same name as something in the namespace? Are there performance implications?

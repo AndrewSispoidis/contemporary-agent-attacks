@@ -1,0 +1,1 @@
+Regular Expressions: Is there an AND operator?. Obviously, you can use the (pipe?) to represent , but is there a way to represent as well? Specifically, I'd like to match paragraphs of text that contain ALL of a certain phrase, but in no particular order.

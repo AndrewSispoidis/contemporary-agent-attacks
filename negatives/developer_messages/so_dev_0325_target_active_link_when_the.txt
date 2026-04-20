@@ -1,0 +1,1 @@
+Target Active Link when the route is active in Next.js. How to target the active Link in Next.js like they way we do it in React-Router-4? Meaning, give the active link a class when its route is active?

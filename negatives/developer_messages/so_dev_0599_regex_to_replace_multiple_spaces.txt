@@ -1,0 +1,1 @@
+Regex to replace multiple spaces with a single space. Given a string like: What kind of jQuery or JavaScript magic can be used to keep spaces to only one space max? Goal:

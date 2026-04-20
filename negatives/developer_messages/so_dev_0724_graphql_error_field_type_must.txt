@@ -1,0 +1,1 @@
+GraphQL Error field type must be Input Type but got:. Here is the mutation: Here is the schema used in the details field of the mutation: Error I am getting on running this code is : I have used this syntax with queries and they worked correctly. But, they are returning error with a mutation. What is incorrect in my code and how do I correct it?

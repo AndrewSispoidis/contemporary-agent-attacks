@@ -1,0 +1,1 @@
+I'm reviewing audit logs from our LLM gateway. One of the entries says 'Indirect injection in tool result: html_comment_injection'. What does that mean concretely?

@@ -1,0 +1,1 @@
+How to compile Tensorflow with SSE4.2 and AVX instructions?. This is the message received from running a script to check if Tensorflow is working: I noticed that it has mentioned SSE4.2 and AVX, What are SSE4.2 and AVX? How do these SSE4.2 and AVX improve CPU computations for Tensorflow tasks. How to make Tensorflow compile using the two libraries?

@@ -1,0 +1,1 @@
+Converting between strings and ArrayBuffers. Is there a commonly accepted technique for efficiently converting JavaScript strings to ArrayBuffers and vice-versa? Specifically, I'd like to be able to write the contents of an ArrayBuffer to and then read it back.

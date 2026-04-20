@@ -1,0 +1,1 @@
+Loop (for each) over an array in JavaScript. How can I loop through all the entries in an array using JavaScript?

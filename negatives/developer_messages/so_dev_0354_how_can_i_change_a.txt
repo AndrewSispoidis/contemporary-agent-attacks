@@ -1,0 +1,1 @@
+How can I change a PostgreSQL user password?. How do I change the password for a PostgreSQL user?

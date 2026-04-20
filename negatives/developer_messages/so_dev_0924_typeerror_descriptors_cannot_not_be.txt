@@ -1,0 +1,1 @@
+TypeError: Descriptors cannot not be created directly. I tried to install Ray , but it gave an error: I tried to solve the problem and downgraded protobuf : But still the problem persists in Ray, TensorFlow , and Keras . My application isn't working any more. How can I fix it?

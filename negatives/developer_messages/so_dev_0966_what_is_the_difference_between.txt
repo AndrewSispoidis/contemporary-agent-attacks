@@ -1,0 +1,1 @@
+What is the difference between linear regression and logistic regression?. When we have to predict the value of a categorical (or discrete) outcome we use logistic regression . I believe we use linear regression to also predict the value of an outcome given the input values. Then, what is the difference between the two methodologies?

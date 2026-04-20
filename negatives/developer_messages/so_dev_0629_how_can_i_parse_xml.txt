@@ -1,0 +1,1 @@
+How can I parse XML and get instances of a particular node attribute?. I have many rows in XML and I'm trying to get instances of a particular node attribute. How do I access the values of the attribute ? In this example, I want and .

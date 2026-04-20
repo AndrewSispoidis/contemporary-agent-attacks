@@ -1,0 +1,1 @@
+How to reset AUTO_INCREMENT in MySQL. How can I reset the of a field? I want it to start counting from again.

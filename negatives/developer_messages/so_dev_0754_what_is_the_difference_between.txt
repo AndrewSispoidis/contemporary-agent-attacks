@@ -1,0 +1,1 @@
+What is the difference between grpc and websocket? Which one is more suitable for bidirectional streaming connection?. I want to develop a client-server application in a bi-directional streaming manner. what is more suitable technology for this, grpc or websocket?

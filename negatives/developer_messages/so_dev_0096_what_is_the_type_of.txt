@@ -1,0 +1,1 @@
+What is the type of the &#39;children&#39; prop?. I have a very simple functional component as follows: And another component: I keep on getting the following error: [ts] JSX element type 'ReactNode' is not a constructor function for JSX elements. Type 'undefined' is not assignable to type 'ElementClass'. [2605] How do I type this correctly?

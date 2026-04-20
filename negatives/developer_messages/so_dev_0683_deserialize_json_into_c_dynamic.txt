@@ -1,0 +1,1 @@
+Deserialize JSON into C# dynamic object?. Is there a way to deserialize JSON content into a C# dynamic type? It would be nice to skip creating a bunch of classes in order to use the .

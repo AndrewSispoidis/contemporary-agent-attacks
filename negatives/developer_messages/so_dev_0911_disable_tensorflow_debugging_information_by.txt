@@ -1,0 +1,1 @@
+Disable Tensorflow debugging information. By debugging information I mean what TensorFlow shows in my terminal about loaded libraries and found devices etc. not Python errors.

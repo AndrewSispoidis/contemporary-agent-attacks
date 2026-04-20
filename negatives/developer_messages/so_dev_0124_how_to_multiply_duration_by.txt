@@ -1,0 +1,1 @@
+How to multiply duration by integer?. To test concurrent goroutines, I added a line to a function to make it take a random time to return (up to one second) However when I compiled, I got this error .\crawler.go:49: invalid operation: rand.Int31n(1000) * time.Millisecond (mismatched types int32 and time.Duration) Any ideas? How can I multiply a duration?

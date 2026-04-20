@@ -1,0 +1,1 @@
+Negative matching using grep (match lines that do not contain foo). How do I match all lines not matching a particular pattern using ? I tried this:

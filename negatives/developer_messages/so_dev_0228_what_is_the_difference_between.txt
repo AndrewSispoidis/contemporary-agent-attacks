@@ -1,0 +1,1 @@
+What is the difference between Amazon SNS and Amazon SQS?. When would I use SNS versus SQS, and why are they always coupled together?

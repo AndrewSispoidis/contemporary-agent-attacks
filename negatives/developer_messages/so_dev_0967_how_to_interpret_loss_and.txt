@@ -1,0 +1,1 @@
+How to interpret loss and accuracy for a machine learning model. When I trained my neural network with Theano or Tensorflow, they will report a variable called "loss" per epoch. How should I interpret this variable? Higher loss is better or worse, or what does it mean for the final performance (accuracy) of my neural network?

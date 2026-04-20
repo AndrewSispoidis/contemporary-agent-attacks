@@ -1,0 +1,1 @@
+How do I delete an exported environment variable?. Before installing gnuplot , I set the environment variable . During the installation, something went wrong. I want to remove the environment variable. How can I achieve it?

@@ -1,0 +1,1 @@
+How do I create an empty array in YAML?. Is there any way to specify that empty_array: is an array with no elements, such as with ? When I load it into a ruby hash I'd like it to know that it's an array.

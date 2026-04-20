@@ -1,0 +1,1 @@
+Remove a symlink to a directory. I have a symlink to an important directory. I want to get rid of that symlink, while keeping the directory behind it. I tried and get back . I tried and got back I then progressed through , and Then I went to find my back-ups. Is there a way to get rid of the symlink without throwing away the baby with the bathwater?

@@ -1,0 +1,1 @@
+How do I check whether a file exists without exceptions?. How do I check whether a file exists or not, without using the statement?

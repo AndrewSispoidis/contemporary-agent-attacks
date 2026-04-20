@@ -1,0 +1,1 @@
+Websocket connections with Postman. I'm using Postman to test an existing REST API. This API calls async functions on the server which return a response over a websocket using StompJS. Is it possible to connect to the websocket using Postman?

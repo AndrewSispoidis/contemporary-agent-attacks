@@ -1,0 +1,1 @@
+GitHub Actions: Split Long Command into Multiple Lines. I have a Github action command that is really long: May I know whether it is possible to split the long command into multiple lines for better readability? I have tried the separator '' but it does not work.

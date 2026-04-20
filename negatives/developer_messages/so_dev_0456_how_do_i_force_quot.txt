@@ -1,0 +1,1 @@
+How do I force &quot;git pull&quot; to overwrite local files?. How do I force an overwrite of local files on a ? My local repository contains a file of the same filename as on the server. error: Untracked working tree file 'example.txt' would be overwritten by merge

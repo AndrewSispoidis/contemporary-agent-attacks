@@ -1,0 +1,1 @@
+Undo a Git merge that hasn&#39;t been pushed yet. I accidentally ran on my local master branch. I haven't pushed the changes to origin master. How do I undo the merge? After merging, says: How do I undo all these commits?

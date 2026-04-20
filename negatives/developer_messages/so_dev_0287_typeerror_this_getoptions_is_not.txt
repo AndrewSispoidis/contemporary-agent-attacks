@@ -1,0 +1,1 @@
+TypeError: this.getOptions is not a function. I am facing a weird error when I installed Bootstrap . The error is below. I tried uninstalling less-loader and installing less-loader@5.0.0, because I saw it online, but it did nothing. I am unsure what to do at this step. Syntax Error: TypeError: this.getOptions is not a function

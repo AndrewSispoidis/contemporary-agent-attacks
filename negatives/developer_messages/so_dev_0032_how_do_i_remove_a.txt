@@ -1,0 +1,1 @@
+How do I remove a property from a JavaScript object?. Given an object: How do I remove the property to end up with the following ?

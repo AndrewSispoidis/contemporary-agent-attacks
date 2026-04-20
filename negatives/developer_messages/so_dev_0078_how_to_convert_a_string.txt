@@ -1,0 +1,1 @@
+How to convert a string to number in TypeScript?. Given a string representation of a number, how can I convert it to type in TypeScript?

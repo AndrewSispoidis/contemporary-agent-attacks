@@ -1,0 +1,1 @@
+What is move semantics?. I've just finished listening to the Software Engineering radio podcast interview with Scott Meyers regarding C++11 . Most of the new features made sense to me, with the exception of one. I still don't get move semantics ... What is it exactly?

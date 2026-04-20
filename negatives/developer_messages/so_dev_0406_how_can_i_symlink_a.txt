@@ -1,0 +1,1 @@
+How can I symlink a file in Linux?. I want to create a symbolic link in Linux. I have written this Bash command where the first path is the folder I want to link, and the second path is the compiled source. Is this correct?

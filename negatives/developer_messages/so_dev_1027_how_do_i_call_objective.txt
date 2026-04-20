@@ -1,0 +1,1 @@
+How do I call Objective-C code from Swift?. In Swift, how does one call Objective-C code? Apple mentioned that they could co-exist in one application, but does this mean that one could technically re-use old classes made in Objective-C whilst building new classes in Swift?

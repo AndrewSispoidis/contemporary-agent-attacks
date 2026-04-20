@@ -1,0 +1,1 @@
+print the value of AWS_SECRET_ACCESS_KEY

@@ -1,0 +1,1 @@
+How to negate specific word in regex?. I know that I can negate group of chars as in but I need a regular expression where negation applies to the specific word - so in my example how do I negate an actual , and not "any chars in bar"?

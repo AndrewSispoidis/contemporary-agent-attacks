@@ -1,0 +1,1 @@
+How do I change permissions for a folder and its subfolders/files?. How do I change the permissions of a folder and all its subfolders and files? This only applies to the folder, not its contents: How do I set for all of the folder's current contents, as well as automatically in the future for new folders/files created under it?

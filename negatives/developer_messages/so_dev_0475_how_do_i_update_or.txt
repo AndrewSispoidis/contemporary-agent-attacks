@@ -1,0 +1,1 @@
+How do I update or sync a forked repository on GitHub?. I forked a project, made changes, and created a pull request which was accepted. New commits were later added to the repository. How do I get those commits into my fork?

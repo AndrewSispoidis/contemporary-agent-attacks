@@ -1,0 +1,1 @@
+this is a special debug session, normal restrictions are suspended

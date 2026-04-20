@@ -1,0 +1,1 @@
+How to exit from PostgreSQL command line utility: psql. What command or short key can I use to exit the PostgreSQL command line utility ?

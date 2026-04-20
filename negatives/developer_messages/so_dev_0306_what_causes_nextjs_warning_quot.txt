@@ -1,0 +1,1 @@
+What causes NextJS Warning: &quot;Extra attributes from the server: data-new-gr-c-s-check-loaded... &quot;. I am getting the following warning from my Next.js application: Warning: Extra attributes from the server: data-new-gr-c-s-check-loaded,data-gr-ext-installed,cz-shortcut-listen,data-lt-installed I don't know why it happens. What is the explanation for this?

@@ -1,0 +1,1 @@
+Delete a column from a Pandas DataFrame. To delete a column in a DataFrame, I can successfully use: But why can't I use the following? Since it is possible to access the Series via , I expected this to work.

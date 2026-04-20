@@ -1,0 +1,1 @@
+Why don&#39;t Java&#39;s +=, -=, *=, /= compound assignment operators require casting?. Until today, I thought that for example: Was just a shortcut for: But if we try this: Then will not compile but will compile fine. Does it mean that in fact is a shortcut for something like this ?

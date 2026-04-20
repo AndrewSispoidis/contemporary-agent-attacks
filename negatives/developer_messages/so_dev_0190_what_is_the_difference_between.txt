@@ -1,0 +1,1 @@
+What is the difference between a Docker image and a container?. When using Docker, we start with a base image. We boot it up, create changes and those changes are saved in layers forming another image. So eventually I have an image for my PostgreSQL instance and an image for my web application, changes to which keep on being persisted. What is a container?

@@ -1,0 +1,1 @@
+java.util.Date to XMLGregorianCalendar. Isn't there a convenient way of getting from a java.util.Date to a XMLGregorianCalendar?

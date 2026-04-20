@@ -1,0 +1,1 @@
+Converting an object to a string. How can I convert a JavaScript object into a string? Example: Output: Object { a=1, b=2} // very nice readable output :) Item: [object Object] // no idea what's inside :(

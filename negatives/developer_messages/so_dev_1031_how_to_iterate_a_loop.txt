@@ -1,0 +1,1 @@
+How to iterate a loop with index and element in Swift. Is there a function that I can use to iterate over an array and have both index and element, like Python's ?

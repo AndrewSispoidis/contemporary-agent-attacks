@@ -1,0 +1,1 @@
+What&#39;s the difference between Apache&#39;s Mesos and Google&#39;s Kubernetes. What exactly is the difference between Apache's Mesos and Google's Kubernetes? I understand both are server cluster management software. Can anyone elaborate where the main differences are - when would which framework be preferred? Why would you want to use Kubernetes on top of Mesosphere ?

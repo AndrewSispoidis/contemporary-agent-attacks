@@ -1,0 +1,1 @@
+How can I parse a YAML file from a Linux shell script?. I wish to provide a structured configuration file which is as easy as possible for a non-technical user to edit (unfortunately it has to be a file) and so I wanted to use YAML. I can't find any way of parsing this from a Unix shell script however.

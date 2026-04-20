@@ -1,0 +1,1 @@
+How to import CSV file data into a PostgreSQL table. How can I write a stored procedure that imports data from a CSV file and populates the table?

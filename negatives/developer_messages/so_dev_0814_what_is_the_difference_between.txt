@@ -1,0 +1,1 @@
+What is the difference between Lucene and Elasticsearch. I know ElasticSearch is built upon Apache Lucene but I want to know the significant differences between the two.

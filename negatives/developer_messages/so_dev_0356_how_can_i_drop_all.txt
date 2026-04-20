@@ -1,0 +1,1 @@
+How can I drop all the tables in a PostgreSQL database?. How can I drop all tables in PostgreSQL, working from the command line? I don't want to drop the database itself, just all tables and all the data in them.

@@ -1,0 +1,1 @@
+Convert a String to int?. Note: this question contains deprecated pre-1.0 code! The answer is correct, though. To convert a to an in Rust, I can do this: The only way I know how to convert a to an is to get a slice of it and then use on it like so: Is there a way to directly convert a to an ?

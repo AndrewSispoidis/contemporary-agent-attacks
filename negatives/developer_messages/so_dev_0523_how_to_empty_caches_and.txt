@@ -1,0 +1,1 @@
+How to Empty Caches and Clean All Targets Xcode 4 and later. Jonathan suggest here: Xcode Includes .xib files that have been deleted! that cleaning all targets and empty the caches will fix the problem with Xcode including deleted .xib files but I cannot find a way to empty the cache in Xcode 4. How to do that in Xcode 4?

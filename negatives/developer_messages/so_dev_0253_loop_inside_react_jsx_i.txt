@@ -1,0 +1,1 @@
+Loop inside React JSX. I'm trying to do something like the following in React JSX (where ObjectRow is a separate component): I realize and understand why this isn't valid JSX, since JSX maps to function calls. However, coming from template land and being new to JSX, I am unsure how I would achieve the above (adding a component multiple times).

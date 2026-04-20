@@ -1,0 +1,1 @@
+Regular expression to match a line that doesn&#39;t contain a word. I know it's possible to match a word and then reverse the matches using other tools (e.g. ). However, is it possible to match lines that do not contain a specific word, e.g. , using a regular expression? Input: Code: Desired output:

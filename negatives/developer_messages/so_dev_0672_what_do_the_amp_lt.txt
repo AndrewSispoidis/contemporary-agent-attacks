@@ -1,0 +1,1 @@
+What do the &amp;,&lt;&lt;, * mean in this database.yml file?. Up until now I have only used with each parameter called out explicitly, in the file below it uses some characters I do not understand. What does each line and symbol( , , ) mean? How do I read this file?

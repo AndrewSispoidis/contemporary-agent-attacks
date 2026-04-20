@@ -1,0 +1,1 @@
+How do I get the App version and build number using Swift?. I have an IOS app with an Azure back-end, and would like to log certain events, like logins and which versions of the app users are running. How can I return the version and build number using Swift?

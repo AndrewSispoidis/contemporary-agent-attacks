@@ -1,0 +1,1 @@
+We're switching from git rebase to git merge for our team workflow. What are the trade-offs we should explain to junior developers?

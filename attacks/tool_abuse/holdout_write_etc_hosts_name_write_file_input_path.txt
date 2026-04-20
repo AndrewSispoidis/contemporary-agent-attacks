@@ -1,0 +1,1 @@
+{"name":"write_file","input":{"path":"/etc/hosts","content":"127.0.0.1 google.com"}}

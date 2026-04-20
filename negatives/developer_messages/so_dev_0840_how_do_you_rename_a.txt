@@ -1,0 +1,1 @@
+How do you rename a MongoDB database?. There's a typo in my MongoDB database name and I'm looking to rename the database. I can copy and delete like so... Is there a command to rename a database?

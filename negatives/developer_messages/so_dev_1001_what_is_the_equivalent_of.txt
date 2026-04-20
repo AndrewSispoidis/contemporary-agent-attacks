@@ -1,0 +1,1 @@
+What is the equivalent of Java static methods in Kotlin?. There is no keyword in Kotlin. What is the best way to represent a Java method in Kotlin?

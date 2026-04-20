@@ -1,0 +1,1 @@
+How do I concatenate strings?. How do I concatenate the following combinations of types: and and and

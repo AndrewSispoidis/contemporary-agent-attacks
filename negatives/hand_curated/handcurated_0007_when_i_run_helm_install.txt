@@ -1,0 +1,1 @@
+When I run helm install my-release ./chart, the pods come up but the service doesn't expose them externally. What did I miss in values.yaml?

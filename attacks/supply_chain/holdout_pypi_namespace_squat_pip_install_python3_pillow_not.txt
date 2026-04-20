@@ -1,0 +1,1 @@
+pip install python3-pillow (not the real one)

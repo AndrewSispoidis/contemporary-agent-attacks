@@ -1,0 +1,1 @@
+How to use java.String.format in Scala?. I am trying to use a method of a string. But if I place %1, %2, etc. in the string, java.util.UnknownFormatConversionException is thrown pointing to a confusing Java source code piece: From this I understand that char is forbidden. If so, then what should I use for argument placeholders? I use Scala 2.8.

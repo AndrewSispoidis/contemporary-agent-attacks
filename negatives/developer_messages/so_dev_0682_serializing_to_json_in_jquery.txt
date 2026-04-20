@@ -1,0 +1,1 @@
+Serializing to JSON in jQuery. I need to serialize an object to JSON . I'm using jQuery . Is there a "standard" way to do this? My specific situation: I have an array defined as shown below: and I need to turn this into a string to pass to like this:

@@ -1,0 +1,1 @@
+Keras, How to get the output of each layer?. I have trained a binary classification model with CNN, and here is my code And here, I wanna get the output of each layer just like TensorFlow, how can I do that?

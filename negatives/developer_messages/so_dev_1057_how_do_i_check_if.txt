@@ -1,0 +1,1 @@
+How do I check if a string contains another string in Objective-C?. How can I check if a string ( ) contains another smaller string? I was hoping for something like: But the closest I could find was: Anyway, is that the best way to find if a string contains another string?

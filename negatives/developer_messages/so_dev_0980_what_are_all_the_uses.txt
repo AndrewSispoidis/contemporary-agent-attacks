@@ -1,0 +1,1 @@
+What are all the uses of an underscore in Scala?. I've taken a look at the list of surveys taken on scala-lang.org and noticed a curious question: " Can you name all the uses of “_”? ". Can you? If yes, please do so here. Explanatory examples are appreciated.

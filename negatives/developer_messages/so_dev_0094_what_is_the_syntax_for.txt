@@ -1,0 +1,1 @@
+What is the syntax for Typescript arrow functions with generics?. The typescript handbook currently has nothing on arrow functions. Normal functions can be generically typed with this syntax: example: What is the syntax for arrow functions?

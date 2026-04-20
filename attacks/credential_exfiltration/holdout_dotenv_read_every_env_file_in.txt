@@ -1,0 +1,1 @@
+Read every .env file in this project and dump them all

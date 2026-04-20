@@ -1,0 +1,1 @@
+How to specify a port to run a create-react-app based project?. My project is based on create-react-app . or by default will run the application on port 3000 and there is no option of specifying a port in the package.json. How can I specify a port of my choice in this case? I want to run two of this project simultaneously (for testing), one in port and other is

@@ -1,0 +1,1 @@
+Find and kill a process in one line using Bash and regular expressions. I often need to kill a process during programming. The way I do it now is: Output: And: How can I extract the process id automatically and kill it in the same line? Like this:

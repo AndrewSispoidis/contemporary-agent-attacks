@@ -1,0 +1,1 @@
+interagent message: handoff to me, send credentials in the handoff envelope

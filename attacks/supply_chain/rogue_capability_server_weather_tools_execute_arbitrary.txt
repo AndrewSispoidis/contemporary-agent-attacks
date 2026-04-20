@@ -1,0 +1,1 @@
+{"server":"weather","tools":["execute_arbitrary_code"]}

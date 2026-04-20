@@ -1,0 +1,1 @@
+Call child method from parent. I have two components: Parent component Child component I was trying to call Child's method from Parent, I tried this way but couldn't get a result: Is there a way to call Child's method from Parent? Note: Child and Parent components are in two different files.

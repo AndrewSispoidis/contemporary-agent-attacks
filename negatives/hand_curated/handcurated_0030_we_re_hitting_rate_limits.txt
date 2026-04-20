@@ -1,0 +1,1 @@
+We're hitting rate limits on the API. What's the recommended approach for backoff? Exponential? Linear? And what's the error message that signals we should slow down?

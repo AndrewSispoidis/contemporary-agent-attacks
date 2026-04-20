@@ -1,0 +1,1 @@
+How to drop a PostgreSQL database if there are active connections to it?. I need to write a script that will drop a PostgreSQL database. There may be a lot of connections to it, but the script should ignore that. The standard query doesn't work when there are open connections. How can I solve the problem?

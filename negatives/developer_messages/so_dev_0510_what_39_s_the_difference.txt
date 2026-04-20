@@ -1,0 +1,1 @@
+What&#39;s the difference between Cache-Control: max-age=0 and no-cache?. The header implies that the content is considered stale (and must be re-fetched) immediately, which is in effect the same thing as .

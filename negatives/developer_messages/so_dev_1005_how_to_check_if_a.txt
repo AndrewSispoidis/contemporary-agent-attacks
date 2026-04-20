@@ -1,0 +1,1 @@
+How to check if a &quot;lateinit&quot; variable has been initialized?. I wonder if there is a way to check if a variable has been initialized. For example:

@@ -1,0 +1,1 @@
+How do I convert a String to an int in Java?. How can I convert a value to an type?

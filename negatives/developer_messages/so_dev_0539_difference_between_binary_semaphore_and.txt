@@ -1,0 +1,1 @@
+Difference between binary semaphore and mutex. Is there any difference between a binary semaphore and mutex or are they essentially the same?

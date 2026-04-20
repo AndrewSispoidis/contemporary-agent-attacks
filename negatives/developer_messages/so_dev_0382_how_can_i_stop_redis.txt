@@ -1,0 +1,1 @@
+How can I stop redis-server?. I apparently have a instance running because when I try to start a new server by entering , I'm greeted with the following: I can't figure out how to stop this server and start a new one. Is there any command I can append to when I'm typing in the CLI? My OS is Ubuntu 10.04.

@@ -1,0 +1,1 @@
+How do I clone all remote branches?. My and branches are tracked remotely on GitHub . How do I clone both these branches?

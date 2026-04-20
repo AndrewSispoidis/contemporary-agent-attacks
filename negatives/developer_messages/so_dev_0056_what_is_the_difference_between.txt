@@ -1,0 +1,1 @@
+What is the difference between iter and into_iter?. I am doing the Rust by Example tutorial, which has this code snippet: I am quite confused — for a , the iterator returned from yields references and the iterator returned from yields values, but for an array these iterators are identical? What is the use case/API for these two methods?

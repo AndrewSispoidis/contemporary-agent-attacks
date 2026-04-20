@@ -1,0 +1,1 @@
+How can I programmatically navigate using React Router?. With React Router , I can use the element to create links which are natively handled by React Router. I see internally it calls . I want to do navigation. Not from a link, but from a dropdown selection (as an example). How can I do this in code? What is ? I saw the mixin, but can I do this without mixins?

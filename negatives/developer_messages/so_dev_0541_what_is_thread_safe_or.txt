@@ -1,0 +1,1 @@
+What is thread safe or non-thread safe in PHP?. I saw different binaries for PHP, like non-thread or thread safe? What does this mean? What is the difference between these packages?

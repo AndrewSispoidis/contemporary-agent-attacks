@@ -1,0 +1,1 @@
+Flutter App stuck at &quot;Running Gradle task &#39;assembleDebug&#39;... &quot;. When I run the app it get stuck It never initialize Gradle nor the dependencies

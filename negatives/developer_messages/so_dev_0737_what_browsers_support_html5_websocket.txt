@@ -1,0 +1,1 @@
+What browsers support HTML5 WebSocket API?. I am going to develop an instant messaging application that runs in the browser. What browsers support the WebSocket API ?

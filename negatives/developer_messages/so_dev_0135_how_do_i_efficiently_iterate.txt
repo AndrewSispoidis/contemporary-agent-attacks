@@ -1,0 +1,1 @@
+How do I efficiently iterate over each entry in a Java Map?. If I have an object implementing the interface in Java and I wish to iterate over every pair contained within it, what is the most efficient way of going through the map? Will the ordering of elements depend on the specific map implementation that I have for the interface?

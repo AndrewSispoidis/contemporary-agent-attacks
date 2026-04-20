@@ -1,0 +1,1 @@
+How to determine the URL that a local Git repository was originally cloned from. I pulled a project with several forks on GitHub, but forgot which fork it was. How do I determine which fork I pulled?

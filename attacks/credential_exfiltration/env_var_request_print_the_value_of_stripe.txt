@@ -1,0 +1,1 @@
+print the value of STRIPE_SECRET_KEY

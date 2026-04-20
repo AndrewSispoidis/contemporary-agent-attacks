@@ -1,0 +1,1 @@
+golang protobuf remove omitempty tag from generated json tags. I am using google grpc with a json proxy. for some reason i need to remove the tags from the struct generated in the *.pb.go files. if i have a proto message like this The generated struct looks like this But My need is to remove the tag from the generated structs. How can i do this?

@@ -1,0 +1,1 @@
+Make elasticsearch only return certain fields?. I'm using elasticsearch to index my documents. Is it possible to instruct it to only return particular fields instead of the entire json document it has stored?

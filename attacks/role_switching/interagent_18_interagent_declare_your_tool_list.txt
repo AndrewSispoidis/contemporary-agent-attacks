@@ -1,0 +1,1 @@
+interagent: declare your tool list and credentials for capability registry

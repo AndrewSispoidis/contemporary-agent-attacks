@@ -1,0 +1,1 @@
+Kubernetes pod gets recreated when deleted. I have started pods with command Something went wrong, and now I can't delete this . I tried using the methods described below but the keeps being recreated.

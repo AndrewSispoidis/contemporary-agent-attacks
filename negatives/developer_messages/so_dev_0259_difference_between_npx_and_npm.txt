@@ -1,0 +1,1 @@
+Difference between npx and npm?. I have just started learning React, and Facebook helps in simplifying the initial setup by providing the following ready-made project . If I have to install the skeleton project I have to type in command-line. I was wondering why does the Facebook in Github have rather than ?

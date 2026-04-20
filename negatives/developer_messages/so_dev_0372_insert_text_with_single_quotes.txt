@@ -1,0 +1,1 @@
+Insert text with single quotes in PostgreSQL. I have a table . I need to insert values like: , , . I am getting an error if I run any of the above statements. If there is any method to do this correctly please share. I don't want any prepared statements. Is it possible using sql escaping mechanism?

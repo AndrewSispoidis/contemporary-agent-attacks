@@ -1,0 +1,1 @@
+When should static_cast, dynamic_cast, const_cast, and reinterpret_cast be used?. What are the proper uses of: (C-style cast) (function-style cast) How does one decide which to use in which specific cases?

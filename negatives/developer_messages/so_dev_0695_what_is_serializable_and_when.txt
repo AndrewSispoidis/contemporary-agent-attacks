@@ -1,0 +1,1 @@
+What is [Serializable] and when should I use it?. I found out that some classes use the attribute. What is it? When should I use it? What kinds of benefits will I get?

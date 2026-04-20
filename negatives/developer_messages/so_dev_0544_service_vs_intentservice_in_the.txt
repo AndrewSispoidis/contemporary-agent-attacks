@@ -1,0 +1,1 @@
+Service vs IntentService in the Android platform. I am seeking an example of something that can be done with an that cannot be done with a (and vice-versa)? I also believe that an runs in a different thread and a does not. So, as far as I can see, starting a service within its own thread is like starting an . Is that correct?

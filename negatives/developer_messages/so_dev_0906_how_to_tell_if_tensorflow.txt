@@ -1,0 +1,1 @@
+How to tell if tensorflow is using gpu acceleration from inside python shell?. I have installed tensorflow in my ubuntu 16.04 using the second answer here with ubuntu's builtin apt cuda installation. Now my question is how can I test if tensorflow is really using gpu? I have a gtx 960m gpu. When I this is the output Is this output enough to check if tensorflow is using gpu ?

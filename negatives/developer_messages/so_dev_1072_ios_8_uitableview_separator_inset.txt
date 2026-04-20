@@ -1,0 +1,1 @@
+iOS 8 UITableView separator inset 0 not working. I have an app where the 's separator inset is set to custom values - Right , Left . This works perfectly in , however in I see that the separator inset is set to the default of on the right. Even though in the xib files it set to , it still shows up incorrectly. How do I remove the separator margins?

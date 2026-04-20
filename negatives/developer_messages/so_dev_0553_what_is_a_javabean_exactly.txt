@@ -1,0 +1,1 @@
+What is a JavaBean exactly?. I understood, I think, that a "Bean" is a Java-class with properties and getters/setters. As much as I understand, it is the equivalent of a C . Is that true? Also, is there a real syntactic difference between a and a regular ? Is there any special definition or an ? Basically, why is there a term for this? Also what does the interface mean?

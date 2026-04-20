@@ -1,0 +1,1 @@
+Delete all documents from index without deleting index. I know one can delete all documents from a certain index via deleteByQuery. Example: But i have NO term and simply want to delete all documents from that index, no matter what term. What is best practice to achieve this? Empty term does not work. Link to deleteByQuery

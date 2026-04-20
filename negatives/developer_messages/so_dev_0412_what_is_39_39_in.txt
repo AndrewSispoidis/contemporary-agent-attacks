@@ -1,0 +1,1 @@
+What is &#39;:-!!&#39; in C?. I bumped into this strange macro code in : What does do? Update: In recent times, the macro has been moved to

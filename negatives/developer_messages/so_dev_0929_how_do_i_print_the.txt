@@ -1,0 +1,1 @@
+How do I print the model summary in PyTorch?. How do I print the summary of a model in PyTorch like what does in Keras:

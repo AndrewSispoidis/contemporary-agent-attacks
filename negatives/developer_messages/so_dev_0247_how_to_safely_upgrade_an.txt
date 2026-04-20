@@ -1,0 +1,1 @@
+How to safely upgrade an Amazon EC2 instance from t1.micro to large?. I have an Amazon EC2 micro instance ( ). I want to upgrade this instance to . This is our production environment, so what is the safest way to do this? Is there any step by step guide to do this?

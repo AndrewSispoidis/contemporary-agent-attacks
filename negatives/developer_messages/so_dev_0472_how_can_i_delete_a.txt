@@ -1,0 +1,1 @@
+How can I delete a remote tag?. How can I delete a Git tag that has already been pushed?

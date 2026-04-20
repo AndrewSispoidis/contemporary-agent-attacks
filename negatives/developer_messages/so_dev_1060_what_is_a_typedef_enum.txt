@@ -1,0 +1,1 @@
+What is a typedef enum in Objective-C?. I don't think I fundamentally understand what an is, and when to use it. For example: What is really being declared here?

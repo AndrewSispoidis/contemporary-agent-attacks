@@ -1,0 +1,1 @@
+Command to delete all pods in all kubernetes namespaces. Upon looking at the docs, there is an API call to delete a single pod, but is there a way to delete all pods in all namespaces?

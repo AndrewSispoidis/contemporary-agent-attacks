@@ -1,0 +1,1 @@
+How to modify existing, unpushed commit messages?. I wrote the wrong thing in a commit message. How can I change the message? The commit has not been pushed yet.

@@ -1,0 +1,1 @@
+What does the NS prefix mean?. Many classes in Cocoa/Cocoa Touch have the NS prefix. What does it mean?

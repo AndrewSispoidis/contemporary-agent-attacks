@@ -1,0 +1,1 @@
+Difference between := and = operators in Go. What is the difference between the and operators, and what are the use cases for them? They both seem to be for an assignment?

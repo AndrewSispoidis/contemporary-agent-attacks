@@ -1,0 +1,1 @@
+How to assign to repeated field?. I am using protocol buffers in python and I have a message but when I try to assign a value to it like: I get an error: How to assign a value to a repeated field ?

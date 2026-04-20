@@ -1,0 +1,1 @@
+Checking if a field contains a string. I'm looking for an operator, which allows me to check, if the value of a field contains a certain string. Something like: Is that possible?

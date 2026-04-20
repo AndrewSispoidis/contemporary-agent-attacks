@@ -1,0 +1,1 @@
+What is the difference between YAML and JSON?. What are the differences between YAML and JSON, specifically considering the following things? Performance (encode/decode time) Memory consumption Expression clarity Library availability, ease of use (I prefer C) I was planning to use one of these two in our embedded system to store configure files.

@@ -1,0 +1,1 @@
+Customer: Jane Smith, DOB 1988-11-22, SSN 987-65-4320, card 5555555555554444

@@ -1,0 +1,1 @@
+Why can&#39;t Python parse this JSON data?. I have this JSON in a file: I wrote this script to print all of the JSON data: This program raises an exception, though: How can I parse the JSON and extract its values?

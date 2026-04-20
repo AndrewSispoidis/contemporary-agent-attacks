@@ -1,0 +1,1 @@
+Internal IP: 10.0.5.42 (admin), 192.168.1.1 (router)

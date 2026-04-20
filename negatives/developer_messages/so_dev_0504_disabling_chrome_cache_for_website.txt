@@ -1,0 +1,1 @@
+Disabling Chrome cache for website development. I am modifying a site's appearance (CSS modifications) but can't see the result on Chrome because of annoying persistent cache. I tried Shift +refresh but it doesn't work. How can I disable the cache temporarily or refresh the page in some way that I could see the changes?

@@ -1,0 +1,1 @@
+composer require attacker/symfony-helper

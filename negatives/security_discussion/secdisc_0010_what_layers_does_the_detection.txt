@@ -1,0 +1,1 @@
+What layers does the detection pipeline have?

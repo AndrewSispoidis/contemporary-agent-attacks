@@ -1,0 +1,1 @@
+Elasticsearch query to return all records. I have a small database in Elasticsearch and for testing purposes would like to pull all records back. I am attempting to use a URL of the form... Can someone give me the URL you would use to accomplish this, please?

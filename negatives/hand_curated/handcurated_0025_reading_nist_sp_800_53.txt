@@ -1,0 +1,1 @@
+Reading NIST SP 800-53 control AC-3 (access enforcement). How does this apply to a microservices architecture where services authenticate to each other?

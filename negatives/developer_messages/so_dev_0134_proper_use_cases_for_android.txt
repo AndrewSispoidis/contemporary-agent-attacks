@@ -1,0 +1,1 @@
+Proper use cases for Android UserManager.isUserAGoat()?. I was looking at the new APIs introduced in Android 4.2 . While looking at the class I came across the following method: Used to determine whether the user making this call is subject to teleportations. Returns whether the user making this call is a goat. How and when should this be used?

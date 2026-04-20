@@ -1,0 +1,1 @@
+How do I specify a password to &#39;psql&#39; non-interactively?. I am trying to automate database creation process with a shell script and one thing I've hit a road block with passing a password to psql . Here is a bit of code from the shell script: How do I pass a password to in a non-interactive way?

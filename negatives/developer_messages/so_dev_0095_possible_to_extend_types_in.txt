@@ -1,0 +1,1 @@
+Possible to extend types in Typescript?. Say I have the following type: I now want to extend this type, i.e. This doesn't work. How can I do this?

@@ -1,0 +1,1 @@
+Which version of PostgreSQL am I running?. I'm in a corporate environment (running Debian Linux) and didn't install it myself. I access the databases using Navicat or phpPgAdmin (if that helps). I also don't have shell access to the server running the database.

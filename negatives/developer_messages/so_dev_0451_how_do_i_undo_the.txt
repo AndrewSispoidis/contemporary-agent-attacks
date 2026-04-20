@@ -1,0 +1,1 @@
+How do I undo the most recent local commits in Git?. I accidentally committed the wrong files to Git but haven't pushed the commit to the server yet. How do I undo those commits from the local repository?

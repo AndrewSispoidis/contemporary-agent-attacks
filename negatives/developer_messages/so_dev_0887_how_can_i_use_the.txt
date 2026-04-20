@@ -1,0 +1,1 @@
+How can I use the apply() function for a single column?. I have a pandas dataframe with multiple columns. I want to change the values of the only the first column without affecting the other columns. How can I do that using in pandas?

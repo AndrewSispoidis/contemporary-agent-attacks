@@ -1,0 +1,1 @@
+How do I print the type of a variable in Rust?. I have the following: How do I print the type of ? Using and did not work. Is there another way I can print the number's type?

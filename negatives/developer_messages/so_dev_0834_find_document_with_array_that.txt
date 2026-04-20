@@ -1,0 +1,1 @@
+Find document with array that contains a specific value. If I have this schema... ... where the array is populated with strings. How can I find all persons that have "sushi" as their favorite food using Mongoose? I was hoping for something along the lines of: (I know that there isn’t any in MongoDB; I am just explaining what I was expecting to find before knowing the solution.)

@@ -1,0 +1,1 @@
+Print number of keys in Redis. Is there a way to print the number of keys in Redis? I am aware of But that seems slightly heavy weight. - Given that Redis is a key value store maybe this is the only way to do it. But I would still like to see something along the lines of

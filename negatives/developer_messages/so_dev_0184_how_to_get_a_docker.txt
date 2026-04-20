@@ -1,0 +1,1 @@
+How to get a Docker container&#39;s IP address from the host. Is there a command I can run to get the container's IP address right from the host after a new container is created? Basically, once Docker creates the container, I want to roll my own code deployment and container configuration scripts.

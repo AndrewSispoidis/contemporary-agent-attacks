@@ -1,0 +1,1 @@
+Cannot ping AWS EC2 instance. I have an EC2 instance running in AWS. When I try to ping from my local box it is not available. How can I make the instance pingable?

@@ -1,0 +1,1 @@
+How to efficiently concatenate strings in go. In Go, a is a primitive type, which means it is read-only, and every manipulation of it will create a new string. So if I want to concatenate strings many times without knowing the length of the resulting string, what's the best way to do it? The naive way would be: but that does not seem very efficient.

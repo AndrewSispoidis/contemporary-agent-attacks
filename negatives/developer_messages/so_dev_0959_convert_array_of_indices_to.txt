@@ -1,0 +1,1 @@
+Convert array of indices to one-hot encoded array in NumPy. Given a 1D array of indices: I want to one-hot encode this as a 2D array:

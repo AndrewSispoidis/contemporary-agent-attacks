@@ -1,0 +1,1 @@
+How can I deprecate whole message in Protocol Buffers?. According to documentation : deprecated (field option): If set to true, indicates that the field is deprecated and should not be used by new code. Example of use: How we can deprecate the whole message?

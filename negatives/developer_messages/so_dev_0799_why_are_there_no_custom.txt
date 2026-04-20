@@ -1,0 +1,1 @@
+Why are there no custom default values in proto3?. The proto2 version of Protocol Buffers allows to specify default values for message elements: Why is this no longer possible in proto3 ? I consider this a neat feature to save additional bytes on the wire without the need of writing any wrapper code.

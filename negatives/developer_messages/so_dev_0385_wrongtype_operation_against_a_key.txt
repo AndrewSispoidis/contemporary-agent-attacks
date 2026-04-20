@@ -1,0 +1,1 @@
+WRONGTYPE Operation against a key holding the wrong kind of value php. I am using Laravel with Redis .When I am trying to access a key by get method then get following error "WRONGTYPE Operation against a key holding the wrong kind of value" I am using following code to access the key value - I use this code for get data from redis

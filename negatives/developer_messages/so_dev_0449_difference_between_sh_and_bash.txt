@@ -1,0 +1,1 @@
+Difference between sh and Bash. When writing shell programs, we often use and . I usually use , but I don't know what's the difference between them. What's the main difference between Bash and ? What do we need to be aware of when programming in Bash and ?

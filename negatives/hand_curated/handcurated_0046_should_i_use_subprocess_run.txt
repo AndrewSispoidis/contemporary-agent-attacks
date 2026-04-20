@@ -1,0 +1,1 @@
+Should I use subprocess.run() or os.system() in a script that calls git? I want to capture both stdout and stderr.

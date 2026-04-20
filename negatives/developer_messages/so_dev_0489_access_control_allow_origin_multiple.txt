@@ -1,0 +1,1 @@
+Access-Control-Allow-Origin Multiple Origin Domains?. Is there a way to allow multiple cross-domains using the header? I'm aware of the , but it is too open. I really want to allow just a couple domains. As an example, something like this: I have tried the above code but it does not seem to work in Firefox. Is it possible to specify multiple domains or am I stuck with just one?

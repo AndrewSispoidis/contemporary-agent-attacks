@@ -1,0 +1,1 @@
+Why can templates only be implemented in the header file?. Quote from The C++ standard library: a tutorial and handbook : The only portable way of using templates at the moment is to implement them in header files by using inline functions. Why is this? (Clarification: header files are not the only portable solution. But they are the most convenient portable solution.)

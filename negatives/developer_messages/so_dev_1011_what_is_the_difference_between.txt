@@ -1,0 +1,1 @@
+What is the difference between &quot;const&quot; and &quot;val&quot;?. I have recently read about the keyword, and I'm so confused! I can't find any difference between and the keyword, I mean we can use both of them to make an immutable variable, is there anything else that I'm missing?

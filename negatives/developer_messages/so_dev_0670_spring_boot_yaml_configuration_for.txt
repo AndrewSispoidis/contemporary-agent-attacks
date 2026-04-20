@@ -1,0 +1,1 @@
+Spring Boot YAML configuration for a list of strings. I am trying to load an array of strings from the file. This is the config: This is the class fragment: There are other configurations in the same class that loads just fine. There are no tabs in my YAML file. Still, I get the following exception:

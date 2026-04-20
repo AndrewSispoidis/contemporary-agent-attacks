@@ -1,0 +1,1 @@
+I'm reading Anthropic's prompt engineering guide and they recommend wrapping examples in <example> XML tags. Why XML? Couldn't I just use markdown headers?

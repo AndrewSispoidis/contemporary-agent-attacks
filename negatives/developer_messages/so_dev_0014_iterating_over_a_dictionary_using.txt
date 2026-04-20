@@ -1,0 +1,1 @@
+Iterating over a dictionary using a &#39;for&#39; loop, getting keys. How does Python recognize that it needs only to read the from the dictionary? Is a special keyword, or is it simply a variable?

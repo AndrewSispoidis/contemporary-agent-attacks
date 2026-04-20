@@ -1,0 +1,1 @@
+Regular expression to stop at first match. My regex pattern looks something like I am only interested in the part in quotes assigned to location. Shouldn't it be as easy as below without the greedy switch? Does not seem to work.

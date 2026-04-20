@@ -1,0 +1,1 @@
+Save classifier to disk in scikit-learn. How do I save a trained Naive Bayes classifier to disk and use it to predict data? I have the following sample program from the scikit-learn website:

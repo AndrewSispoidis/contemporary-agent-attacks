@@ -1,0 +1,1 @@
+I see eval() used in some old Python code I'm refactoring. The function takes a string from a config file. What are the alternatives?

@@ -1,0 +1,1 @@
+Reading Docker's security best practices doc. They mention 'never run containers as root' but our legacy app needs to bind to port 80. How do other teams handle this?

@@ -1,0 +1,1 @@
+PostgreSQL &quot;DESCRIBE TABLE&quot;. How do you perform the equivalent of Oracle's in PostgreSQL with psql command?

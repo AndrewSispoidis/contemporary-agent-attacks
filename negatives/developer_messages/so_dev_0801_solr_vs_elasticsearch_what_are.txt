@@ -1,0 +1,1 @@
+Solr vs. ElasticSearch. What are the core architectural differences between these technologies? Also, what use cases are generally more appropriate for each?

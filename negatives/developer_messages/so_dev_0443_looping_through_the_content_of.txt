@@ -1,0 +1,1 @@
+Looping through the content of a file in Bash. How do I iterate through each line of a text file with Bash ? With this script: I get this output on the screen: (Later I want to do something more complicated with than just output to the screen.) The environment variable SHELL is (from env): output: output: The file peptides.txt contains:

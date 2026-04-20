@@ -1,0 +1,1 @@
+What do all of Scala&#39;s symbolic operators mean?. Scala syntax has a lot of symbols. Since these kinds of names are difficult to find using search engines, a comprehensive list of them would be helpful. What are all of the symbols in Scala, and what does each of them do? In particular, I'd like to know about , , , , , , and .

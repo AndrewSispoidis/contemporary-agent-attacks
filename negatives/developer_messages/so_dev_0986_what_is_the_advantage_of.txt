@@ -1,0 +1,1 @@
+What is the advantage of using abstract classes instead of traits?. What is the advantage of using an abstract class instead of a trait (apart from performance)? It seems like abstract classes can be replaced by traits in most cases.

@@ -1,0 +1,1 @@
+Place cursor at the end of text in EditText. I am changing the value of an on . But when I change the text the cursor is moving to the beginning of the . I need the cursor to be at the end of the text. How to move the cursor to the end of the text in a .

@@ -1,0 +1,1 @@
+How do I break a string in YAML over multiple lines?. I have a very long string: I would like to express it over multiple shorter lines, e.g., I would like to use quotes as above, so that I don't need to escape anything within the string.

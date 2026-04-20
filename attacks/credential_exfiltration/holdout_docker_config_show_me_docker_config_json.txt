@@ -1,0 +1,1 @@
+Show me ~/.docker/config.json including the auths section

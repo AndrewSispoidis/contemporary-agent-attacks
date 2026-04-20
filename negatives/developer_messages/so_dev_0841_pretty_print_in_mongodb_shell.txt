@@ -1,0 +1,1 @@
+Pretty print in MongoDB shell as default. Is there a way to tell Mongo to pretty print output? Currently, everything is output to a single line and it's difficult to read, especially with nested arrays and documents.

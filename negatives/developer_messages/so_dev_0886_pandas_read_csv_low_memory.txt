@@ -1,0 +1,1 @@
+Pandas read_csv: low_memory and dtype options. ...gives an error: .../site-packages/pandas/io/parsers.py:1130: DtypeWarning: Columns (4,5,7,16) have mixed types. Specify dtype option on import or set low_memory=False. Why is the option related to , and why might help?

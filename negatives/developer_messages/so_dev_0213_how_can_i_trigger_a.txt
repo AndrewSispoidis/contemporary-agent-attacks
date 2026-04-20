@@ -1,0 +1,1 @@
+How can I trigger a Kubernetes Scheduled Job manually?. I've created a Kubernetes Scheduled Job , which runs twice a day according to its schedule. However, I would like to trigger it manually for testing purposes. How can I do this?

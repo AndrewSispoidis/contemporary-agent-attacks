@@ -1,0 +1,1 @@
+How to add external JS scripts to VueJS Components?. I've to use two external scripts for the payment gateways. Right now both are put in the file. However, I don't want to load these files at the beginning itself. The payment gateway is needed only in when user open a specific component ( ). Is there anyway to achieve this? Thanks.

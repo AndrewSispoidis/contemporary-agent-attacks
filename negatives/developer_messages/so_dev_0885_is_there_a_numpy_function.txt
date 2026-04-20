@@ -1,0 +1,1 @@
+Is there a NumPy function to return the first index of something in an array?. I know there is a method for a Python list to return the first index of something: Is there something like that for NumPy arrays?

@@ -1,0 +1,1 @@
+Difference between targetPort and port in Kubernetes Service definition. A Kubernetes can have a and in the service definition: What is the difference between the and ?

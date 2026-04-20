@@ -1,0 +1,1 @@
+How do I delete everything in Redis?. I want to delete all keys. I want everything wiped out and give me a blank database. Is there a way to do this in Redis client?

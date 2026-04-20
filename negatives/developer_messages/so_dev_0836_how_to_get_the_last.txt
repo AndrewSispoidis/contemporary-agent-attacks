@@ -1,0 +1,1 @@
+How to get the last N records in mongodb?. I can't find anywhere it has been documented this. By default, the find() operation will get the records from beginning. How can I get the last N records in mongodb? Edit: also I want the returned result ordered from less recent to most recent, not the reverse.

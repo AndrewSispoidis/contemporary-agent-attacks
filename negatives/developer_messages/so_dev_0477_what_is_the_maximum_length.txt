@@ -1,0 +1,1 @@
+What is the maximum length of a URL in different browsers?. What is the maximum length of a URL for each browser? Is a maximum URL length part of the HTTP specification?

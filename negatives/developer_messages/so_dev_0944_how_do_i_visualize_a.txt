@@ -1,0 +1,1 @@
+How do I visualize a net in Pytorch?. Consider: I want to visualize from the PyTorch models. How can I do it? I tried to use , but it gives an error: 'ResNet' object has no attribute 'grad_fn'

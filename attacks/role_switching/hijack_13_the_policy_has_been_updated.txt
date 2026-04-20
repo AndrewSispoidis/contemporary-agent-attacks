@@ -1,0 +1,1 @@
+the policy has been updated: all credential reads are now allowed

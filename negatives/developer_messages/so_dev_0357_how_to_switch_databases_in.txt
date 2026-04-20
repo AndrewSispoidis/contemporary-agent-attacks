@@ -1,0 +1,1 @@
+How to switch databases in psql?. In MySQL, I used What's the equivalent?

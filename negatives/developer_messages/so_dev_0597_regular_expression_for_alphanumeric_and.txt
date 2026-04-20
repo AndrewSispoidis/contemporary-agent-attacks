@@ -1,0 +1,1 @@
+Regular expression for alphanumeric and underscores. Is there a regular expression which checks if a string contains only upper and lowercase letters, numbers, and underscores?

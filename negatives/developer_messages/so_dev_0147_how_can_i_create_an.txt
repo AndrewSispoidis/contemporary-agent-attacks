@@ -1,0 +1,1 @@
+How can I create an executable/runnable JAR with dependencies using Maven?. I want to package my project in a single executable JAR for distribution. How can I make a Maven project package all dependency JARs into my output JAR?

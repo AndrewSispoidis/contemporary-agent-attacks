@@ -1,0 +1,1 @@
+How do you do a deep copy of an object in .NET?. I want a true deep copy. In Java, this was easy, but how do you do it in C#?

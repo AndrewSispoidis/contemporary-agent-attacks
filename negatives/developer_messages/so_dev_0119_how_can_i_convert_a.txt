@@ -1,0 +1,1 @@
+How can I convert a zero-terminated byte array to string?. I need to read to transfer a bunch of data. Because not all of the s are precisely 100 characters long, the remaining part of the is padded with s. If I convert to by: , the tailing s are displayed as s. In C, the will terminate upon , so what's the best way to convert this to in Go?

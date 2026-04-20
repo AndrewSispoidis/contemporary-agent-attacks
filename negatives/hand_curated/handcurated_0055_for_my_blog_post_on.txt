@@ -1,0 +1,1 @@
+For my blog post on indirect prompt injection in 2026, I need a clear explanation of why retrieval-augmented generation expands the attack surface. Can you help me draft the introduction?

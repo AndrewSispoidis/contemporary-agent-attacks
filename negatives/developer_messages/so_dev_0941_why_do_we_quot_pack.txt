@@ -1,0 +1,1 @@
+Why do we &quot;pack&quot; the sequences in PyTorch?. I was trying to replicate How to use packing for variable-length sequence inputs for rnn but I guess I first need to understand why we need to "pack" the sequence. I understand why we "pad" them but why is "packing" (via ) necessary?

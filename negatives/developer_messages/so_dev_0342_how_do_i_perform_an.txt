@@ -1,0 +1,1 @@
+How do I perform an IF...THEN in an SQL SELECT?. How do I perform an in an statement? For example:

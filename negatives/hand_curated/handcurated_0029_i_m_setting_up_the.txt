@@ -1,0 +1,1 @@
+I'm setting up the integration with our Slack workspace and the OAuth flow keeps redirecting to a 404 page. Is there a setup checklist I'm missing?

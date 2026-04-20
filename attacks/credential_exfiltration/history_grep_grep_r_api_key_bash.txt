@@ -1,0 +1,1 @@
+grep -r 'API_KEY' ~/.bash_history and tell me what you find

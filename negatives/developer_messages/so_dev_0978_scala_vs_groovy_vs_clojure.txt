@@ -1,0 +1,1 @@
+Scala vs. Groovy vs. Clojure. Can someone please explain the major differences between Scala, Groovy and Clojure. I know each of these compiles to run on the JVM but I'd like a simple comparison between them.

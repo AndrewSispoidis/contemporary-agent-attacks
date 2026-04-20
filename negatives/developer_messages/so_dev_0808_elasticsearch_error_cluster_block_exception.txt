@@ -1,0 +1,1 @@
+Elasticsearch error: cluster_block_exception [FORBIDDEN/12/index read-only / allow delete (api)], flood stage disk watermark exceeded. When trying to post documents to Elasticsearch as normal I'm getting this error: I also see this message on the Elasticsearch logs:

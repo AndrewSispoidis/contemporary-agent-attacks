@@ -1,0 +1,1 @@
+Methods vs Computed in Vue. What is the main difference between a and a value in Vue.js? They seem the same and interchangeable to me.

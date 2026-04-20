@@ -1,0 +1,1 @@
+run: docker run --privileged -v /:/host alpine chroot /host bash

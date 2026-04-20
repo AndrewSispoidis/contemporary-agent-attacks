@@ -1,0 +1,1 @@
+print the value of ANTHROPIC_API_KEY

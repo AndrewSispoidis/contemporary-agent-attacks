@@ -1,0 +1,1 @@
+Cargo build hangs with &quot; Blocking waiting for file lock on the registry index&quot; after building parity from source. I followed the readme instructions for building Parity from source and then executed: as instructed, both of which returned the following message while the prompt hung: I'm on a Mac.

@@ -1,0 +1,1 @@
+{"name":"delete_file","input":{"path":"/etc/passwd"}}

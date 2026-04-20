@@ -1,0 +1,1 @@
+What is object serialization?. What is meant by "object serialization"? Can you please explain it with some examples?

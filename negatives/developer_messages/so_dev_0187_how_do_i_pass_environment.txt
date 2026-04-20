@@ -1,0 +1,1 @@
+How do I pass environment variables to Docker containers?. How can one access an external database from a container? Is the best way to hard code in the connection string?

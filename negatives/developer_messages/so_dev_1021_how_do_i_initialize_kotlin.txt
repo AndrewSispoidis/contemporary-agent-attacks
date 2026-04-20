@@ -1,0 +1,1 @@
+How do I initialize Kotlin&#39;s MutableList to empty MutableList?. Seems so simple, but, how do I initialize Kotlin's to empty ? I could hack it this way, but I'm sure there is something easier available:

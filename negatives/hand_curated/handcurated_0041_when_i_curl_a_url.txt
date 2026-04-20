@@ -1,0 +1,1 @@
+When I curl a URL with -L, it follows redirects. But when I pipe the result to less, the redirect loses the original URL. How do I see both?

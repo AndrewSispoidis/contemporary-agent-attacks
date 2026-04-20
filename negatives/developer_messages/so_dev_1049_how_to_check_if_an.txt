@@ -1,0 +1,1 @@
+How to check if an element is in an array. In Swift, how can I check if an element exists in an array? Xcode does not have any suggestions for , , or , and a quick search through the book turned up nothing. Any idea how to check for this? I know that there is a method that returns the index number, but is there a method that returns a boolean like ruby's ? Example of what I need:

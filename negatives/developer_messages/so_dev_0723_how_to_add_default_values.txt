@@ -1,0 +1,1 @@
+How to add default values to input arguments in graphql. I have this input type and I would like to add a default Value to one of the fields. I want to add 0 to the value field inside the ExampleInput. Any ideas?

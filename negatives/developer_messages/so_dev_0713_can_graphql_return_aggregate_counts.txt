@@ -1,0 +1,1 @@
+Can graphql return aggregate counts?. Graphql is great and I've started using it in my app. I have a page that displays summary information and I need graphql to return aggregate counts? Can this be done?

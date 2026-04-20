@@ -1,0 +1,1 @@
+How can I create a memory leak in Java?. I just had an interview where I was asked to create a memory leak with Java. Needless to say, I felt pretty dumb, having no idea how to start creating one. What would an example be?

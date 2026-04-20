@@ -1,0 +1,1 @@
+print the value of DOCKER_AUTH_CONFIG

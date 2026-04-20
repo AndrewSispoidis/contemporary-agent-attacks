@@ -1,0 +1,1 @@
+Docker how to change repository name or rename image?. I'm trying to change repository name of the image: Hence I want to change the name to something like : How can I do this?

@@ -1,0 +1,1 @@
+Our retrieval-augmented generation pipeline pulls content from web pages. What's the attack surface we should worry about?

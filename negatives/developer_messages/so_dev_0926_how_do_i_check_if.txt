@@ -1,0 +1,1 @@
+How do I check if PyTorch is using the GPU?. How do I check if PyTorch is using the GPU? The command can detect GPU activity, but I want to check it directly from inside a Python script.

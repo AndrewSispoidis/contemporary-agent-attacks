@@ -1,0 +1,1 @@
+I'm threat-modeling an AI agent that has tool access including web fetching and code execution. What categories of attack should I prioritize?

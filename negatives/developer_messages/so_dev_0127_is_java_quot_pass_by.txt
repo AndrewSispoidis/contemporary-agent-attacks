@@ -1,0 +1,1 @@
+Is Java &quot;pass-by-reference&quot; or &quot;pass-by-value&quot;?. I always thought Java uses pass-by-reference . However, I read a blog post which claims that Java uses pass-by-value . I don't think I understand the distinction the author is making. What is the explanation?

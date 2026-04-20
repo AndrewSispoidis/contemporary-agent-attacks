@@ -1,0 +1,1 @@
+EC2 instance has no public DNS. A guy I work with gave me the EC2 credentials to log onto his EC2 console. I was not the one who set it up. Some of the instances show a public dns name and others have a blank public DNS. I want to be able to connect to the instances that have a blank public DNS. I have not been able to figure out why these show up as blank.

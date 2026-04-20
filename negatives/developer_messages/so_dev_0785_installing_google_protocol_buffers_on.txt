@@ -1,0 +1,1 @@
+Installing Google Protocol Buffers on mac. I would like to install the older version of Google Protocol Buffers (protobuf-2.4.1) on Mac using the command line/Terminal app. I tried with , but the latest version 2.5.0 has been installed. Is it possible to install the older version from the terminal?

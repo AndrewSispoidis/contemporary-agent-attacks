@@ -1,0 +1,1 @@
+How do I avoid checking for nulls in Java?. I use to avoid . Is there an alternative?

@@ -1,0 +1,1 @@
+How to clear the cache of nginx?. I use nginx to as the front server, I have modified the CSS files, but nginx is still serving the old ones. I have tried to restart nginx, to no success and I have Googled, but not found a valid way to clear it. Some articles say we can just delete the cache directory: , but there is no such directory on my server. What should I do now?

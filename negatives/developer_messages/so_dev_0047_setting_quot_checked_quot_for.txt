@@ -1,0 +1,1 @@
+Setting &quot;checked&quot; for a checkbox with jQuery. I'd like to do something like this to tick a using jQuery : or Does such a thing exist?

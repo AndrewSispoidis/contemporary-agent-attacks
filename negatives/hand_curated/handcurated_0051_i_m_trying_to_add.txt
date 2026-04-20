@@ -1,0 +1,1 @@
+I'm trying to add a vendor-specific build flag to my HTML page using a comment like <!-- ignore everything below this line -->. Will this actually be processed by webpack?

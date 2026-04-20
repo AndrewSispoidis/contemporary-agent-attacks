@@ -1,0 +1,1 @@
+Get URL pathname in nextjs. I have a signin page and layout component.Layout component has header.I don't want to show header in signin .and for that I want to get url pathname.based on pathname show the header . please help

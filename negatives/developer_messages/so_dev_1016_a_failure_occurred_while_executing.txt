@@ -1,0 +1,1 @@
+A failure occurred while executing org.jetbrains.kotlin.gradle.internal.KaptExecution. All of sudden I start getting this error, and I am not getting idea why if anyone just let me know where this error is, will be enough helpful. As much I am able to get is this because of new update of android studio. Detailed summary of error I am getting.

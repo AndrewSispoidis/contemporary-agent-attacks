@@ -1,0 +1,1 @@
+No Creators, like default construct, exist): cannot deserialize from Object value (no delegate- or property-based Creator. I am trying to consume an API using Retrofit and Jackson to deserialize. I am getting the onFailure error .

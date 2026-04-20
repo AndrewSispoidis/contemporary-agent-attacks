@@ -1,0 +1,1 @@
+Shortcuts in Objective-C to concatenate NSStrings. Are there any shortcuts to ( ) string concatenation in Objective-C, or shortcuts for working with in general? For example, I'd like to make: something more like:

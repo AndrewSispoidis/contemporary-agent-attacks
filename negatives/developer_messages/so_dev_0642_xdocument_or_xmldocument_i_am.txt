@@ -1,0 +1,1 @@
+XDocument or XmlDocument. I am now learning but I've just ran into and when I try to search the difference or benefits of them I can't find something useful, could you please tell me why you would use one over another ?

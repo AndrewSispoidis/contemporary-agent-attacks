@@ -1,0 +1,1 @@
+What are the differences between a HashMap and a Hashtable in Java?. What are the differences between a and a in Java? Which is more efficient for non-threaded applications?

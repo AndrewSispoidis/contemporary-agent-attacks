@@ -1,0 +1,1 @@
+How do I determine whether an array contains a particular value in Java?. I have a with values like so: Given , is there a good way of testing whether contains ?

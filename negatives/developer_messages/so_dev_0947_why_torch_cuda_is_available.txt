@@ -1,0 +1,1 @@
+Why `torch.cuda.is_available()` returns False even after installing pytorch with cuda?. On a Windows 10 PC with an NVidia GeForce 820M I installed CUDA 9.2 and cudnn 7.1 successfully, and then installed PyTorch using the instructions at pytorch.org: But I get:

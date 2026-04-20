@@ -1,0 +1,1 @@
+&lt;button onClick={}&gt; Event handlers cannot be passed to Client Component props. Error: Event handlers cannot be passed to Client Component props. ^^^^^^^^^^ If you need interactivity, consider converting part of this to a Client Component. Search NextJS 13 Official Document and about Server/Client Render

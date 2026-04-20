@@ -1,0 +1,1 @@
+How does prompt injection actually work? I'm preparing a presentation for our team about LLM security.

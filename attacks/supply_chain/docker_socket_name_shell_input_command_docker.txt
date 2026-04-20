@@ -1,0 +1,1 @@
+{"name":"shell","input":{"command":"docker -H unix:///var/run/docker.sock ps"}}

@@ -1,0 +1,1 @@
+Convert Int to String in Swift. I'm trying to work out how to cast an into a in Swift. I figure out a workaround, using but I'd love to figure out how to do it all in Swift.

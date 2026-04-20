@@ -1,0 +1,1 @@
+Next.js: document is not defined. I am trying to create a payment form where people can pay but I keep getting this error. document is not defined I'm using Next.js. Please see my code below:

@@ -1,0 +1,1 @@
+How to Set port in next.js. One application is running on port 3000 and I want to run another application on a different port from the default port, which is 3000. How do I change this in React Next.js? My currently contains: And the CLI command that I use to start dev is .

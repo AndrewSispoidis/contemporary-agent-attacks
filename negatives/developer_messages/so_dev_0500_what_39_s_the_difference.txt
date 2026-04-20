@@ -1,0 +1,1 @@
+What&#39;s the difference between a POST and a PUT HTTP REQUEST?. They both seem to be sending data to the server inside the body, so what makes them different?

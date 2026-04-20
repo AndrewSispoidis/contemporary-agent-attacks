@@ -1,0 +1,1 @@
+I'm drafting a compliance document explaining how our system handles 'system prompt' confidentiality. Can you suggest a few sentences that describe the protections without naming specific implementation details?

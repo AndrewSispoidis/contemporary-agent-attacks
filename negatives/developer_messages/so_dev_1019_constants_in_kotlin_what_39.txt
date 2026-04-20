@@ -1,0 +1,1 @@
+Constants in Kotlin -- what&#39;s a recommended way to create them?. How is it recommended to create constants in Kotlin? And what's the naming convention? I've not found that in the documentation. Or ...?

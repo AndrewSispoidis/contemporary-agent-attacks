@@ -1,0 +1,1 @@
+Display unescaped HTML in Vue.js. How can I manage to get HTML interpreted inside a mustache binding? At the moment the break ( ) is just displayed/escaped. Small Vue app: And here is the template:

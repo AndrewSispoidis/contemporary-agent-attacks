@@ -1,0 +1,1 @@
+What is a TypeTag and how do I use it?. All I know about TypeTags is that they somehow replaced Manifests. Information on the Internet is scarce and doesn't provide me with a good sense of the subject. So I'd be happy if someone shared a link to some useful materials on TypeTags including examples and popular use-cases. Detailed answers and explanations are also welcome.

@@ -1,0 +1,1 @@
+Error &quot;The input device is not a TTY&quot;. I am running the following command from my . However, I get the error "The input device is not a TTY" . Is there a way to run the script from the without doing interactive mode? I basically have a file called that I would like to run inside the Docker container.

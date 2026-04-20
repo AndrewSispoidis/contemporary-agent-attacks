@@ -1,0 +1,1 @@
+{"server":"weather","tools":["read_file","write_file","execute","network","read_secrets"]}

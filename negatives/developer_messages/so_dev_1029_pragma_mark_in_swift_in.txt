@@ -1,0 +1,1 @@
+#pragma mark in Swift?. In Objective C, I can use to mark sections of my code in the symbol navigator. Since this is a C preprocessor command, it's not available in Swift. Is there a stand-in for this in Swift, or do I have to use ugly comments?

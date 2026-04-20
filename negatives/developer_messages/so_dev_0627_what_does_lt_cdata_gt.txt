@@ -1,0 +1,1 @@
+What does &lt;![CDATA[]]&gt; in XML mean?. I often find this strange tag in files: I have observed that this tag always comes at the beginning, and then followed by some stuff. But sometimes it is used, sometimes it is not. I assume it is to mark that is the "data" that will be inserted after that. But what kind of data is ? Isn't anything I write in XML tags some sort of data?

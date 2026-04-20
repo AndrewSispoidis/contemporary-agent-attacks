@@ -1,0 +1,1 @@
+How many system resources will be held for keeping 1,000,000 websocket open?. Websocket is good, but would it be able to handle 1,000,000 concurrent connections? How many system resources will be needed for keeping 1,000,000 websocket open? Thanks!

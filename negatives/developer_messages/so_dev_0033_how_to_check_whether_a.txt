@@ -1,0 +1,1 @@
+How to check whether a string contains a substring in JavaScript?. Usually I would expect a method, but there doesn't seem to be one. What is a reasonable way to check for this?

@@ -1,0 +1,1 @@
+How do I create a directory, and any missing parent directories?. How do I create a directory at a given path, and also create any missing parent directories along that path? For example, the Bash command does this.

@@ -1,0 +1,1 @@
+Change key pair for ec2 instance. How do I change the key pair for my ec2 instance in AWS management console? I can stop the instance, I can create new key pair, but I don't see any link to modify the instance's key pair.

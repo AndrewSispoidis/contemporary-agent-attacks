@@ -1,0 +1,1 @@
+What is the difference between a process and a thread?. What is the technical difference between a process and a thread? I get the feeling a word like 'process' is overused and there are also hardware and software threads. How about light-weight processes in languages like Erlang ? Is there a definitive reason to use one term over the other?

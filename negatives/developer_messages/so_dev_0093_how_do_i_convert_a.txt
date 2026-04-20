@@ -1,0 +1,1 @@
+How do I convert a string to enum in TypeScript?. I have defined the following enum in TypeScript: Now in my function I receive color as a string. I have tried the following code: How can I convert that value to an enum?

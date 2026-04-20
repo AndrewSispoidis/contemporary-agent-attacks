@@ -1,0 +1,1 @@
+What do &#39;lazy&#39; and &#39;greedy&#39; mean in the context of regular expressions?. What are these two terms in an understandable way?

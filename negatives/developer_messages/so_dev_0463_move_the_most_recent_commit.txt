@@ -1,0 +1,1 @@
+Move the most recent commit(s) to a new branch with Git. How do I move my recent commits on to a new branch, and reset master to before those commits were made? e.g. From this: To this:

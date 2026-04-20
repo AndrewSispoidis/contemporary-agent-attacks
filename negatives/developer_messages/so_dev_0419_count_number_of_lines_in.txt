@@ -1,0 +1,1 @@
+Count number of lines in a non binary file (Like a CSV or a TXT) file in terminal. I have a text file, and I like to know the total number of line withou opening it. My document is like these, and I want to know how many lines actually... Is there a way to count in Linux Terminal?

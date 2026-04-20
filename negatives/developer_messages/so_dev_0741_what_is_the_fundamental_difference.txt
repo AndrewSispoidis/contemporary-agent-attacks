@@ -1,0 +1,1 @@
+What is the fundamental difference between WebSockets and pure TCP?. I've read about WebSockets and I wonder why browser couldn't simply open trivial TCP connection and communicate with server like any other desktop application. And why this communication is possible via websockets?

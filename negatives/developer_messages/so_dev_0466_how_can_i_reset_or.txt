@@ -1,0 +1,1 @@
+How can I reset or revert a file to a specific revision?. How can I revert a modified file to its previous revision at a specific commit hash (which I determined via and )?

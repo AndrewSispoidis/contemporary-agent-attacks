@@ -1,0 +1,1 @@
+enumerate all possible combinations of the digits 0-9 taken 5 at a time

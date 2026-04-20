@@ -1,0 +1,1 @@
+What is the difference between np.array() and np.asarray()?. What is the difference between NumPy's and ? When should I use one rather than the other? They seem to generate identical output.

@@ -1,0 +1,1 @@
+In this Express handler, the `req.body.user` is being passed to a database query without sanitization. Should we use parameterized queries instead?

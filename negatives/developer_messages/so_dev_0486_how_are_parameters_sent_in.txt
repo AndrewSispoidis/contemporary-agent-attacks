@@ -1,0 +1,1 @@
+How are parameters sent in an HTTP POST request?. In an HTTP GET request, parameters are sent as a query string : In an HTTP POST request, the parameters are not sent along with the URI. Where are the values? In the request header? In the request body? What does it look like?

@@ -1,0 +1,1 @@
+How do I resolve merge conflicts in a Git repository?. How do I resolve merge conflicts in my Git repository?

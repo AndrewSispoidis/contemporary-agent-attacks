@@ -1,0 +1,1 @@
+Error message &quot;error:0308010C:digital envelope routines::unsupported&quot;. I created the default IntelliJ IDEA React project and got this: It seems to be a recent issue - webpack ran into this 4 days ago and is still working on it .

@@ -1,0 +1,1 @@
+How can I add new keys to a dictionary?. How do I add a new key to an existing dictionary? It doesn't have an method.

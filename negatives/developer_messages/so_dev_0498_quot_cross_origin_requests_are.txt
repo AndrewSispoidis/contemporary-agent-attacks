@@ -1,0 +1,1 @@
+&quot;Cross origin requests are only supported for HTTP.&quot; error when loading a local file. I'm trying to load a 3D model, stored locally on my computer, into Three.js with JSONLoader, and that 3D model is in the same directory as the entire website. I'm getting Cross origin requests are only supported for HTTP. but I don't know what's causing it or how to fix it.

@@ -1,0 +1,1 @@
+&#39;Property does not exist on type &#39;never&#39;. This is similar to #40796374 but that is around types, while I am using interfaces. Given the code below: I have an error saying 'Property 'name' does not exist on type 'never'. I don't understand how instance could ever be a 'never'. Can anyone shed some light on this?

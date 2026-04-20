@@ -1,0 +1,1 @@
+When to use virtual destructors?. I have a solid understanding of most theory but the one thing that confuses me a lot is virtual destructors. I thought that the destructor always gets called no matter what and for every object in the chain. When are you meant to make them virtual and why?

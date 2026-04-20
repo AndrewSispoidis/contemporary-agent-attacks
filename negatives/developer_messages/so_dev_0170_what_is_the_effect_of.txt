@@ -1,0 +1,1 @@
+What is the effect of extern &quot;C&quot; in C++?. What exactly does putting into C++ code do? For example:

@@ -1,0 +1,1 @@
+OpenClaw now has sandboxes like Docker for AI agent isolation.

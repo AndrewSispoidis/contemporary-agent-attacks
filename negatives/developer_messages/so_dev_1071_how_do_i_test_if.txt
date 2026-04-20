@@ -1,0 +1,1 @@
+How do I test if a string is empty in Objective-C?. How do I test if an is empty in Objective-C?

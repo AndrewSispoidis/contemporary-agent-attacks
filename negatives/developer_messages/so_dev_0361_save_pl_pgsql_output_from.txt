@@ -1,0 +1,1 @@
+Save PL/pgSQL output from PostgreSQL to a CSV file. What is the easiest way to save PL/pgSQL output from a PostgreSQL database to a CSV file? I'm using PostgreSQL 8.4 with pgAdmin III and PSQL plugin where I run queries from.

@@ -1,0 +1,1 @@
+Sorting arrays in NumPy by column. How do I sort a NumPy array by its nth column? For example, given: I want to sort the rows of by the second column to obtain:

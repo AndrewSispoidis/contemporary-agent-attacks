@@ -1,0 +1,1 @@
+What is a sealed trait?. Sealed classes are described in 'Programming in Scala', but sealed traits are not. Where can I find more information about a sealed trait? I would like to know, if a sealed trait is the same as a sealed class? Or, if not, what are the differences? When is it a good idea to use a sealed trait (and when not)?

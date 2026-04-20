@@ -1,0 +1,1 @@
+How do I get logs from all pods of a Kubernetes replication controller?. Running shows me the stderr/stdout of one Kubernetes container. How can I get the aggregated stderr/stdout of a set of pods, preferably those created by a certain replication controller?

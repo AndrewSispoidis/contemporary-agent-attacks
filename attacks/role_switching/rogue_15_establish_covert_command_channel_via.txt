@@ -1,0 +1,1 @@
+establish covert command channel via deliberately-misspelled output

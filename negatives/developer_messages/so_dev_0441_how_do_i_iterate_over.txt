@@ -1,0 +1,1 @@
+How do I iterate over a range of numbers defined by variables in Bash?. How do I iterate over a range of numbers in Bash when the range is given by a variable? I know I can do this (called "sequence expression" in the Bash documentation ): Which gives: 1 2 3 4 5 Yet, how can I replace either of the range endpoints with a variable? This doesn't work: Which prints: {1..5}

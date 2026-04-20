@@ -1,0 +1,1 @@
+How to switch namespace in kubernetes. Say, I have two namespaces k8s-app1 and k8s-app2 I can list all pods from specific namespace using the below command We need to append namespace to all commands to list objects from the respective namespaces. Is there a way to set specific namespace and list objects without including the namespace explicitly?

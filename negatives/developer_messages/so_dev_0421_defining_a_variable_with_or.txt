@@ -1,0 +1,1 @@
+Defining a variable with or without export. What is for? What is the difference between: and

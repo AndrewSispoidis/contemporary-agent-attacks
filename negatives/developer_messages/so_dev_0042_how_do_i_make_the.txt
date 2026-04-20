@@ -1,0 +1,1 @@
+How do I make the first letter of a string uppercase in JavaScript?. How do I make the first character of a string uppercase if it's a letter, but not change the case of any of the other letters? For example: → → →

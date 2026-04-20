@@ -1,0 +1,1 @@
+Text editor to open big (giant, huge, large) text files. I mean 100+ MB big; such text files can push the envelope of editors. I need to look through a large XML file, but cannot if the editor is buggy. Any suggestions?

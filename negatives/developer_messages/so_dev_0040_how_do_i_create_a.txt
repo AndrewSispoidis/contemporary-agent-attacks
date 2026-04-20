@@ -1,0 +1,1 @@
+How do I create a GUID / UUID?. How do I create GUIDs (globally-unique identifiers) in JavaScript? The GUID / UUID should be at least 32 characters and should stay in the ASCII range to avoid trouble when passing them around. I'm not sure what routines are available on all browsers, how "random" and seeded the built-in random number generator is, etc.

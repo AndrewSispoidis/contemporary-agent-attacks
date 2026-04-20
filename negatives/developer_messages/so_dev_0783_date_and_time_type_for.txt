@@ -1,0 +1,1 @@
+Date and time type for use with Protobuf. I'm considering to use Protocol Buffers for data exchange between a Linux and a Windows based system. Whats the recommended format for sending date/time (timestamp) values? The field should be small when serialized.

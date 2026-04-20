@@ -1,0 +1,1 @@
+Where does the convention of using /healthz for application health checks come from?. In the Kubernetes/Docker ecosystem there is a convention of using as a health-check endpoint for applications. Where does the name 'healthz' come from, and are there any particular semantics associated with that name?

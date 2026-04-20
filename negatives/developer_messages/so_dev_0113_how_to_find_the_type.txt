@@ -1,0 +1,1 @@
+How to find the type of an object in Go?. How do I find the type of an object in Go? In Python, I just use to fetch the type of object. Similarly in Go, is there a way to implement the same ? Here is the container from which I am iterating: I am not able to get the type of the object lines in this case which is an array of strings.

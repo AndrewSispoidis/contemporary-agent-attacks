@@ -1,0 +1,1 @@
+Selecting multiple columns in a Pandas dataframe. How do I select columns and from , and save them into a new dataframe ? Unsuccessful attempt:

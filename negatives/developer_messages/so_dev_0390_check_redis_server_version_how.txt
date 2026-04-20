@@ -1,0 +1,1 @@
+Check Redis server version. how to check Redis server version? I've found in Redis site this command: $ redis-server and that should give me (according to the site): but I get this instead: Which mean I need to configure it, but all I want is the version! So how do I check Redis server version?

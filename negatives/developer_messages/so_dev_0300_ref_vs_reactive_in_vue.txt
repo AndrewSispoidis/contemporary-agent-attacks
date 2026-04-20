@@ -1,0 +1,1 @@
+`ref()` vs `reactive()` in Vue 3?. I checked a few guides for Vue 3 and noticed that in some examples they used , while in others they created the same thing with . They seem to behave very similarly, but which one should I use in each case? One example each from the ones I looked at: For For

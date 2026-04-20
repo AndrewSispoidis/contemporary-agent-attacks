@@ -1,0 +1,1 @@
+How do I test a class that has private methods, fields or inner classes?. How do I use JUnit to test a class that has internal private methods, fields or nested classes? It seems bad to change the access modifier for a method just to be able to run a test.

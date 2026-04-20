@@ -1,0 +1,1 @@
+check if a key exists in a bucket in s3 using boto3. I would like to know if a key exists in boto3. I can loop the bucket contents and check the key if it matches. But that seems longer and an overkill. Boto3 official docs explicitly state how to do this. May be I am missing the obvious. Can anybody point me how I can achieve this.

@@ -1,0 +1,1 @@
+How do I update the GUI from another thread?. Which is the simplest way to update a from another ? I have a running on , and from that I'm starting another thread ( ). While is processing some files I would like to update a on the with the current status of 's work. How could I do that?

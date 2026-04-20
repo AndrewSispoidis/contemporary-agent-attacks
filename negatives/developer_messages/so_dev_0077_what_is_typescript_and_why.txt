@@ -1,0 +1,1 @@
+What is TypeScript and why should I use it instead of JavaScript?. What is the TypeScript language? What can it do that JavaScript or available libraries cannot do, that would give me reason to consider it?

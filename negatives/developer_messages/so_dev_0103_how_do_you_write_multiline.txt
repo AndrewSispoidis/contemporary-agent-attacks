@@ -1,0 +1,1 @@
+How do you write multiline strings in Go?. Does Go have anything similar to Python's multiline strings: If not, what is the preferred way of writing strings spanning multiple lines?

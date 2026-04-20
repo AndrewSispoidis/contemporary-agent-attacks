@@ -1,0 +1,1 @@
+UPDATE from a SELECT. In SQL Server , it is possible to insert rows into a table with an statement: Is it also possible to update a table with ? I have a temporary table containing the values and would like to update another table using those values. Perhaps something like this:

@@ -1,0 +1,1 @@
+How to compare arrays in JavaScript?. I'd like to compare two arrays... ideally, efficiently. Nothing fancy, just if they are identical, and if not. Not surprisingly, the comparison operator doesn't seem to work. JSON encoding each array does, but is there a faster or "better" way to simply compare arrays without having to iterate through each value?

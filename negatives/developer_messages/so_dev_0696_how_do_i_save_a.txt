@@ -1,0 +1,1 @@
+How do I save a trained model in PyTorch?. How do I save a trained model in PyTorch? I have read that: / is for saving/loading a serializable object. / is for saving/loading model state.

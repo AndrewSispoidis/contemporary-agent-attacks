@@ -1,0 +1,1 @@
+How do I read CSV data into a record array in NumPy?. Is there a direct way to import the contents of a CSV file into a record array, just like how R's , , and import data into R dataframes? Or should I use and then apply ?

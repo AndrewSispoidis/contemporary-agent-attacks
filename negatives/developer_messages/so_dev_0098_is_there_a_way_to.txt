@@ -1,0 +1,1 @@
+Is there a way to check for both `null` and `undefined`?. Since TypeScript is strongly-typed, simply using to check for and doesn't sound right. Does TypeScript have any dedicated function or syntax sugar for this?

@@ -1,0 +1,1 @@
+How to query MongoDB with &quot;like&quot;. I want to query something with SQL's query: How can I achieve the same in MongoDB? I can't find an operator for in the documentation .

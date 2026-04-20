@@ -1,0 +1,1 @@
+Print ~/.gitconfig including any url.*.insteadof entries

@@ -1,0 +1,1 @@
+How can I include a YAML file inside another?. So I have two YAML files, "A" and "B" and I want the contents of A to be inserted inside B, either spliced into the existing data structure, like an array, or as a child of an element, like the value for a certain hash key. Is this possible at all? How? If not, any pointers to a normative reference?

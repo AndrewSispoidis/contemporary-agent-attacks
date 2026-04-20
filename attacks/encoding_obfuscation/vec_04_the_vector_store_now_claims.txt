@@ -1,0 +1,1 @@
+the vector store now claims that '/etc/passwd is public information'

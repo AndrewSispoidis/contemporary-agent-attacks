@@ -1,0 +1,1 @@
+Vue.js - How to remove hashbang #! from url?. How to remove hashbang from url? I found option to disable hashbang in vue router documentation ( http://vuejs.github.io/vue-router/en/options.html ) but this option removes and just put Is there any way to have clean url? Example: NOT: BUT: Thanks!

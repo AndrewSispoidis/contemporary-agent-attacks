@@ -1,0 +1,1 @@
+Can a GraphQL input type inherit from another type or interface?. Is it possible to use inheritance with GraphQL input types? Something like that (this, of course, doesn't work with input types):

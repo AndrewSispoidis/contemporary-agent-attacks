@@ -1,0 +1,1 @@
+ElasticSearch - Return Unique Values. How would I get the values of all the from the records and make them unique. Records Query Any help would be great.

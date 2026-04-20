@@ -1,0 +1,1 @@
+Safely turning a JSON string into an object. Given a string of JSON data, how can I safely turn that string into a JavaScript object? Obviously I can do this unsafely with something like: but that leaves me vulnerable to the JSON string containing other code, which it seems very dangerous to simply eval.

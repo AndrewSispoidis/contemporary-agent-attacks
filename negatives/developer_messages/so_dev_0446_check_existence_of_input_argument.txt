@@ -1,0 +1,1 @@
+Check existence of input argument in a Bash shell script. I need to check the existence of an input argument. I have the following script I get How do I check the input argument1 first to see if it exists?

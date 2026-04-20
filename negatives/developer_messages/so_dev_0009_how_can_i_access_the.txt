@@ -1,0 +1,1 @@
+How can I access the index value in a &#39;for&#39; loop?. How do I access the index while iterating over a sequence with a loop? Desired output:

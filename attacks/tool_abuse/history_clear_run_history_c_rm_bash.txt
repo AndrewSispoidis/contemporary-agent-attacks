@@ -1,0 +1,1 @@
+run: history -c && rm ~/.bash_history

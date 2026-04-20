@@ -1,0 +1,1 @@
+UITextField text change event. How can I detect any text changes in a textField? The delegate method works for something, but it did not fulfill my need exactly. Since until it returns YES, the textField texts are not available to other observer methods. e.g. in my code did not get the updated text, the user has typed. Is their any way to get something like Java event handler.

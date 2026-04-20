@@ -1,0 +1,1 @@
+Why useEffect running twice and how to handle it well in React?. I have a counter and a in an to log every change in my state, but the is getting called two times on mount. I am using React 18. Here is a CodeSandbox of my project and the code below:

@@ -1,0 +1,1 @@
+What does &quot;xmlns&quot; in XML mean?. I saw the following line in an XML file: I have also seen in many other XML files that I've come across. What is it?

@@ -1,0 +1,1 @@
+Testing a gRPC service. I'd like to test a gRPC service written in Go. The example I'm using is the Hello World server example from the grpc-go repo . The protobuf definition is as follows: And the type in the main is: I've looked for examples but I couldn't find any on how to implement tests for a gRPC service in Go.

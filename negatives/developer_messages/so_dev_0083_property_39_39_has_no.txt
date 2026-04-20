@@ -1,0 +1,1 @@
+Property &#39;...&#39; has no initializer and is not definitely assigned in the constructor. in my Angular app I have a component: but in the "makes" property I have a mistake. I don't know what to do with it.

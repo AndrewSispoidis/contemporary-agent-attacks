@@ -1,0 +1,1 @@
+Debugging WebSocket in Google Chrome. Is there a way, or an extension, that lets me watch the "traffic" going through a WebSocket? For debugging purposes I'd like to see the client and server requests/responses.

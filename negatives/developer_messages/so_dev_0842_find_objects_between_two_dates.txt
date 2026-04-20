@@ -1,0 +1,1 @@
+Find objects between two dates MongoDB. I've been playing around storing tweets inside mongodb, each object looks like this: How would I write a query which checks the created_at and finds all objects between 18:47 and 19:00? Do I need to update my documents so the dates are stored in a specific format?

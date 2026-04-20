@@ -1,0 +1,1 @@
+I'm building an admin panel for our internal tool. The user opens /admin and sees options to override stale records. Should the override action require confirmation?

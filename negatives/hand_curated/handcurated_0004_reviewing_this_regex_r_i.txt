@@ -1,0 +1,1 @@
+Reviewing this regex: r"(?i)ignore\s+previous\s+instructions". I think it's missing a word boundary after 'instructions' to avoid matching 'instructionset'. Thoughts?

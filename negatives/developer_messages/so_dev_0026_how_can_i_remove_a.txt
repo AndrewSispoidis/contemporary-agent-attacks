@@ -1,0 +1,1 @@
+How can I remove a specific item from an array in JavaScript?. How do I remove a specific value from an array? Something like: Constraints: I have to use core JavaScript. Frameworks are not allowed.

@@ -1,0 +1,1 @@
+What is the meaning of the word logits in TensorFlow?. In the following TensorFlow function, we must feed the activation of artificial neurons in the final layer. That I understand. But I don't understand why it is called logits? Isn't that a mathematical function?

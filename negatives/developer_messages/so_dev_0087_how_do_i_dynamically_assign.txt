@@ -1,0 +1,1 @@
+How do I dynamically assign properties to an object in TypeScript?. If I wanted to programmatically assign a property to an object in Javascript, I would do it like this: But in TypeScript, this generates an error: The property 'prop' does not exist on value of type '{}' How do I assign any new property to an object in TypeScript?

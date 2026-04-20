@@ -1,0 +1,1 @@
+How do I initialize weights in PyTorch?. How do I initialize weights and biases of a network (via e.g. He or Xavier initialization)?

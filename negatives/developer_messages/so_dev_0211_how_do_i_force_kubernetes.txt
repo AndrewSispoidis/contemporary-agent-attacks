@@ -1,0 +1,1 @@
+How do I force Kubernetes to re-pull an image?. I have the following replication controller in Kubernetes on GKE: Now, if I say the rolling update is performed, but no re-pull. Why?

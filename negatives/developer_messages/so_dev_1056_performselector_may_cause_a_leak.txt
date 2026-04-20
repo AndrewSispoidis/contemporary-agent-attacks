@@ -1,0 +1,1 @@
+performSelector may cause a leak because its selector is unknown. I'm getting the following warning by the ARC compiler: Here's what I'm doing: Why do I get this warning? I understand the compiler can't check if the selector exists or not, but why would that cause a leak? And how can I change my code so that I don't get this warning anymore?

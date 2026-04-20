@@ -1,0 +1,1 @@
+How is GRPC different from REST?. I'm reading this explanation of GRPC and this diagram is of interest: How does the transport layer work? If it's over the network... why is it called an RPC? More importantly, how is this different from REST that implements an API for the service-layer (the class in the client that has methods that make a http request)?

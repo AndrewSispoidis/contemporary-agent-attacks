@@ -1,0 +1,1 @@
+How can I iterate over rows in a Pandas DataFrame?. I have a pandas dataframe, : How do I iterate over the rows of this dataframe? For every row, I want to access its elements (values in cells) by the name of the columns. For example: I found a similar question , which suggests using either of these: But I do not understand what the object is and how I can work with it.

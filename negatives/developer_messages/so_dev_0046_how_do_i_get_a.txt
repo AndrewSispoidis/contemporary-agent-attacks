@@ -1,0 +1,1 @@
+How do I get a timestamp in JavaScript?. I want a single number that represents the current date and time, like a Unix timestamp .

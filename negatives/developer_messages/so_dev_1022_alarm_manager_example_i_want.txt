@@ -1,0 +1,1 @@
+Alarm Manager Example. I want to implement a schedule function in my project. So I Googled for an Alarm manager program but I can`t find any examples. Can anyone help me with a basic alarm manager program?

@@ -1,0 +1,1 @@
+When to use LinkedList over ArrayList in Java?. I've always been one to simply use: I use the interface as the type name for portability , so that when I ask questions such as this, I can rework my code. When should be used over and vice-versa?

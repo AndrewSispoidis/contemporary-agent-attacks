@@ -1,0 +1,1 @@
+How can I make a weak protocol reference in &#39;pure&#39; Swift (without @objc). references don't seem to work in Swift unless a is declared as , which I don't want in a pure Swift app. This code gives a compile error ( cannot be applied to non-class type ): I need to prefix the protocol with , then it works. Question: What is the 'pure' Swift way to accomplish a ?

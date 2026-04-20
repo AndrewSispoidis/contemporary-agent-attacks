@@ -1,0 +1,1 @@
+Could not connect to Redis at 127.0.0.1:6379: Connection refused with homebrew. Using homebrew to install Redis but when I try to ping Redis it shows this error: Note : I tried to turn off firewall and edit conf file but still cannot ping. I am using macOS Sierra and homebrew version 1.1.11

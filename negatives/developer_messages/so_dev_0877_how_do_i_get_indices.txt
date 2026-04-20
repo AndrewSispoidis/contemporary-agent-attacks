@@ -1,0 +1,1 @@
+How do I get indices of N maximum values in a NumPy array?. NumPy proposes a way to get the index of the maximum value of an array via . I would like a similar thing, but returning the indexes of the maximum values. For instance, if I have an array, , then would return the indices which correspond to the elements .

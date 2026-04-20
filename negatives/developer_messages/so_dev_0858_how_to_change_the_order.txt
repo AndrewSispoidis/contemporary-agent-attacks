@@ -1,0 +1,1 @@
+How to change the order of DataFrame columns?. I have the following DataFrame ( ): I add more column(s) by assignment: How can I move the column to the front, i.e. set it as first column leaving the order of the other columns untouched?

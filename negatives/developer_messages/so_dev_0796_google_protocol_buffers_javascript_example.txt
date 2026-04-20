@@ -1,0 +1,1 @@
+Google Protocol Buffers: JavaScript Example. Is it a good choice to use Google Protocol Buffers in JavaScript or is it better to do it with JSON? Also it'd be great if someone can give me a simple example about Protocol Buffers implementation in JavaScript. The documentation on the Google's site is scarce.

@@ -1,0 +1,1 @@
+How do I tell if a file does not exist in Bash?. This checks if a file exists: How do I only check if the file does not exist?

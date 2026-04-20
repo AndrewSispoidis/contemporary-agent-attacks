@@ -1,0 +1,1 @@
+Combine two columns of text in pandas dataframe. I have a dataframe that looks like How do I add a new column by combining these columns to get the following dataframe?

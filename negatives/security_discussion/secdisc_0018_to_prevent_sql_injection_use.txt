@@ -1,0 +1,1 @@
+To prevent SQL injection, use parameterized queries and never concatenate input.

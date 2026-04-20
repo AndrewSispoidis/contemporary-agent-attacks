@@ -1,0 +1,1 @@
+How can I pretty-print JSON in a shell script?. Is there a (Unix) shell script to format JSON in human-readable form? Basically, I want it to transform the following: ... into something like this:

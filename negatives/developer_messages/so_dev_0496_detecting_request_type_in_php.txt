@@ -1,0 +1,1 @@
+Detecting request type in PHP (GET, POST, PUT or DELETE). How can I detect which request type was used (GET, POST, PUT or DELETE) in PHP?

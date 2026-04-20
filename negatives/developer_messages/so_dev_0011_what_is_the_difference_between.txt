@@ -1,0 +1,1 @@
+What is the difference between @staticmethod and @classmethod in Python?. What is the difference between a method decorated with and one decorated with ?

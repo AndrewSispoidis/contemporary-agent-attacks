@@ -1,0 +1,1 @@
+How to check if a string contains a substring in Bash. I have a string in Bash: How can I test if it contains another string? Where is my unknown operator. Do I use and ? That looks a bit clumsy.

@@ -1,0 +1,1 @@
+What is difference between Lightsail and EC2?. Recently Amazon launched Lightsail . Is there any difference between them? If yes, then what's the difference? Are Lightsail instances more powerful than EC2?

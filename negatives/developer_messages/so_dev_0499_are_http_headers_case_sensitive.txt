@@ -1,0 +1,1 @@
+Are HTTP headers case-sensitive?. In a blog post I use the following PHP to set the content-type of a response: I just got a comment on that post saying that needs to be capitalized, . Is this correct? It seems to work for me with all lower-case, and I assumed the HTTP headers were case-insensitive. Or does it just work because browsers are nice?

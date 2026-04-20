@@ -1,0 +1,1 @@
+How to listen for &#39;props&#39; changes. In the VueJs 2.0 docs I can't find any hooks that would listen on changes. Does VueJs have such hooks like or similar? Update As @wostex suggested, I tried to my property but nothing changed. Then I realized that I've got a special case: I am passing that the parent component receives to the component. Then the is not working.

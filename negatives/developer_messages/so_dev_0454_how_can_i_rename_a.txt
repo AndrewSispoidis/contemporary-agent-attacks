@@ -1,0 +1,1 @@
+How can I rename a local Git branch?. How can I rename a local branch which has not yet been pushed to a remote repository? Related: Rename master branch for both local and remote Git repositories How do I rename both a Git local and remote branch name?

@@ -1,0 +1,1 @@
+Swift - How to replace characters in a String?. I am looking for a way to replace characters in a Swift . In this example String: I would like to replace the spaces, , with to end up with . How can I achieve this?

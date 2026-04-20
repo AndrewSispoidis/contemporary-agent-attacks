@@ -1,0 +1,1 @@
+The xz-utils backdoor (CVE-2024-3094) is a fascinating case study. What signals could a typical org have used to detect the malicious commits before they shipped?
