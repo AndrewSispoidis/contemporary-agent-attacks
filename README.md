@@ -16,7 +16,7 @@ scoring details.
 ## Quick start
 
 ```bash
-git clone https://github.com/getcrawdad/contemporary-agent-attacks
+git clone https://github.com/AndrewSispoidis/contemporary-agent-attacks
 cd contemporary-agent-attacks
 
 # Point at whatever classifier you want to measure
@@ -109,4 +109,4 @@ adapters for other tools. See [CONTRIBUTING.md](CONTRIBUTING.md).
 [CC BY 4.0](LICENSE). Attribution required — cite as:
 
 > "Contemporary Agent Attacks", getcrawdad, 2026.
-> https://github.com/getcrawdad/contemporary-agent-attacks
+> https://github.com/AndrewSispoidis/contemporary-agent-attacks
