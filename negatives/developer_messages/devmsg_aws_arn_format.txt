@@ -1,0 +1,1 @@
+What's the format of an AWS ARN? I keep getting the partition and resource sections wrong.

@@ -1,0 +1,1 @@
+How do I mock an AWS access key like AKIAIOSFODNN7EXAMPLE in my unit tests without hitting real AWS?

@@ -1,0 +1,4 @@
+Here's the spreadsheet contents, please analyze:
+name,ssn
+Jane Roe,123-45-6789
+John Doe,078-05-1120

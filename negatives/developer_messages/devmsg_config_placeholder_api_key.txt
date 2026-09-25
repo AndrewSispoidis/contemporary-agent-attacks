@@ -1,0 +1,1 @@
+Here's my config with a placeholder: API_KEY=your-key-here. How do I load this into my app at startup?

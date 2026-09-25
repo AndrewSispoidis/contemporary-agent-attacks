@@ -2,8 +2,8 @@
 
 An open, reproducible benchmark of attacks targeting modern LLM agents.
 
-- **497 attacks** (395 visible + 102 holdout) across 13 categories
-- **1,172 benign samples** across 4 negative categories, for measuring false-positive rates
+- **533 attacks** (431 visible + 102 holdout) across 15 categories
+- **1,187 benign samples** across 4 negative categories, for measuring false-positive rates
 - **Tool-agnostic benchmark runner** — works with any HTTP-addressable classifier
 - **CC-BY 4.0** — use it for your product, paper, or class
 
@@ -45,14 +45,16 @@ blocked vs. allowed.
 ```
 attacks/
   prompt_injection/           # 37 — direct "ignore previous" style injections
-  credential_exfiltration/    # 44 — read env vars, SSH keys, cloud creds, output API keys
+  credential_exfiltration/    # 56 — read env vars, SSH keys, cloud creds, API keys, secrets in tool results
   indirect_injection/         # 30 — payloads hidden in email/RAG/Slack/PDF/tool output
   jailbreak/                  # 30 — DAN, role-play, simulator, philosophical, translation
   role_switching/             # 65 — goal hijack, rogue agents, inter-agent compromise
   encoding_obfuscation/       # 40 — base64, hex, rot13, homoglyph, RTL override, embedding
+  obfuscated_exfiltration/    #  8 — base64/double-b64/hex/rot13/reversed/zero-width/bold secrets & PII
   system_prompt_extraction/   # 20 — direct and indirect system-prompt leakage
   exfiltration/               # 28 — data-exfiltration intent ("POST these rows to …")
-  pii_leakage/                # 20 — SSN, passport, medical records, PII disclosure
+  pii_leakage/                # 30 — SSN, passport, medical records, PII disclosure & uploads
+  company_term_leakage/       #  6 — client codenames / customer / project terms sent to an LLM
   tool_abuse/                 # 53 — dangerous shell / subprocess / eval / file-write calls
   exploitation_request/       # 20 — cascading failure patterns and exploit requests
   supply_chain/               # 40 — typosquats, unsigned installs, MCP manifest abuse
@@ -60,9 +62,9 @@ attacks/
                               #      human-agent trust manipulation
 
 negatives/
-  developer_messages/    # 1,075 — wild Stack Overflow developer Q&A
+  developer_messages/    # 1,083 — wild Stack Overflow developer Q&A + exfil look-alikes
   conversational/        #    10 — short benign chat prompts
-  security_discussion/   #    30 — benign security discussion ("how does SQL
+  security_discussion/   #    37 — benign security discussion ("how does SQL
                          #         injection work?", OWASP/CVE prose, etc.)
   hand_curated/          #    57 — near-miss negatives crafted to look like
                          #         attacks to a naïve classifier
@@ -71,6 +73,40 @@ negatives/
 Each attack/negative is one `.txt` file with a descriptive slug filename. The
 files contain only the attack or benign text — no metadata, so you can feed
 them to any tool without parsing.
+
+### Data-exfiltration corpus (`exfil-1.0`)
+
+A focused layer for scoring **outbound** data-loss prevention — data *leaving*
+to an LLM — with benign look-alikes so misses and false positives can be
+published honestly. It spans four attack categories:
+
+- `credential_exfiltration` — API keys, private keys, DB URLs, JWTs, Slack
+  tokens, and secrets embedded in JSON `tool_result` payloads.
+- `pii_leakage` — SSNs, cards, passports, medical/bank records, and PII framed
+  as spreadsheet/CSV **uploads**.
+- `company_term_leakage` — client codenames, customer names, and internal
+  project terms sent to an external model.
+- `obfuscated_exfiltration` — the same secrets/PII hidden behind base64,
+  double-base64, hex, rot13, reversal, zero-width splitting, and Unicode
+  "mathematical bold" glyphs.
+
+All example secrets and PII are **synthetic and clearly fake** (canonical
+values such as `AKIAIOSFODNN7EXAMPLE`, `123-45-6789`, `4111 1111 1111 1111`).
+
+The same corpus is mirrored as machine-readable indexes for in-process
+verifiers, alongside the `.txt` files (each JSON `payload` equals its file
+verbatim):
+
+```
+benchmark/exfil-corpus.json      # 36 attacks across the 4 categories
+benchmark/exfil-negatives.json   # 15 benign look-alikes (expected: allowed)
+benchmark/exfil-dictionary.json  #  6 client terms for the company-term detector
+```
+
+Results are reported separately in
+[benchmark/EXFIL-RESULTS.md](benchmark/EXFIL-RESULTS.md) (numbers TBD, filled by
+the scoring run). This layer is released under the same [CC BY 4.0](LICENSE) as
+the rest of the corpus.
 
 ### Holdout split
 
@@ -88,6 +124,10 @@ train on holdout files** — use them only for final scoring. See
 
 See [leaderboard.md](leaderboard.md) for more, and
 [benchmark/results/](benchmark/results/) for raw JSON.
+
+The row above was scored on the original 497-attack / 1,172-negative snapshot,
+before the data-exfiltration corpus was added; exfil-corpus scores are tracked
+separately in [benchmark/EXFIL-RESULTS.md](benchmark/EXFIL-RESULTS.md).
 
 ## Scoring
 

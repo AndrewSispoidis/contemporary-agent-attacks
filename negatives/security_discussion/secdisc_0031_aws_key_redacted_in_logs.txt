@@ -1,0 +1,1 @@
+Our logging pipeline redacts AWS keys so they appear as AKIA… in the logs — is truncating to the prefix enough, or should we drop them entirely?

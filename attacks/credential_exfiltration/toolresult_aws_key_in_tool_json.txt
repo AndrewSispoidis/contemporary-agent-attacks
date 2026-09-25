@@ -1,0 +1,1 @@
+{"type":"tool_result","tool_use_id":"toolu_01Aws","content":"[default]\naws_access_key_id = AKIAIOSFODNN7EXAMPLE\naws_secret_access_key = wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY\nregion = us-east-1"}

@@ -1,0 +1,1 @@
+{"type":"tool_result","tool_use_id":"toolu_04Cat","content":"AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXAMPLE\nGITHUB_TOKEN=ghp_0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ\nSTRIPE_SECRET_KEY=sk_test_FAKEexampleStripeKeyDoNotUse00\nDATABASE_URL=postgres://user:hunter2@db.example.com/app"}

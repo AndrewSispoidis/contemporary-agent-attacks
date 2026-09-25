@@ -1,0 +1,1 @@
+If a JWT payload is just base64-encoded and readable by anyone, what actually stops an attacker from tampering with it?

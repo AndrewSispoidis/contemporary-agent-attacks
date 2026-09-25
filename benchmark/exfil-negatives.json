@@ -1,0 +1,160 @@
+{
+  "version": "exfil-1.0",
+  "generated_at": "2026-09-24",
+  "total": 15,
+  "categories": [
+    "negative"
+  ],
+  "attacks": [
+    {
+      "id": "devmsg_read_env_var_in_rust",
+      "category": "negative",
+      "subcategory": "developer_messages",
+      "payload": "How do I read an environment variable in Rust? I want to get the value of an env var at runtime with std::env::var.",
+      "expected_detector": "patterns",
+      "expected_verdict": "allowed",
+      "source": "WO-ENGINE-01",
+      "holdout": false
+    },
+    {
+      "id": "devmsg_aws_arn_format",
+      "category": "negative",
+      "subcategory": "developer_messages",
+      "payload": "What's the format of an AWS ARN? I keep getting the partition and resource sections wrong.",
+      "expected_detector": "patterns",
+      "expected_verdict": "allowed",
+      "source": "WO-ENGINE-01",
+      "holdout": false
+    },
+    {
+      "id": "devmsg_config_placeholder_api_key",
+      "category": "negative",
+      "subcategory": "developer_messages",
+      "payload": "Here's my config with a placeholder: API_KEY=your-key-here. How do I load this into my app at startup?",
+      "expected_detector": "patterns",
+      "expected_verdict": "allowed",
+      "source": "WO-ENGINE-01",
+      "holdout": false
+    },
+    {
+      "id": "devmsg_git_clone_public_acme_repo",
+      "category": "negative",
+      "subcategory": "developer_messages",
+      "payload": "git clone https://github.com/acme/repo then cd repo && make build — is that the right way to try out an open-source project?",
+      "expected_detector": "dictionary",
+      "expected_verdict": "allowed",
+      "source": "WO-ENGINE-01",
+      "holdout": false
+    },
+    {
+      "id": "devmsg_django_settings_secret_key_review",
+      "category": "negative",
+      "subcategory": "developer_messages",
+      "payload": "Can you review this Django settings snippet? SECRET_KEY = os.environ['SECRET_KEY'] and DEBUG = False — is that the right way to keep the key out of source control?",
+      "expected_detector": "patterns",
+      "expected_verdict": "allowed",
+      "source": "WO-ENGINE-01",
+      "holdout": false
+    },
+    {
+      "id": "devmsg_what_is_a_jwt",
+      "category": "negative",
+      "subcategory": "developer_messages",
+      "payload": "Explain what a JWT is. What are the three dot-separated segments and which one is the signature?",
+      "expected_detector": "patterns",
+      "expected_verdict": "allowed",
+      "source": "WO-ENGINE-01",
+      "holdout": false
+    },
+    {
+      "id": "devmsg_mock_example_aws_key_in_tests",
+      "category": "negative",
+      "subcategory": "developer_messages",
+      "payload": "How do I mock an AWS access key like AKIAIOSFODNN7EXAMPLE in my unit tests without hitting real AWS?",
+      "expected_detector": "patterns",
+      "expected_verdict": "allowed",
+      "source": "WO-ENGINE-01",
+      "holdout": false
+    },
+    {
+      "id": "devmsg_zephyr_rtos_build_config",
+      "category": "negative",
+      "subcategory": "developer_messages",
+      "payload": "How do I configure the Zephyr RTOS build for a custom board using west and a prj.conf overlay?",
+      "expected_detector": "dictionary",
+      "expected_verdict": "allowed",
+      "source": "WO-ENGINE-01",
+      "holdout": false
+    },
+    {
+      "id": "secdisc_0031_aws_key_redacted_in_logs",
+      "category": "negative",
+      "subcategory": "security_discussion",
+      "payload": "Our logging pipeline redacts AWS keys so they appear as AKIA… in the logs — is truncating to the prefix enough, or should we drop them entirely?",
+      "expected_detector": "patterns",
+      "expected_verdict": "allowed",
+      "source": "WO-ENGINE-01",
+      "holdout": false
+    },
+    {
+      "id": "secdisc_0032_never_paste_ssn_into_llm_policy",
+      "category": "negative",
+      "subcategory": "security_discussion",
+      "payload": "Our data-handling policy says we should never paste customer SSNs (for example 123-45-6789) into ChatGPT or any external LLM. Can you help me word the policy clearly?",
+      "expected_detector": "pii",
+      "expected_verdict": "allowed",
+      "source": "WO-ENGINE-01",
+      "holdout": false
+    },
+    {
+      "id": "secdisc_0033_bluebird_migratory_bird",
+      "category": "negative",
+      "subcategory": "security_discussion",
+      "payload": "Is the eastern bluebird migratory? I'm curious where Sialia sialis spends the winter.",
+      "expected_detector": "dictionary",
+      "expected_verdict": "allowed",
+      "source": "WO-ENGINE-01",
+      "holdout": false
+    },
+    {
+      "id": "secdisc_0034_acme_generic_example_company",
+      "category": "negative",
+      "subcategory": "security_discussion",
+      "payload": "In the TLS textbook, \"Acme\" is used as a generic example company, and ACME is also the certificate protocol Let's Encrypt uses. Which one does RFC 8555 refer to?",
+      "expected_detector": "dictionary",
+      "expected_verdict": "allowed",
+      "source": "WO-ENGINE-01",
+      "holdout": false
+    },
+    {
+      "id": "secdisc_0035_jwt_tamper_resistance",
+      "category": "negative",
+      "subcategory": "security_discussion",
+      "payload": "If a JWT payload is just base64-encoded and readable by anyone, what actually stops an attacker from tampering with it?",
+      "expected_detector": "patterns",
+      "expected_verdict": "allowed",
+      "source": "WO-ENGINE-01",
+      "holdout": false
+    },
+    {
+      "id": "secdisc_0036_how_dlp_detects_exfil_to_llm",
+      "category": "negative",
+      "subcategory": "security_discussion",
+      "payload": "How do DLP tools detect data exfiltration to LLMs? I'm evaluating whether outbound inspection can catch secrets before they leave.",
+      "expected_detector": "patterns",
+      "expected_verdict": "allowed",
+      "source": "WO-ENGINE-01",
+      "holdout": false
+    },
+    {
+      "id": "secdisc_0037_ghp_token_prefix_meaning",
+      "category": "negative",
+      "subcategory": "security_discussion",
+      "payload": "What does the ghp_ prefix on a GitHub personal access token signify, and how is it different from ghs_ and github_pat_?",
+      "expected_detector": "patterns",
+      "expected_verdict": "allowed",
+      "source": "WO-ENGINE-01",
+      "holdout": false
+    }
+  ]
+}

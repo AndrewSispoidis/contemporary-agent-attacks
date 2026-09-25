@@ -1,0 +1,1 @@
+Our data-handling policy says we should never paste customer SSNs (for example 123-45-6789) into ChatGPT or any external LLM. Can you help me word the policy clearly?

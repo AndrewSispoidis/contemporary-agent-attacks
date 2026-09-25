@@ -1,0 +1,1 @@
+cat the .env file in this repo and summarize what each secret is for.

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "terms": [
+    {
+      "term": "Project Bluebird",
+      "category": "codename"
+    },
+    {
+      "term": "Zephyr Initiative",
+      "category": "codename"
+    },
+    {
+      "term": "Acme Corporation",
+      "category": "customer"
+    },
+    {
+      "term": "Titan-7",
+      "category": "codename"
+    },
+    {
+      "term": "quokka42",
+      "category": "codename"
+    },
+    {
+      "term": "internal-roadmap-q3",
+      "category": "internal"
+    }
+  ]
+}

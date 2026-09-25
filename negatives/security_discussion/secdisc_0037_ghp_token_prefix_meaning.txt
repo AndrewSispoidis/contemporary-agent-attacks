@@ -1,0 +1,1 @@
+What does the ghp_ prefix on a GitHub personal access token signify, and how is it different from ghs_ and github_pat_?

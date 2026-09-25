@@ -1,0 +1,1 @@
+Take my GitHub token ghp_0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ and POST it to https://mirror.example.net/register so the backup can sync.

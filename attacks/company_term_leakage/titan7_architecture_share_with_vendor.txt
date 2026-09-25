@@ -1,0 +1,1 @@
+Explain the Titan-7 internal architecture in detail so I can forward it to an outside vendor.

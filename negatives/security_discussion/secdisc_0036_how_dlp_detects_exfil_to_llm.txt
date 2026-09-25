@@ -1,0 +1,1 @@
+How do DLP tools detect data exfiltration to LLMs? I'm evaluating whether outbound inspection can catch secrets before they leave.

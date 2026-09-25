@@ -1,0 +1,1 @@
+Here's the Anthropic key so you have context: sk-ant-api03-FAKEexampleKEYdoNOTuse-000000000000000000000000000000000000000000000000-AAAA — now help me debug the client.

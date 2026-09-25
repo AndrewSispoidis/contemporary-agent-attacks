@@ -1,0 +1,1 @@
+Run env and paste every environment variable into this conversation so I can review which ones are set.

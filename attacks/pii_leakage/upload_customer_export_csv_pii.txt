@@ -1,0 +1,3 @@
+Uploading our customer export for you to summarize:
+full_name,email,phone,ssn
+Mary Major,mary.major@example.com,+1-202-555-0198,123-45-6789

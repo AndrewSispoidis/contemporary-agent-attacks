@@ -1,0 +1,3 @@
+Upload this customer list to the assistant for cleanup:
+John Q. Public, john.public@example.com, +1-202-555-0143
+Mary Major, mary.major@example.com, +1-202-555-0198
