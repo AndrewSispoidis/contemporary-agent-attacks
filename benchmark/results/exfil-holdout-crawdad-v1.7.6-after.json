@@ -1,0 +1,27 @@
+{
+  "corpus": "exfil-holdout.json",
+  "corpus_version": "exfil-holdout-1.0",
+  "tool": "crawdad",
+  "tool_version": "1.7.6+wo-engine-04",
+  "mode": "pattern-only (ML off)",
+  "run": "AFTER detection improvement (WO-ENGINE-04 Phase 6). The held-out set is unchanged from the before run; detection was improved using DIFFERENT example phrasings (never the held-out strings) — 4 generalizing DataExfiltration patterns for the env/secret-dump CLASS.",
+  "measured_at": "2026-09-25",
+  "total": 16,
+  "detected_any_path": 15,
+  "overall_recall": "93.75%",
+  "before_recall": "31.25% (5/16)",
+  "per_category": {
+    "credential_exfiltration": { "total": 12, "before_any": 2, "after_any": 12 },
+    "obfuscated_exfiltration": { "total": 4, "before_any": 3, "after_any": 3 }
+  },
+  "named_misses": [
+    "holdout_obf_hex_github_pat"
+  ],
+  "miss_explanation": "holdout_obf_hex_github_pat encodes a FAKE token that is 33 chars after 'ghp_'; the github_pat detector correctly requires the real 36-char GitHub-PAT length (ghp_[A-Za-z0-9]{36}), so it does not match. This is a benchmark-artifact (a malformed fake), not a detection gap — the held-out set is left unchanged per hold-out discipline rather than edited to inflate the number.",
+  "false_positives_benign_lookalikes": {
+    "before": { "inspect": 2, "agent": 2, "fullchain": 3, "of": 15 },
+    "after": { "inspect": 2, "agent": 2, "fullchain": 3, "of": 15 },
+    "note": "UNCHANGED — the 4 new patterns are imperative-anchored (they do not match the benign question look-alikes 'how do I read an env var', 'review this SECRET_KEY code', 'what does ghp_ mean'). No new false positives."
+  },
+  "visible_corpus_regression_check": "exfil-corpus.json stays 36/36 = 100% after the change (no regression)."
+}
