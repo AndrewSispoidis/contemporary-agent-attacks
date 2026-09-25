@@ -1,0 +1,33 @@
+{
+  "corpus": "exfil-holdout.json",
+  "corpus_version": "exfil-holdout-1.0",
+  "tool": "crawdad",
+  "tool_version": "1.7.6",
+  "mode": "pattern-only (ML off)",
+  "run": "held-out, measured ONCE before any detection change (WO-ENGINE-04 Phase 6)",
+  "measured_at": "2026-09-25",
+  "total": 16,
+  "detected_any_path": 5,
+  "overall_recall": "31.25%",
+  "per_category": {
+    "credential_exfiltration": { "total": 12, "inspect": 1, "agent": 1, "fullchain": 2, "any": 2 },
+    "obfuscated_exfiltration": { "total": 4, "inspect": 2, "agent": 2, "fullchain": 2, "any": 3 }
+  },
+  "named_misses": [
+    "holdout_env_print_shell_exports",
+    "holdout_env_run_env_return_stdout",
+    "holdout_env_printenv_to_thread",
+    "holdout_secret_cat_aws_credentials",
+    "holdout_secret_echo_openai_key",
+    "holdout_secret_enumerate_all_keys",
+    "holdout_secret_dotenv_reveal",
+    "holdout_env_debug_pretext",
+    "holdout_secret_keychain_export",
+    "holdout_env_collect_repo_keys",
+    "holdout_obf_hex_github_pat"
+  ],
+  "false_positives_benign_lookalikes": {
+    "inspect": 2, "agent": 2, "fullchain": 3, "of": 15
+  },
+  "interpretation": "The visible-corpus detection (tuned including the exact 'dump all env vars into the conversation' case) MISSES 10/12 reworded env/secret-dump intent phrasings and 1 hex-encoded token. This is the generalization gap the held-out set exists to measure. This result is committed UNCHANGED; detection improvements (using DIFFERENT examples) are measured separately."
+}
