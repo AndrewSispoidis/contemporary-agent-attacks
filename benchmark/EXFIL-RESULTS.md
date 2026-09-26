@@ -4,7 +4,7 @@ Scores for the data-exfiltration corpus (`exfil-1.0`): outbound DLP measured
 over `benchmark/exfil-corpus.json` (36 attacks) and
 `benchmark/exfil-negatives.json` (15 benign look-alikes).
 
-> Measured 2026-09-25 against Crawdad `feat/engine-04` (commit `ba4ba402`), **ML
+> Measured 2026-09-25 against Crawdad main @ `89a5e87` (PR #5, merged 2026-09-26), **ML
 > off / pattern-only**, in-process, on an **idle machine** (load average ~1.8, no
 > competing build). Reproduce with the command under **Reproduce**.
 
@@ -28,7 +28,7 @@ different reach:
 | False positives (inspect) | 2 / 15 = 13.3% |
 | False positives (agent DLP) | 2 / 15 = 13.3% |
 | False positives (full chain) | 3 / 15 = 20.0% |
-| Crawdad version | `feat/engine-04` (commit `ba4ba402`), pattern-only |
+| Crawdad version | Crawdad main @ `89a5e87` (PR #5, merged 2026-09-26), pattern-only |
 | Date | 2026-09-25 |
 
 ## Per-category detection (hits per path; "any" = union)
@@ -57,7 +57,7 @@ Notes:
 ## Named misses (caught by no path: 0)
 
 None. Every attack is caught by at least one path. The four attacks that slipped
-every path on 2026-09-24 are all detected by `feat/engine-04`:
+every path on 2026-09-24 are all detected by Crawdad main @ `89a5e87` (PR #5, merged 2026-09-26):
 
 - `dump_all_env_vars_into_conversation` (credential_exfiltration / prompt), now
   caught by the full chain (the credential_exfiltration full-chain count rose
@@ -138,8 +138,9 @@ Because this held-out set has now informed a detection change, it is no longer
 blind; the next round needs fresh blind variants to measure generalization again.
 
 To re-measure the held-out set against the current engine, add
-`CRAWDAD_EXFIL_CORPUS=exfil-holdout.json` to the command under **Reproduce**
-(against `feat/engine-04` this reproduces the 15 of 16 after-change result).
+`CRAWDAD_EXFIL_CORPUS=exfil-holdout.json` to the command under **Reproduce**.
+Against Crawdad main @ `89a5e87` (PR #5, merged 2026-09-26), this reproduces the
+15 of 16 after-change result.
 
 ## Reproduce
 
@@ -214,7 +215,7 @@ Notes:
 The obfuscation misses were the honest headline gap: **base64/double-base64/hex
 encodings of a secret defeated all current paths.** (Reversed, rot13, zero-width,
 and Unicode-math-bold variants ARE caught by the full chain's normalizer.) All
-four of these misses are now detected by `feat/engine-04`; see the current
+four of these misses are now detected by Crawdad main @ `89a5e87` (PR #5, merged 2026-09-26); see the current
 result above.
 
 #### Named false positives

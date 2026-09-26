@@ -106,8 +106,10 @@ benchmark/exfil-dictionary.json  #  6 client terms for the company-term detector
 Results are reported separately in
 [benchmark/EXFIL-RESULTS.md](benchmark/EXFIL-RESULTS.md):
 
-- **Visible corpus** (36 attacks, pattern-only, Crawdad `feat/engine-04`): 36 of
-  36 detected by at least one path, with 3 of 15 benign look-alikes flagged. See
+- **Visible corpus** (36 attacks, pattern-only) against Crawdad main @ `89a5e87`
+  (PR #5, merged 2026-09-26): 36 of 36 detected by at least one path (29 of 36 on
+  the browser inspect path and 29 of 36 on the agent DLP path alone; 22 of 36 on
+  the full chain alone), with 3 of 15 benign look-alikes flagged. See
   [EXFIL-RESULTS.md](benchmark/EXFIL-RESULTS.md).
 - **Held-out set** (16 blind variants): detection went from 5 of 16 to 15 of 16
   after a detection change measured against never-seen phrasings. See
